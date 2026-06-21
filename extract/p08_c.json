@@ -1,0 +1,335 @@
+[
+{
+"q": 53,
+"subject": "",
+"question": "'उड्डयन' आत्मकथा के लेखक हैं-",
+"options": ["गुलशेरानन्द", "केशव भारती", "अभयकाशी नागबीर्क", "अमृतलाल नागर"],
+"answer": 3,
+"summary": "'उड्डयन' आत्मकथा के लेखक अमृतलाल नागर हैं, जिनका जन्म 1916 ई. में हुआ था।",
+"mnemonic": "Uddayan = Amritlal Nagar, 'Amrit' udta hai aakash mein."
+},
+{
+"q": 54,
+"subject": "",
+"question": "'सबल बाग दिखाना' मुहावरे का अर्थ है-",
+"options": ["भूल लग जाना", "विस्तृत अनुभव होना", "पीढ़ा सहना", "अच्छी बातें कहकर बहकाना"],
+"answer": 3,
+"summary": "'सबल बाग दिखाना' मुहावरे का अर्थ है- अच्छी बातें कहकर बहकाना।",
+"mnemonic": "Sabz bagh dikhana = jhuthe sapne dikhakar behkana."
+},
+{
+"q": 55,
+"subject": "",
+"question": "जब कार्य एक क्रिया समाप्त करके दूसरी क्रिया से संलग्न होता है, तो पहली क्रिया क्या कहलाती है?",
+"options": ["इच्छाबोधक क्रिया", "नामबोधक क्रिया", "पूर्वकालिक क्रिया", "सहायक क्रिया"],
+"answer": 2,
+"summary": "जब एक क्रिया समाप्त करके दूसरी क्रिया से संलग्न होता है, तो पहली क्रिया पूर्वकालिक क्रिया कहलाती है।",
+"mnemonic": "Pehle wali kriya = Poorvkalik (poorv = pehle)."
+},
+{
+"q": 56,
+"subject": "",
+"question": "'मूले काल सकल मरि जाहीं। जब बसन्त ऋतु इन्ह सम्बाहर हैं।' इन काव्य पंक्तियों में कौन-सा अलंकार है?",
+"options": ["उत्प्रेक्षा", "उपमा", "रूपक", "अन्योक्ति"],
+"answer": 3,
+"summary": "इन काव्य पंक्तियों में 'घर', 'पहाड़' और 'नदी' किस संज्ञा के अंतर्गत आएगा से सम्बंधित प्रश्न में अन्योक्ति अलंकार है।",
+"mnemonic": "Doosre ke bahane apni baat = Anyokti."
+},
+{
+"q": 57,
+"subject": "",
+"question": "'घर', 'पहाड़' और 'नदी' किस संज्ञा में के अंतर्गत आएगा?",
+"options": ["भाववाचक संज्ञा", "जातिवाचक संज्ञा", "द्रव्यवाचक संज्ञा", "गुणवाचक संज्ञा"],
+"answer": 1,
+"summary": "'घर', 'पहाड़' और 'नदी' जातिवाचक संज्ञा के अंतर्गत आएगा, क्योंकि ये किसी वस्तु व्यक्ति या जाति की समस्त इकाई के लिए प्रयुक्त होते हैं।",
+"mnemonic": "Ghar, pahaad, nadi = jaati (class) = Jativachak."
+},
+{
+"q": 58,
+"subject": "",
+"question": "'उसने कुछ नहीं खाया' में 'कुछ' किस प्रकार का सर्वनाम का बोधक है?",
+"options": ["प्रश्नवाचक सर्वनाम", "सम्बन्धवाचक सर्वनाम", "निजवाचक सर्वनाम", "अनिश्चयवाचक सर्वनाम"],
+"answer": 3,
+"summary": "'उसने कुछ नहीं खाया' में 'कुछ' अनिश्चयवाचक सर्वनाम का बोधक है, क्योंकि किसी निश्चित वस्तु का बोध न होकर अनिश्चित वस्तु का बोध होता है।",
+"mnemonic": "'Kuch' = nishchit nahi = Anishchayvachak."
+},
+{
+"q": 59,
+"subject": "",
+"question": "'नियम प्रणाली' का प्रयोग किस प्रकार की शिक्षण में होता है?",
+"options": ["व्याकरण शिक्षण प्रणाली", "व्रात शिक्षण प्रणाली", "कम्प्यूटर शिक्षण प्रणाली", "सह लेखन शिक्षण प्रणाली"],
+"answer": 0,
+"summary": "'नियम प्रणाली' का प्रयोग व्याकरण शिक्षण प्रणाली में अधिक किया जाता है।",
+"mnemonic": "Niyam = rules = Vyakaran (grammar) shikshan."
+},
+{
+"q": 60,
+"subject": "",
+"question": "'आप' का तत्सम क्या है?",
+"options": ["आत्मन", "आप्तम", "आत्मा", "आपन"],
+"answer": 0,
+"summary": "'आप' का तत्सम रूप 'आत्मन' होता है।",
+"mnemonic": "Aap ka tatsam = Aatman."
+},
+{
+"q": 61,
+"subject": "Language-II : English",
+"question": "Choose an appropriate conjunction for the following sentence : Strike the iron ............... it is hot.",
+"options": ["As", "While", "Unless", "So"],
+"answer": 1,
+"summary": "रिक्त स्थान में 'While' का प्रयोग होगा क्योंकि यह 'is hot' के साथ उपयुक्त है।",
+"mnemonic": "Strike iron WHILE hot - jab garam ho tab."
+},
+{
+"q": 62,
+"subject": "Language-II : English",
+"question": "Identify the correct passive voice for the sentence : 'Please sit down'",
+"options": ["One should sit down", "I asked him to sit", "You are requested to sit down", "Sit down"],
+"answer": 2,
+"summary": "'Please sit down' का passive voice है 'You are requested to sit down'। Rule: please + M V₃ + Object.",
+"mnemonic": "Please sit down = You are REQUESTED to sit down."
+},
+{
+"q": 63,
+"subject": "Language-II : English",
+"question": "Which of the following alternatives is grammatically correct?",
+"options": ["Bread and milk are wholesome food", "Bread and milk is a wholesome food", "Bread and milk are a wholesome food", "Bread and milk is wholesome foods"],
+"answer": 1,
+"summary": "Bread and milk एक singular subject मानकर 'is' का प्रयोग होगा - 'Bread and milk is a wholesome food'।",
+"mnemonic": "Bread and milk = ek hi cheez = IS (singular)."
+},
+{
+"q": 64,
+"subject": "Language-II : English",
+"question": "What is the meaning of the word 'flake'?",
+"options": ["A piece of rain", "A small thin piece", "Both 1 and 2 are correct", "None of the above"],
+"answer": 1,
+"summary": "'flake' का अर्थ है- A small thin piece।",
+"mnemonic": "Flake = small thin piece (snowflake patla tukda)."
+},
+{
+"q": 65,
+"subject": "Language-II : English",
+"question": "'deep' and 'keep' are ............",
+"options": ["Simile", "Metaphor", "Rhyming words", "Alternative words"],
+"answer": 2,
+"summary": "'deep' और 'keep' Rhyming words हैं, क्योंकि इनकी ध्वनि या स्वर एक समान होते हैं।",
+"mnemonic": "deep-keep same sound = Rhyming words."
+},
+{
+"q": 66,
+"subject": "Language-II : English",
+"question": "The use of technology to enhance the learning process is called ................. in education.",
+"options": ["IT", "ICT", "Information technology", "Communication technology"],
+"answer": 1,
+"summary": "सीखने की प्रक्रिया को बढ़ाने के लिए तकनीक के उपयोग को शिक्षा में ICT (Information and Communication Technology) कहा जाता है।",
+"mnemonic": "Learning + technology = ICT."
+},
+{
+"q": 67,
+"subject": "Language-II : English",
+"question": "The sentence 'John will be leaving for England tomorrow' is in -",
+"options": ["Past Continuous Tense", "Present Indefinite Tense", "Future Continuous Tense", "Present Perfect Tense"],
+"answer": 2,
+"summary": "'John will be leaving for England tomorrow' Future Continuous Tense में है। Structure: Sub + will/shall + be + v + ing form + object.",
+"mnemonic": "will be + leaving (ing) = Future Continuous."
+},
+{
+"q": 68,
+"subject": "Language-II : English",
+"question": "Which of the following is a complex sentence?",
+"options": ["She lives in a locality of her liking", "Ravi did not like that bearded man", "He reads what he likes", "Ramesh is a man of relaxed habits"],
+"answer": 2,
+"summary": "'He reads what he likes' एक complex sentence है, जिसमें एक main clause और एक subordinate (dependent) clause होता है।",
+"mnemonic": "He reads WHAT he likes = main + dependent = Complex."
+},
+{
+"q": 69,
+"subject": "Language-II : English",
+"question": "The teachers in English Medium Schools usually teach their students in :",
+"options": ["the direct method", "the audiolingual method", "the bilingual method", "the structural method"],
+"answer": 3,
+"summary": "English Medium Schools में शिक्षक सामान्यतः structural method से पढ़ाते हैं, जो भाषा के संरचनात्मक पहलू पर बल देती है।",
+"mnemonic": "English Medium = Structural method."
+},
+{
+"q": 70,
+"subject": "Language-II : English",
+"question": "Find out the subject, in the following sentence : The beautiful rainbow soon faded away",
+"options": ["The beautiful", "Beautiful rainbow", "Rainbow soon faded away", "The beautiful rainbow"],
+"answer": 3,
+"summary": "'The beautiful rainbow soon faded away' sentence में subject है 'The beautiful rainbow', जो एक noun है जिस पर pronoun लगा सकते हैं।",
+"mnemonic": "Subject = The beautiful rainbow (poora noun phrase)."
+},
+{
+"q": 71,
+"subject": "Language-II : English",
+"question": "Supply the correct article in the following sentence : Raghu is ...................... one-eyed man.",
+"options": ["A", "An", "The", "Some"],
+"answer": 0,
+"summary": "'one-eyed man' में 'one' का word अंक का होकर 'w' की ध्वनि देता है, इसलिए 'A' article का प्रयोग होगा - Raghu is a one-eyed man.",
+"mnemonic": "one-eyed = 'w' sound = use A."
+},
+{
+"q": 72,
+"subject": "Language-II : English",
+"question": "Which of the following words is plural?",
+"options": ["Child", "Cattle", "Section", "Solution"],
+"answer": 1,
+"summary": "'cattle' का word plural है। Child- नवशिशु, Cattle- पशु, मवेशी, Section- अंश, भाग, Solution- समाधान, निदान।",
+"mnemonic": "Cattle = always plural (pashu hamesha bahuvachan)."
+},
+{
+"q": 73,
+"subject": "Language-II : English",
+"question": "Which of the following nouns is in plural?",
+"options": ["News", "Economics", "Tennis", "Crisis"],
+"answer": 0,
+"summary": "'News' word विकारी में विकरण से 's' की भांति का अनुसरण singular में करता है पर plural है।",
+"mnemonic": "News = plural form, singular use."
+},
+{
+"q": 74,
+"subject": "Language-II : English",
+"question": "Which of the following sentence is in Passive Voice?",
+"options": ["My nerves are bad tonight", "He takes his classes punctually", "A letter was written by yesterday", "It looks good and pleasant"],
+"answer": 2,
+"summary": "'A letter was written by yesterday' Passive Voice है। structure: Object + was/were + V3rd form + by + sub।",
+"mnemonic": "was written by = Passive Voice."
+},
+{
+"q": 75,
+"subject": "Language-II : English",
+"question": "Fill in the blank with appropriate preposition Neither he is sorry .............. his father.",
+"options": ["Or", "Nor", "For", "Upon"],
+"answer": 1,
+"summary": "Neither के साथ 'nor' का प्रयोग होता है - Neither he is sorry nor his father।",
+"mnemonic": "Neither ... NOR (jodi hoti hai)."
+},
+{
+"q": 76,
+"subject": "Language-II : English",
+"question": "Add the right suffix to pluralise the word 'Dictionary':",
+"options": ["es", "ies", "ics", "se"],
+"answer": 1,
+"summary": "The word dictionary में 'y' के पहले 'r' है, इसलिए 'y' को 'ies' में बदलते हैं - Dictionary = Dictionaries।",
+"mnemonic": "Dictionary -> Dictionaries (y se ies)."
+},
+{
+"q": 77,
+"subject": "Language-II : English",
+"question": "The Ganga is a symbol of -",
+"options": ["India's rich great growth", "India's rich immortals", "India's age-long culture and civilization", "India's bright future"],
+"answer": 2,
+"summary": "The Ganga is a symbol of India's age-long culture and civilization।",
+"mnemonic": "Ganga = age-long culture and civilization."
+},
+{
+"q": 78,
+"subject": "Language-II : English",
+"question": "What are the things loved by the author mentioned in the given passage?",
+"options": ["The snow-covered peaks of the Himalayas", "The rich fields and forests", "The flowing rivers and streams", "The snowy peaks and the deep valleys of the Himalayas"],
+"answer": 3,
+"summary": "passage में author ने Himalayas के snowy peaks और deep valleys को सबसे अधिक पसंद किया।",
+"mnemonic": "Author loves snowy peaks + deep valleys."
+},
+{
+"q": 79,
+"subject": "Language-II : English",
+"question": "Fill in the blank with appropriate preposition in the following sentence : I must congratulate you ............... your exam result.",
+"options": ["At", "In", "On", "Upon"],
+"answer": 2,
+"summary": "congratulate शब्द के बाद 'on' preposition का प्रयोग होता है - I must congratulate you on your exam result।",
+"mnemonic": "congratulate ON something."
+},
+{
+"q": 80,
+"subject": "Language-II : English",
+"question": "Fill in the blank with suitable article in the following sentence : Yesterday .............. European called at my office.",
+"options": ["A", "An", "The", "None of the above"],
+"answer": 0,
+"summary": "European word के पहले 'A' article का प्रयोग होगा क्योंकि 'Eu' की ध्वनि 'yu' (consonant) है, vowels (a, e, i, o, u) से पहले 'an' article का प्रयोग होता है।",
+"mnemonic": "European = 'yu' sound = use A."
+},
+{
+"q": 81,
+"subject": "Language-II : English",
+"question": "Fill in the blank with the correct article in the following sentence : .............. Ganga is .............. sacred river.",
+"options": ["The, a", "The, the", "A, a", "A, an"],
+"answer": 0,
+"summary": "नदियों के नाम के पहले 'The' article का प्रयोग होता है - The Ganga is a sacred river।",
+"mnemonic": "Nadi = The Ganga; river = a sacred river."
+},
+{
+"q": 82,
+"subject": "Language-II : English",
+"question": "Fill in the blank with correct conjunction. Walk quickly .............. you will not over-take him.",
+"options": ["Lest", "But", "And", "Else"],
+"answer": 3,
+"summary": "इस सentence में Else का प्रयोग होगा - Walk quickly else you will not over-take him।",
+"mnemonic": "Walk quickly ELSE you'll miss him."
+},
+{
+"q": 83,
+"subject": "Language-II : English",
+"question": "Fill in the blanks with the correct article : .............. Rajdhani express is considered as one of .............. fastest train in India.",
+"options": ["The, a", "The, the", "A, an", "The, the"],
+"answer": 0,
+"summary": "'The, the' का प्रयोग होगा, क्योंकि सबसे पहले sentence में train एक superlative degree का प्रयोग किया गया है - The Rajdhani express को one of के साथ माना जाता है।",
+"mnemonic": "The Rajdhani; one of THE fastest."
+},
+{
+"q": 84,
+"subject": "Language-II : English",
+"question": "Which prefix can be used before all the following words proper, polite, mortar, civil-",
+"options": ["Un-", "Il-", "Ir-", "Im-"],
+"answer": 3,
+"summary": "Im- (Proper, polite, mortar, movable) के चार correct prefix 'Im' का प्रयोग किया जाएगा - Improper, Impolite, Immortal आदि।",
+"mnemonic": "Improper, Impolite, Immortal = Im- prefix."
+},
+{
+"q": 85,
+"subject": "Language-II : English",
+"question": "Which of the following words is an Abstract Noun?",
+"options": ["Gold", "Crowd", "Humanity", "Tea"],
+"answer": 2,
+"summary": "'Humanity' एक Abstract Noun है। Abstract noun- A non-physical phrase जो किसी abstract concept को व्यक्त करता है।",
+"mnemonic": "Humanity = bhaav = Abstract Noun."
+},
+{
+"q": 86,
+"subject": "Language-II : English",
+"question": "Plural of maximum is .............",
+"options": ["Maxima", "Maximum", "Maximas", "Maxis"],
+"answer": 0,
+"summary": "'maximum' का plural रूप maxima होता है।",
+"mnemonic": "maximum -> maxima (um se a)."
+},
+{
+"q": 87,
+"subject": "Language-II : English",
+"question": "Add the right suffix to pluralize the word 'Memento'",
+"options": ["s", "ys", "es", "o"],
+"answer": 2,
+"summary": "The word 'Memento' में right suffix 'es' जोड़ने से plural noun बनेगा - Memento -> Mementoes।",
+"mnemonic": "Memento -> Mementoes (es suffix)."
+},
+{
+"q": 88,
+"subject": "Language-II : English",
+"question": "Identify the gender of the word 'czarina'",
+"options": ["Feminine Gender", "Masculine Gender", "Neuter Gender", "Common Gender"],
+"answer": 0,
+"summary": "'czarina' the feminine gender है। Feminine gender- A feminine gender denotes a female gender, यह czarina एक female को व्यक्त करता है।",
+"mnemonic": "czarina = stree = Feminine Gender."
+},
+{
+"q": 89,
+"subject": "Language-II : English",
+"question": "Fill in the blank with the appropriate preposition : The coolie carried a suitcase ............... his head.",
+"options": ["on", "in", "by", "at"],
+"answer": 0,
+"summary": "किसी चीज के ऊपर रखने के लिए 'on' preposition का प्रयोग होगा - The coolie carried a suitcase on his head।",
+"mnemonic": "carried suitcase ON head (upar = on)."
+}
+]

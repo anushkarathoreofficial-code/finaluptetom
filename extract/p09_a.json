@@ -1,0 +1,164 @@
+[
+  {
+    "q": 1,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Who gave the concept of multiple intelligence? / किसने बहुविमात्मक प्रज्ञा का प्रत्यय दिया?",
+    "options": ["Golman/गोलमैन", "Spearman/स्पीयरमैन", "John Mayor/जॉन मेयर", "Gardner/गार्डनर"],
+    "answer": 3,
+    "summary": "बहुविमात्मक प्रज्ञा या बहुबुद्धि का सिद्धांत हॉवर्ड गार्डनर द्वारा सन् 1983 में प्रतिपादित किया गया। गार्डनर के अनुसार बुद्धि के स्वरूप एकाकी न होकर बहुआयामी होते हैं।",
+    "mnemonic": "Gardner ka GARDEN me kai tarah ke phool = multiple intelligence"
+  },
+  {
+    "q": 2,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Dyslexia has difficulty in / डिस्लेक्सिया में पढ़ करने में कठिनाई होती है–",
+    "options": ["Reading/Spelling/पठन/वर्तनी में", "Expressing/व्यक्त करने में", "Standing/खड़े होने में", "Speaking/बोलने में"],
+    "answer": 0,
+    "summary": "डिस्लेक्सिया एक प्रकार का अधिगम अक्षमता विकार है जिसके निम्नलिखित लक्षण हैं—वर्णमाला कठिनाई, अक्षरों को पहचानने में कठिनाई, वर्तनी एवं पठन में कठिनाई।",
+    "mnemonic": "DYSlexia = D for Decoding/reading words"
+  },
+  {
+    "q": 3,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Which of the following is not the role of teacher in inclusive classroom? / निम्न में से क्या समावेशी कक्षा में शिक्षक की भूमिका नहीं है?",
+    "options": ["Make adequate seating arrangements according to the requirement of the child / बच्चों की आवश्यकता के अनुरूप बैठने की पर्याप्त व्यवस्था करनी चाहिए", "Teacher should not pay attention to differently abled child/शिक्षक को विभिन्न रूप से दिव्यांग बच्चों पर ध्यान नहीं देना चाहिए", "Teacher should encourage the children / शिक्षक को बच्चों को प्रोत्साहित करना चाहिए", "Teacher should devote extra time to teach learning disabled/शिक्षक को सीखने में अक्षम बच्चों को अतिरिक्त समय देना चाहिए"],
+    "answer": 1,
+    "summary": "समावेशी कक्षा में शिक्षक की भूमिका में सभी बच्चों पर ध्यान देना शामिल है; दिव्यांग बच्चों पर ध्यान न देना शिक्षक की भूमिका नहीं है।",
+    "mnemonic": "Inclusive me NOT paying attention = galat role"
+  },
+  {
+    "q": 4,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "In the class, questioning by students / कक्षा में छात्रों का प्रश्न पूछने को लिए",
+    "options": ["Should be discouraged/हतोत्साहित करना चाहिए", "Should be encouraged/प्रेरित करना चाहिए", "Should be stopped/रोक देना चाहिए", "Should not be allowed/अनुमति नहीं देनी चाहिए"],
+    "answer": 1,
+    "summary": "कक्षा में छात्रों के प्रश्न पूछने को प्रेरित करना चाहिए, क्योंकि यह शिक्षण-अधिगम प्रक्रिया में सक्रिय सहभागिता बढ़ाता है।",
+    "mnemonic": "Questions ko ENCOURAGE karo = active learning"
+  },
+  {
+    "q": 5,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Growth of a child is mainly related to / बच्चे की वृद्धि मुख्यतः सम्बन्धित है–",
+    "options": ["Physical Development/शारीरिक विकास से", "Social Development/सामाजिक विकास से", "Emotional Development/भावात्मक विकास से", "Moral Development/नैतिक विकास से"],
+    "answer": 0,
+    "summary": "बच्चे की वृद्धि मुख्यतः शारीरिक विकास से सम्बन्धित होती है, जिसमें शरीर में कोशिकाओं की गुणात्मक वृद्धि अर्थात् 'अभिवृद्धि' कहलाती है।",
+    "mnemonic": "GROWTH = body grows = Physical development"
+  },
+  {
+    "q": 6,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Human development starts from / मानव–विकास का प्रारम्भ होता है–",
+    "options": ["Pre-natal stage/गर्भावस्था से", "Pre-childhood stage/पूर्व-बाल्यावस्था से", "Post-childhood stage/उत्तर-बाल्यावस्था से", "Stage of infancy/शैशवावस्था से"],
+    "answer": 0,
+    "summary": "गर्भाधान के साथ ही विकास के क्रम का प्रारम्भ हो जाता है, अतः मानव विकास का प्रारम्भ गर्भावस्था से होता है।",
+    "mnemonic": "Development starts in WOMB = Pre-natal"
+  },
+  {
+    "q": 7,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "The Conditions of Learning' book is written by / 'द कंडीशन्स ऑफ लर्निंग' पुस्तक के लेखक हैं–",
+    "options": ["E.L. Thorndike/ई.एल. थार्नडाइक", "B.F. Skinner/बी.एफ. स्किनर", "R.M. Gagne/आर.एम. गेने", "J.P. Pavlov/आई.पी. पावलव"],
+    "answer": 2,
+    "summary": "'द कंडीशन्स ऑफ लर्निंग' पुस्तक आर.एम. गेने द्वारा लिखी गई है। थार्नडाइक की 'द एलिमेंट्स ऑफ साइकोलॉजी', स्किनर की 'वॉल्डेन टू' तथा पावलव की 'कंडीशन्ड रिफ्लेक्सेस' प्रसिद्ध पुस्तकें हैं।",
+    "mnemonic": "GAGNE ke GAANE = Conditions of Learning"
+  },
+  {
+    "q": 8,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "'Adolescence is the period of great stress, strain, storm and strike' is the statement of / 'किशोरावस्था बड़े संघर्ष, तनाव, तूफान का काल है' किसका कथन है?",
+    "options": ["Jersield/जरसील्ड", "Stanley Hall/स्टेनले हॉल", "Simpson/सिम्पसन", "Crow & Crow/क्रो एण्ड क्रो"],
+    "answer": 1,
+    "summary": "स्टेनले हॉल के अनुसार किशोरावस्था बड़े संघर्ष, तनाव, तूफान का काल है, जिसमें किशोर की व्यक्तित्व में परिवर्तन होते हैं।",
+    "mnemonic": "Stanley HALL = storm aur strain ka HALL"
+  },
+  {
+    "q": 9,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Total time taken in Indian Model of Micro Teaching is / सूक्ष्म शिक्षण के भारतीय प्रतिमान में कुल कितना समय लगता है?",
+    "options": ["36 minute/36 मिनट", "30 minute/40 मिनट", "45 minute/45 मिनट", "30 minute/30 मिनट"],
+    "answer": 0,
+    "summary": "सूक्ष्म शिक्षण के भारतीय प्रतिमान में सूक्ष्म शिक्षण चक्र की अवधि 36 मिनट होती है—पाठ योजना 6, शिक्षण 6, प्रतिपुष्टि 6, पुनः पाठ योजना निर्माण 6, पुनः शिक्षण 6, पुनः प्रतिपुष्टि 6 मिनट।",
+    "mnemonic": "Micro teaching = 6 steps x 6 min = 36 minute"
+  },
+  {
+    "q": 10,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Plateaus of learning are a characteristic feature of the learning process indicating a period where no improvement in performance is made' is the statement of / 'सीखने का पठार सीखने की प्रक्रिया का मुख्य अभिलक्षण है जो उस स्थिति को प्रदर्शित करता है जिसमें सीखने की प्रक्रिया में कोई उन्नति नहीं होती।' यह कथन किसका है?",
+    "options": ["Gates and others/गेट्स एवं अन्य", "Hollingworth/हॉलिंगवर्थ", "Ross/रॉस", "Skinner/स्किनर"],
+    "answer": 0,
+    "summary": "गेट्स एवं अन्य के अनुसार सीखने का पठार सीखने की प्रक्रिया का मुख्य अभिलक्षण है, जो उस स्थिति को प्रदर्शित करता है जिसमें सीखने में कोई उन्नति नहीं होती।",
+    "mnemonic": "Plateau ke GATE pe ruk gaye = Gates and others"
+  },
+  {
+    "q": 11,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "If a teacher finds a problematic child in the class, what should he does? / यदि शिक्षक कक्षा में एक छात्र को समस्यात्मक बालक के रूप में पाता है, तो उसे–",
+    "options": ["Punish the child/बच्चे को दण्ड देना चाहिए", "Ignore the child / बच्चे को नजरअंदाज कर देना चाहिए", "Provide counseling to the child / बच्चे को परामर्श देना चाहिए", "Send the child back to home immediately / तत्काल घर वापस भेज देना चाहिए"],
+    "answer": 2,
+    "summary": "समस्यात्मक बालक के होने में जिनके व्यवहार तथा व्यक्तित्व इस सीमा तक असामान्य होते हैं कि वे घर, विद्यालय तथा समाज में समस्याओं को जन्म देते हैं; ऐसे बालकों को परामर्श देना चाहिए।",
+    "mnemonic": "Problem child ko COUNSELING = solution"
+  },
+  {
+    "q": 12,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Co-curricular activities are mostly related to / पाठ्य–सहगामी क्रियाएँ मुख्यतः सम्बन्धित हैं–",
+    "options": ["Development of educational institutions / शैक्षिक संस्थानों के विकास से", "All round development of students / छात्रों के सर्वांगीण विकास से", "Professional development of students / छात्रों के व्यावसायिक विकास से", "Mental development of students / छात्रों के मानसिक विकास से"],
+    "answer": 1,
+    "summary": "पाठ्य–सहगामी क्रियाएँ छात्रों के सर्वांगीण विकास से सम्बन्धित हैं, जैसे शारीरिक, मानसिक, सामाजिक, नैतिक आदि का विकास।",
+    "mnemonic": "Co-curricular = ALL ROUND development"
+  },
+  {
+    "q": 13,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Whom of the following has not propounded the learning theory? / निम्न में से किसने अधिगम सिद्धांत का प्रतिपादन नहीं किया?",
+    "options": ["Kohler/कोहलर", "Skinner/स्किनर", "B.S. Bloom/बी.एस. ब्लूम", "Thorndike/थार्नडाइक"],
+    "answer": 2,
+    "summary": "बी.एस. ब्लूम तथा उसके सहयोगियों ने सन् 1956 में शिक्षण-अधिगम के उद्देश्यों का वर्गीकरण प्रस्तुत किया था; कोहलर, स्किनर, थार्नडाइक ने अधिगम सिद्धांत प्रतिपादित किया।",
+    "mnemonic": "BLOOM ki taxonomy = NOT learning theory"
+  },
+  {
+    "q": 14,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Meaning of stagnation in education is : / शिक्षा में अवरोधन का तात्पर्य है–",
+    "options": ["Taking not admission in school by the child/ बालक का विद्यालय में प्रवेश न लेना", "Not going to school by the child/ बालक का विद्यालय न जाना", "Leave the school by the child/ बालक द्वारा विद्यालय छोड़ देना", "Retention of a child in a same class for more than one year/बालक का एक ही कक्षा में अधिक समय तक रोके रखना"],
+    "answer": 3,
+    "summary": "शिक्षा में अवरोधन का अर्थ है—बालक को एक ही कक्षा में अधिक समय तक रोके रखना, अर्थात् किसी बालक का एक ही कक्षा में एक वर्ष से अधिक समय तक रुकना।",
+    "mnemonic": "Stagnation = ek hi class me RETENTION"
+  },
+  {
+    "q": 15,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "By following the skill, testing of previous knowledge comes? / निम्न में से किस कौशल से पूर्व ज्ञान का परीक्षण आता है?",
+    "options": ["Skill of stimulus-variation / उद्दीपन-परिवर्तन कौशल", "Skill of introduction/प्रस्तावना कौशल", "Skill of closure/समापन कौशल", "Skill of demonstration/प्रदर्शन कौशल"],
+    "answer": 1,
+    "summary": "प्रस्तावना कौशल से पूर्व ज्ञान का परीक्षण किया जाता है, ताकि उसके आधार पर शिक्षक छात्रों को नवीन ज्ञान से जोड़ सके। इसके घटक हैं—पूर्व ज्ञान से समन्वय, आवश्यक ज्ञान से प्रेरणा, प्रश्नों में तारतम्यता।",
+    "mnemonic": "INTRODUCTION (prastavna) me purva gyan ka test"
+  },
+  {
+    "q": 16,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Match the column–A and Column–B / स्तम्भ–A तथा स्तम्भ–B को सुमेलित कीजिए। Column-A: A. Animal Intelligence/एनिमल इंटेलिजेंस, B. Schedule of reinforcement/पुनर्बलन की अनुसूची, C. Law of Pragnanz/सारगर्भिता का नियम, D. Adaptation/अनुकूलन | Column-B: I. Gestalt/गेस्टॉल्ट, II. Piaget/पियाजे, III. Thorndike/थॉर्नडाइक, IV. Skinner/स्किनर",
+    "options": ["A-II, B-IV, C-III, D-I", "A-III, B-IV, C-I, D-II", "A-IV, B-II, C-I, D-III", "A-IV, B-III, C-I, D-II"],
+    "answer": 3,
+    "summary": "सही सुमेलन: एनिमल इंटेलिजेंस-थॉर्नडाइक, पुनर्बलन की अनुसूची-स्किनर, सारगर्भिता का नियम-गेस्टॉल्ट, अनुकूलन-पियाजे।",
+    "mnemonic": "Animal=Thorndike, Reinforce=Skinner, Pragnanz=Gestalt, Adapt=Piaget"
+  },
+  {
+    "q": 17,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Development is a never ending process'. This statement is related to which principle of development? / 'विकास कभी न समाप्त होने वाली प्रक्रिया है।' यह कथन विकास के किस सिद्धान्त से सम्बन्धित है?",
+    "options": ["Principle of interaction/अन्तःक्रिया का सिद्धांत", "Principle of integration/एकीकरण का सिद्धांत", "Principle of inter relationship/अन्तः सम्बन्ध का सिद्धांत", "Principle of continuity/निरन्तरता का सिद्धांत"],
+    "answer": 3,
+    "summary": "निरन्तरता का सिद्धांत—'विकास कभी न समाप्त होने वाली प्रक्रिया है', विकास एक सतत् और निरन्तर चलने वाली प्रक्रिया है।",
+    "mnemonic": "Never ending = CONTINUITY (nirantarata)"
+  },
+  {
+    "q": 18,
+    "subject": "बाल विकास एवं शिक्षण विधि",
+    "question": "Through which Amendment of Constitution education has become fundamental right? / संविधान के किस संशोधन से शिक्षा एक मौलिक अधिकार बन गई है?",
+    "options": ["86th Amendment/86वें संशोधन", "25th Amendment/25वें संशोधन", "52nd Amendment/52वें संशोधन", "22nd Amendment/22वें संशोधन"],
+    "answer": 0,
+    "summary": "भारतीय संविधान के 86वें संशोधन अधिनियम, 2002 द्वारा अनुच्छेद 21A जोड़कर 6 से 14 वर्ष तक के बच्चों को निःशुल्क तथा अनिवार्य शिक्षा को मौलिक अधिकार बनाया गया।",
+    "mnemonic": "86th Amendment = Education ka maulik adhikaar (Article 21A)"
+  }
+]

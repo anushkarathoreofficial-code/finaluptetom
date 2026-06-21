@@ -1,0 +1,452 @@
+[
+  {
+    "q": 40,
+    "subject": "भाषा",
+    "question": "दिए गए विकल्पों में से तद्भव शब्द का चयन कीजिए -",
+    "options": ["बैंक", "अमीर", "अग्नि", "मुँह"],
+    "answer": 3,
+    "summary": "'मुँह' तद्भव शब्द है, जिसका तत्सम मुख होता है।",
+    "mnemonic": "मुँह = तद्भव, मुख = तत्सम"
+  },
+  {
+    "q": 41,
+    "subject": "भाषा",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'सूर्य' का पर्यायवाची नहीं है?",
+    "options": ["दिनकर", "रवि", "अंशुमाली", "यामिनी"],
+    "answer": 3,
+    "summary": "'यामिनी' का अर्थ रात्रि है, यह सूर्य का पर्यायवाची नहीं है।",
+    "mnemonic": "यामिनी = रात, सूरज नहीं"
+  },
+  {
+    "q": 42,
+    "subject": "भाषा",
+    "question": "'मनोरथ' का सन्धि-विच्छेद होगा -",
+    "options": ["मनः + रथ", "मन + ओरथ", "मनो + रथ", "मन + रथ"],
+    "answer": 0,
+    "summary": "मनोरथ = मनः + रथ, यह विसर्ग सन्धि का उदाहरण है।",
+    "mnemonic": "मनः + रथ = मनोरथ (विसर्ग)"
+  },
+  {
+    "q": 43,
+    "subject": "भाषा",
+    "question": "विद्यार्थी उदाहरण है -",
+    "options": ["वृद्धि स्वर सन्धि का", "गुण स्वर सन्धि का", "व्यंजन सन्धि का", "दीर्घ स्वर सन्धि का"],
+    "answer": 3,
+    "summary": "विद्यार्थी = विद्या + अर्थी, दो समान स्वर मिलकर दीर्घ बनते हैं, अतः दीर्घ स्वर सन्धि।",
+    "mnemonic": "विद्या+अर्थी = दीर्घ सन्धि"
+  },
+  {
+    "q": 45,
+    "subject": "भाषा",
+    "question": "किसी छत में कुट पड़ी। कौन-सा कारक है?",
+    "options": ["अधिकरण कारक", "कर्म कारक", "सम्बन्ध कारक", "अपादान कारक"],
+    "answer": 0,
+    "summary": "स्थान/आधार का बोध कराने वाला अधिकरण कारक है, इसका चिह्न 'में/पर' होता है।",
+    "mnemonic": "में/पर = अधिकरण कारक"
+  },
+  {
+    "q": 46,
+    "subject": "भाषा",
+    "question": "नीचे लिखे वाक्य के लिए एक शब्द बनाइए जो पढ़ने में स्थिर रहता है -",
+    "options": ["सपाठी", "सपाठी", "पुनिश्चर", "क्षरित"],
+    "answer": 0,
+    "summary": "वाक्यांश के लिए एक शब्द बनाने का उदाहरण।",
+    "mnemonic": "वाक्यांश के लिए एक शब्द"
+  },
+  {
+    "q": 47,
+    "subject": "भाषा",
+    "question": "शेष कहते हैं -",
+    "options": ["जो शेष की उपासना करता है", "जो विष्णु की उपासना करता है", "जो विष्णु की उपासना करता है", "जो शक्ति की उपासना नहीं करता है"],
+    "answer": 1,
+    "summary": "विष्णु की उपासना करने वाले को 'शेव' कहा जाता है।",
+    "mnemonic": "विष्णु उपासक = शेव"
+  },
+  {
+    "q": 48,
+    "subject": "भाषा",
+    "question": "सेलिनी कहते हैं -",
+    "options": ["जो जल्दी बोलता है", "जो जिसकी चाल ठीक न हो", "जो बहुत बोलता है", "जो नहीं बोलता है"],
+    "answer": 2,
+    "summary": "बहुत बोलने वाले को सेलिनी कहते हैं।",
+    "mnemonic": "बहुत बोले = सेलिनी"
+  },
+  {
+    "q": 49,
+    "subject": "भाषा",
+    "question": "उपसर्ग 'परि' किसमें प्रयुक्त है -",
+    "options": ["क्रिया", "विशेषण विशेषण", "क्रिया विशेषण", "निपेक्षण"],
+    "answer": 1,
+    "summary": "'परि' उपसर्ग का प्रयोग।",
+    "mnemonic": "परि = उपसर्ग"
+  },
+  {
+    "q": 50,
+    "subject": "भाषा",
+    "question": "निम्नलिखित शब्दों में वर्तनी के अनुसार शुद्ध शब्द का चयन कीजिए-",
+    "options": ["आनुषंगिक", "आनुशंगिक", "अनुशंगिक", "आनुषंगिक"],
+    "answer": 0,
+    "summary": "शुद्ध वर्तनी 'आनुषंगिक' है।",
+    "mnemonic": "शुद्ध = आनुषंगिक"
+  },
+  {
+    "q": 51,
+    "subject": "भाषा",
+    "question": "वर्तनी के अनुसार शुद्ध शब्द है -",
+    "options": ["जन्माष्टी", "जन्माष्टमी", "जनमष्टी", "जन्माष्टि"],
+    "answer": 1,
+    "summary": "शुद्ध वर्तनी 'जन्माष्टमी' है।",
+    "mnemonic": "शुद्ध = जन्माष्टमी"
+  },
+  {
+    "q": 52,
+    "subject": "भाषा",
+    "question": "वर्तनी के अनुसार शुद्ध शब्द है -",
+    "options": ["सुषमा", "सुसमा", "सुषमा", "सुसमा"],
+    "answer": 0,
+    "summary": "शुद्ध वर्तनी 'सुषमा' है।",
+    "mnemonic": "शुद्ध = सुषमा"
+  },
+  {
+    "q": 53,
+    "subject": "भाषा",
+    "question": "'पुस्तकालय' शब्द में अव्यय प्रत्यय प्रयुक्त हुआ है।",
+    "options": ["आलय", "अव्वर", "आक", "ङ"],
+    "answer": 0,
+    "summary": "'पुस्तकालय' में 'आलय' प्रत्यय प्रयुक्त हुआ है।",
+    "mnemonic": "पुस्तक+आलय"
+  },
+  {
+    "q": 54,
+    "subject": "भाषा",
+    "question": "विधिया-",
+    "options": ["रंध", "आ", "आई", "ई"],
+    "answer": 0,
+    "summary": "'विधिया' शब्द में प्रत्यय का प्रयोग हुआ है।",
+    "mnemonic": "प्रत्यय प्रयोग"
+  },
+  {
+    "q": 55,
+    "subject": "भाषा",
+    "question": "मिथुक–",
+    "options": ["आ", "उ", "उक", "क"],
+    "answer": 2,
+    "summary": "'मिथुक' शब्द में 'उक' प्रत्यय का प्रयोग हुआ है।",
+    "mnemonic": "मिथ+उक"
+  },
+  {
+    "q": 56,
+    "subject": "भाषा",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'बादल' का पर्यायवाची है -",
+    "options": ["नीरद", "नीरज", "अम्बु", "अम्बुज"],
+    "answer": 0,
+    "summary": "'नीरद' शब्द 'बादल' का पर्यायवाची है।",
+    "mnemonic": "नीरद = बादल"
+  },
+  {
+    "q": 57,
+    "subject": "भाषा",
+    "question": "इन्द्रियों को जीतने वाले के लिए एक शब्द है -",
+    "options": ["दुरात्मा", "रत चित्त", "कृतज्ञ बुद्धि", "जितेन्द्रिय"],
+    "answer": 3,
+    "summary": "इन्द्रियों को जीतने वाला 'जितेन्द्रिय' कहलाता है।",
+    "mnemonic": "इन्द्रिय जीते = जितेन्द्रिय"
+  },
+  {
+    "q": 58,
+    "subject": "भाषा",
+    "question": "'आहा' आगत आ गए' वाक्य में 'आहा' शब्द है -",
+    "options": ["संज्ञा", "सर्वनाम", "अव्यय", "विशेषण"],
+    "answer": 1,
+    "summary": "'आहा' सर्वनाम शब्द है।",
+    "mnemonic": "आहा = सर्वनाम"
+  },
+  {
+    "q": 59,
+    "subject": "भाषा",
+    "question": "निम्नलिखित में से पुलिंग शब्द कौन-सा है?",
+    "options": ["नदी", "इलायची", "घाटा", "प्यास"],
+    "answer": 2,
+    "summary": "'घाटा' पुलिंग शब्द है, अन्य सभी स्त्रीलिंग हैं।",
+    "mnemonic": "घाटा = पुलिंग"
+  },
+  {
+    "q": 60,
+    "subject": "भाषा",
+    "question": "'पवन' का सन्धि-विच्छेद है -",
+    "options": ["प + वन", "पव + न", "पौ + वन", "पो + अन"],
+    "answer": 3,
+    "summary": "पवन = पो + अन, यह अयादि स्वर सन्धि का उदाहरण है।",
+    "mnemonic": "पो+अन = पवन (अयादि)"
+  },
+  {
+    "q": 61,
+    "subject": "अंग्रेजी",
+    "question": "Choose the option that is nearly the same in meaning Ancient",
+    "options": ["new", "mint", "aged", "sage"],
+    "answer": 2,
+    "summary": "Ancient का अर्थ 'aged' (पुराना/प्राचीन) होता है।",
+    "mnemonic": "Ancient = aged"
+  },
+  {
+    "q": 62,
+    "subject": "अंग्रेजी",
+    "question": "Choose the option that is nearly the same in meaning Plenty",
+    "options": ["lot", "scarce", "gift", "bonus"],
+    "answer": 0,
+    "summary": "Plenty का अर्थ 'lot' (पर्याप्त मात्रा) होता है।",
+    "mnemonic": "Plenty = lot"
+  },
+  {
+    "q": 63,
+    "subject": "अंग्रेजी",
+    "question": "Choose the word that can join the two given sentences. Write Properly. Don't write at all.",
+    "options": ["but", "and", "or", "or"],
+    "answer": 0,
+    "summary": "दो वाक्यों को जोड़ने के लिए 'but' सही है। (Write Properly or Don't write at all.)",
+    "mnemonic": "join = but"
+  },
+  {
+    "q": 64,
+    "subject": "अंग्रेजी",
+    "question": "Choose the word that can join the two given sentences. She is pretty. She is proud.",
+    "options": ["but", "because", "while", "not"],
+    "answer": 0,
+    "summary": "दो वाक्यों को जोड़ने के लिए 'but' सही है (She is pretty but proud.)",
+    "mnemonic": "pretty but proud"
+  },
+  {
+    "q": 65,
+    "subject": "अंग्रेजी",
+    "question": "Identify the verb in the given sentence. The leaves were yellow and sticky.",
+    "options": ["leaves", "were", "yellow", "sticky"],
+    "answer": 1,
+    "summary": "'were' इस वाक्य में क्रिया (verb) है।",
+    "mnemonic": "were = verb"
+  },
+  {
+    "q": 66,
+    "subject": "अंग्रेजी",
+    "question": "Choose the plural of the given word knife",
+    "options": ["knife", "knifes", "knives", "knifey"],
+    "answer": 2,
+    "summary": "knife का बहुवचन 'knives' होता है।",
+    "mnemonic": "knife → knives"
+  },
+  {
+    "q": 67,
+    "subject": "अंग्रेजी",
+    "question": "Choose the correct spelling",
+    "options": ["recieve", "receive", "recieve", "receeve"],
+    "answer": 1,
+    "summary": "सही वर्तनी 'receive' है।",
+    "mnemonic": "receive (i before e... receive अपवाद)"
+  },
+  {
+    "q": 68,
+    "subject": "अंग्रेजी",
+    "question": "Choose the correct spelling",
+    "options": ["posess", "possess", "posses", "possesss"],
+    "answer": 1,
+    "summary": "सही वर्तनी 'possess' है।",
+    "mnemonic": "possess = double s, double s"
+  },
+  {
+    "q": 69,
+    "subject": "अंग्रेजी",
+    "question": "Choose the incorrect spelling in mathematics.",
+    "options": ["loner", "mathemetics", "grammar", "arithmetic"],
+    "answer": 1,
+    "summary": "गलत वर्तनी 'mathemetics' है; सही 'mathematics' है।",
+    "mnemonic": "mathematics सही"
+  },
+  {
+    "q": 70,
+    "subject": "अंग्रेजी",
+    "question": "Which is not synonym of the given word? quarrel",
+    "options": ["argument", "bickering", "discord", "people"],
+    "answer": 3,
+    "summary": "'people' quarrel का पर्यायवाची नहीं है।",
+    "mnemonic": "people ≠ quarrel"
+  },
+  {
+    "q": 71,
+    "subject": "अंग्रेजी",
+    "question": "Choose the option to which you cannot add-er at its end and form a new word.",
+    "options": ["soon", "quick", "time", "wick"],
+    "answer": 2,
+    "summary": "'time' के साथ -er नहीं जुड़ता; quicker, wicker, sooner बनते हैं।",
+    "mnemonic": "time + er नहीं"
+  },
+  {
+    "q": 72,
+    "subject": "अंग्रेजी",
+    "question": "Choose the best option to complete the given sentence. There aren't ............people here",
+    "options": ["much", "many", "a lot", "some"],
+    "answer": 1,
+    "summary": "countable noun 'people' के लिए 'many' का प्रयोग होता है।",
+    "mnemonic": "people = many"
+  },
+  {
+    "q": 73,
+    "subject": "अंग्रेजी",
+    "question": "Choose the best option to complete the given sentence. You should.............your bow work.",
+    "options": ["make", "made", "work", "give"],
+    "answer": 2,
+    "summary": "'You should work your bow work' सही है।",
+    "mnemonic": "should + work"
+  },
+  {
+    "q": 74,
+    "subject": "अंग्रेजी",
+    "question": "Choose the correct word order",
+    "options": ["I lent my pencil him", "My pencil I lent him", "My pencil him I lent", "I lent him my pencil"],
+    "answer": 3,
+    "summary": "Basic sentence pattern (S+V+O+Other words) follows, अतः option (d) सही है।",
+    "mnemonic": "S+V+O = I lent him my pencil"
+  },
+  {
+    "q": 75,
+    "subject": "अंग्रेजी",
+    "question": "Choose the option to which 'ly' can be add-ly at the end to form a new word.",
+    "options": ["soon", "late", "near", "fast"],
+    "answer": 1,
+    "summary": "'ly' option (b) late के अंत में जुड़कर नया शब्द (lately) बनाता है।",
+    "mnemonic": "late + ly = lately"
+  },
+  {
+    "q": 76,
+    "subject": "अंग्रेजी",
+    "question": "Which prefix can be used with the following words?",
+    "options": ["not", "be", "is", "mis"],
+    "answer": 3,
+    "summary": "Prefix 'mis' का प्रयोग शब्द के आरम्भ में होता है (mistake, chief = mischief, behave = misbehave)।",
+    "mnemonic": "mis- = गलत अर्थ"
+  },
+  {
+    "q": 77,
+    "subject": "अंग्रेजी",
+    "question": "Fill in the blank with correct preposition He deals.................rice.",
+    "options": ["in", "with", "at", "on"],
+    "answer": 0,
+    "summary": "'deal' के साथ preposition 'in' का प्रयोग होता है।",
+    "mnemonic": "deals in rice"
+  },
+  {
+    "q": 78,
+    "subject": "अंग्रेजी",
+    "question": "Which suffix can be used with the following words? spoon, mouth",
+    "options": ["ily", "y", "er", "ful"],
+    "answer": 3,
+    "summary": "Suffix 'ful' spoon, mouth के साथ जुड़कर नया शब्द बनाता है (spoonful, mouthful)।",
+    "mnemonic": "spoonful, mouthful"
+  },
+  {
+    "q": 79,
+    "subject": "अंग्रेजी",
+    "question": "For the question below, choose the best answer Shall we go to the gym now?",
+    "options": ["I'm too tired", "It's very good", "Not at all", "I suppose you can"],
+    "answer": 0,
+    "summary": "'Shall we go to the gym now?' का सर्वोत्तम उत्तर 'I'm too tired' है।",
+    "mnemonic": "tired → can't go gym"
+  },
+  {
+    "q": 80,
+    "subject": "अंग्रेजी",
+    "question": "Which is the adjective in the given sentence? The tall girl met a Boy.",
+    "options": ["tall", "girl", "met", "boy"],
+    "answer": 0,
+    "summary": "'Tall' विशेषण (adjective) है जो noun girl के बारे में बताता है।",
+    "mnemonic": "tall = adjective"
+  },
+  {
+    "q": 81,
+    "subject": "अंग्रेजी",
+    "question": "Which is not an antonym of the given word? lovely",
+    "options": ["tall", "ugly", "drab", "awful"],
+    "answer": 0,
+    "summary": "'Tall', lovely का antonym नहीं है; ugly, drab, awful इसके विलोम हैं।",
+    "mnemonic": "tall ≠ lovely का विलोम"
+  },
+  {
+    "q": 82,
+    "subject": "अंग्रेजी",
+    "question": "Choose the best answer What is your city like?",
+    "options": ["I have no idea", "It's small, but nice", "I like it a lot", "I don't like it"],
+    "answer": 1,
+    "summary": "'It's small, but nice' सर्वोत्तम उत्तर है।",
+    "mnemonic": "small but nice"
+  },
+  {
+    "q": 83,
+    "subject": "अंग्रेजी",
+    "question": "Identify the adverb in the given sentence The wicked boy slapped the girl loudly.",
+    "options": ["wicked", "boy", "slapped", "loudly"],
+    "answer": 3,
+    "summary": "'loudly' adverb है क्योंकि यह क्रिया (verb) के बारे में बताता है।",
+    "mnemonic": "loudly = adverb"
+  },
+  {
+    "q": 84,
+    "subject": "अंग्रेजी",
+    "question": "Choose the word opposite in meaning to the given word drought",
+    "options": ["flood", "dryness", "trought", "river"],
+    "answer": 0,
+    "summary": "drought (सूखा) का विलोम 'flood' (बाढ़) है।",
+    "mnemonic": "drought ↔ flood"
+  },
+  {
+    "q": 85,
+    "subject": "अंग्रेजी",
+    "question": "Choose the word opposite in meaning to the given word ability",
+    "options": ["feasibility", "inability", "disability", "inability"],
+    "answer": 1,
+    "summary": "ability का विलोम 'inability' है।",
+    "mnemonic": "ability ↔ inability"
+  },
+  {
+    "q": 86,
+    "subject": "अंग्रेजी",
+    "question": "Choose the correct word order",
+    "options": ["Music jack loves", "Music loves jack", "Jack loves music", "Loves music jack"],
+    "answer": 2,
+    "summary": "Basic sentence pattern (S+V+O) follows, अतः 'Jack loves music' सही है।",
+    "mnemonic": "S+V+O = Jack loves music"
+  },
+  {
+    "q": 87,
+    "subject": "अंग्रेजी",
+    "question": "Choose the correct pronoun It was my brother who went with me...........",
+    "options": ["he", "her", "she", "his"],
+    "answer": 2,
+    "summary": "सही pronoun 'she' है, क्योंकि यह उसी bhai के साथ जाने वाली है।",
+    "mnemonic": "brother → she went"
+  },
+  {
+    "q": 88,
+    "subject": "अंग्रेजी",
+    "question": "What are words that spell the same backwards called?",
+    "options": ["Anagram", "Abbreviation", "Crossword", "Palindrome"],
+    "answer": 3,
+    "summary": "जो शब्द उल्टे पढ़ने पर समान हों उन्हें Palindrome कहते हैं (जैसे Madam, racecar)।",
+    "mnemonic": "उल्टा-सीधा समान = Palindrome"
+  },
+  {
+    "q": 89,
+    "subject": "अंग्रेजी",
+    "question": "Choose the plural of the given word box",
+    "options": ["box", "boxes", "boxs", "boxer"],
+    "answer": 1,
+    "summary": "box का बहुवचन 'boxes' होता है।",
+    "mnemonic": "box → boxes"
+  },
+  {
+    "q": 90,
+    "subject": "अंग्रेजी",
+    "question": "Choose the singular of the given word Leaves",
+    "options": ["leave", "leaf", "leav", "leafs"],
+    "answer": 1,
+    "summary": "Leaves का एकवचन 'Leaf' है।",
+    "mnemonic": "Leaves → Leaf"
+  }
+]

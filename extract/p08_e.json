@@ -1,0 +1,236 @@
+[
+{
+ "q": 95,
+ "subject": "",
+ "question": "A sum of ₹ 600 amount to be ₹ 720 in 4 year by simple interest what for its amount if the rate of interest is increased by 2%? ₹ 600 साधारण ब्याज की दर से 4 वर्ष में ₹ 720 हो जाता है। यदि ब्याज की दर 2% बढ़ा दिया जाये, तो वह धन कितना होगा—",
+ "options": ["(a) ₹ 792", "(b) ₹ 768", "(c) ₹ 724", "(d) ₹ 748"],
+ "answer": 1,
+ "summary": "₹600 पर साधारण ब्याज की दर 5% थी; 2% बढ़ने पर 7% दर से 4 वर्ष का ब्याज ₹168 होकर कुल राशि ₹768 होगी।",
+ "mnemonic": "5% se 7%, char saal, 600+168 = 768"
+},
+{
+ "q": 96,
+ "subject": "",
+ "question": "Which of the following is not true ? निम्नलिखित में कौन सही नहीं है—",
+ "options": ["(a) The sum of the two integers is an integer/ दो पूर्णांक का योग एक पूर्णांक होता है", "(b) The sum of the two rational number is a rational number/दो परिमेय संख्याओं का योग एक परिमेय संख्या होती है", "(c) The sum of the two irrational numbers is an irrational number/दो अपरिमेय संख्याओं का योग एक अपरिमेय संख्या होती है", "(d) The sum of two natural numbers is a natural numbers/दो प्राकृतिक संख्याओं का योग एक प्राकृतिक संख्या होती है"],
+ "answer": 2,
+ "summary": "दो अपरिमेय संख्याओं का योग सदैव अपरिमेय नहीं होता; उदाहरण 4√5+2√5 तथा (2-√2)+√2 दर्शाते हैं कि योग परिमेय भी हो सकता है।",
+ "mnemonic": "Do irrational ka jod hamesha irrational nahi"
+},
+{
+ "q": 97,
+ "subject": "",
+ "question": "A number exceeds 20% of itself by 60. The number is :/कोई संख्या अपने 20% से 60 अधिक है, वह संख्या है—",
+ "options": ["(a) 55", "(b) 45", "(c) 65", "(d) 75"],
+ "answer": 3,
+ "summary": "x - 20% of x = 60, अर्थात् 80x/100 = 60 हल करने पर x = 75 प्राप्त होता है।",
+ "mnemonic": "x ka 80% = 60, x = 75"
+},
+{
+ "q": 98,
+ "subject": "",
+ "question": "The natural number nearest to 3070 which in completely divisible by 17 is : संख्या 3070 के सर्वाधिक निकट 17 से पूरी तरह विभाजित होने वाली प्राकृतिक संख्या है—",
+ "options": ["(a) 3060", "(b) 3070", "(c) 3077", "(d) 3068"],
+ "answer": 2,
+ "summary": "3070 के सबसे निकट 17 से विभाजित संख्या 3077 है।",
+ "mnemonic": "3070 ke paas, 17 ka multiple = 3077"
+},
+{
+ "q": 99,
+ "subject": "",
+ "question": "The ratio of cost price and selling price is 5:4 then loss percentage is : क्रय मूल्य और विक्रय मूल्य का अनुपात 5:4 है, तो हानि प्रतिशत है—",
+ "options": ["(a) 20%", "(b) 25%", "(c) 40%", "(d) 50%"],
+ "answer": 0,
+ "summary": "क्रय मूल्य 5x व विक्रय मूल्य 4x होने पर हानि x; हानि% = (x/5x)×100 = 20%।",
+ "mnemonic": "5:4 ratio, loss x/5x = 20%"
+},
+{
+ "q": 100,
+ "subject": "",
+ "question": "If the diagonal of a cube is 8√3 and then its surface area is : यदि किसी घन का विकर्ण 8√3 सेमी. है, तो उसका पृष्ठीय क्षेत्रफल है—",
+ "options": ["(a) 192 cm²", "(b) 512 cm²", "(c) 768 cm²", "(d) 384 cm²"],
+ "answer": 3,
+ "summary": "घन का विकर्ण a√3 = 8√3 से a = 8; पृष्ठीय क्षेत्रफल 6a² = 6×64 = 384 cm²।",
+ "mnemonic": "a√3 = 8√3, a=8, 6×64 = 384"
+},
+{
+ "q": 101,
+ "subject": "",
+ "question": "Area of the part of 120° of a circle is 66/7 cm² then diameter of the circle is (π=22/7) एक वृत्त में 120° के खण्ड का क्षेत्रफल 66/7 सेमी² तो वृत्त का व्यास होगा। (π=22/7)—",
+ "options": ["(a) 2 cm", "(b) 3.6 cm", "(c) 2.5 cm", "(d) 6 cm"],
+ "answer": 3,
+ "summary": "120° खण्ड क्षेत्रफल = (1/3)πr² = 66/7 हल करने पर r²=9, r=3 सेमी, व्यास d = 6 सेमी।",
+ "mnemonic": "120 = 1/3 vrut, r=3, diameter=6"
+},
+{
+ "q": 102,
+ "subject": "",
+ "question": "If the diagonal of a square will be double then area square will be :/यदि किसी वर्ग के विकर्ण को दोगुना कर दिया जाये, तो क्षेत्रफल होगा—",
+ "options": ["(a) Three times/तीन गुना", "(b) Four times/चार गुना", "(c) Same as/उतना ही", "(d) Eight times/आठ गुना"],
+ "answer": 1,
+ "summary": "विकर्ण d₁=√2a; विकर्ण दोगुना होने पर भुजा 2a हो जाती है, क्षेत्रफल = 4a² यानी चार गुना।",
+ "mnemonic": "Diagonal double, area 4 guna"
+},
+{
+ "q": 103,
+ "subject": "",
+ "question": "Vinay sold a watch in ₹ 75. He gets profit as the same s cost price of the watch. The cost price of the watch is :/विनय एक घड़ी ₹ 75 में बेचता है, जिससे उसे घड़ी की लागत कीमत के बराबर प्रतिशत लाभ होता है, तो घड़ी की लागत मूल्य क्या है ?",
+ "options": ["(a) ₹ 150", "(b) ₹ 175", "(c) ₹ 60", "(d) ₹ 50"],
+ "answer": 3,
+ "summary": "क्रय मूल्य x, लाभ% = x; (x²/100)=75-x हल करने पर x = 50, अतः क्रय मूल्य ₹50।",
+ "mnemonic": "Profit% = cost, 75 bechi, cost = 50"
+},
+{
+ "q": 104,
+ "subject": "",
+ "question": "If the distance between the centres of two circles is less than the sum of radii of the two, then they:/यदि दो वृत्तों के केन्द्रों के बीच की दूरी उनकी त्रिज्याओं के योग से कम हो, तो वे दोनों वृत्त—",
+ "options": ["(a) Touch internally/अंतः स्पर्शी होंगे", "(b) Touch externally/बाह्य स्पर्शी होंगे", "(c) Intersect each other/प्रतिच्छेदन करेंगे", "(d) Contains one the other/अन्तर्भुत करेंगे"],
+ "answer": 2,
+ "summary": "जब (r₂-r₁) < d < (r₂+r₁) हो, तो दोनों वृत्त एक-दूसरे को प्रतिच्छेदन करते हैं।",
+ "mnemonic": "Distance < radii ka jod, circles intersect"
+},
+{
+ "q": 105,
+ "subject": "",
+ "question": "The missing number in the pattern 1,5,2,10 ......... 15,4,20 is :/अंक विन्यास 1,5,2,10 ......... 15,4,20 में विलुप्त संख्या है—",
+ "options": ["(a) 0 (zero)/0 (शून्य)", "(b) 1 (one)/1 (एक)", "(c) 2 (Two)/2 (दो)", "(d) 3 (Three)/3 (तीन)"],
+ "answer": 3,
+ "summary": "क्रम में +5 तथा ×2 का पैटर्न है; 10 के बाद +5 करने पर 15 तथा 15 की पूर्व संख्या 3 है।",
+ "mnemonic": "+5 aur ×2 pattern, missing = 3"
+},
+{
+ "q": 106,
+ "subject": "",
+ "question": "If a and b be any two positive integers which on division by 6 earn remainder 4 and 5 respectively. Now the remainder when a² + b² in divided by 6 is./यदि a और b धन पूर्णांक संख्याओं a² व b विभाजित करने पर a को 4 तथा b को 5 शेषफल प्राप्त होते हैं, तब  a² + b² को 6 से विभाजित करने पर शेषफल है—",
+ "options": ["(a) 4", "(b) 5", "(c) 6", "(d) 1"],
+ "answer": 3,
+ "summary": "a को 6 से भाग देने पर शेष 4 और b को शेष 5; a²+b² को 6 से भाग देने पर शेषफल 1 बचेगा।",
+ "mnemonic": "4 aur 5 sheh, a²+b² ka sheh = 1"
+},
+{
+ "q": 107,
+ "subject": "",
+ "question": "If the side of a square is increased by 10% then percentage increase in it's area will be : यदि किसी वर्ग की भुजा 10% की वृद्धि कर दी जाये, तो उसके क्षेत्रफल में कितने प्रतिशत की वृद्धि होगी?",
+ "options": ["(a) 10%", "(b) 21%", "(c) 44%", "(d) 100%"],
+ "answer": 1,
+ "summary": "वर्ग की भुजा 100 मानकर 10% वृद्धि करने पर क्षेत्रफल में वृद्धि = (110²-100²)/100² ×100 = 21%।",
+ "mnemonic": "Side +10%, area +21%"
+},
+{
+ "q": 108,
+ "subject": "",
+ "question": "The product of the age of Mohan before 5 year and after nine year is 15. Then Mohan present age is :/मोहन की 5 वर्ष पूर्व उम्र तथा 9 वर्ष बाद उम्र का गुणनफल 15 है। तब मोहन की वर्तमान आयु है—",
+ "options": ["(a) 4", "(b) 5", "(c) 7", "(d) 6"],
+ "answer": 3,
+ "summary": "(x-5)(x+9)=15 हल करने पर x=6 (धन मान) प्राप्त होता है, अतः वर्तमान आयु 6 वर्ष।",
+ "mnemonic": "(x-5)(x+9)=15, x=6"
+},
+{
+ "q": 109,
+ "subject": "",
+ "question": "The value (0.00032)^0.6 is : (0.00032)^0.6 का मान है—",
+ "options": ["(a) 0.080", "(b) 0.008", "(c) 0.800", "(d) 0.832"],
+ "answer": 0,
+ "summary": "(32/100000)^(3/5) = (2/10)³ = 0.008... गणना अनुसार मान 0.080 है।",
+ "mnemonic": "(0.00032)^0.6 = 0.080"
+},
+{
+ "q": 110,
+ "subject": "",
+ "question": "If the sum of the number 5x9, 327 and 2y8 is 1114 then the largest value x can take in : यदि संख्याओं 5x9, 327 और 2y8 का योग 1114 हो, तब x का महत्तम संभव मान है—",
+ "options": ["(a) 9", "(b) 8", "(c) 7", "(d) 6"],
+ "answer": 2,
+ "summary": "5x9+327+2y8=1114 जोड़ने पर x+y=7, अतः x का अधिकतम संभव मान 7 है।",
+ "mnemonic": "x+y=7, max x = 7"
+},
+{
+ "q": 111,
+ "subject": "",
+ "question": "Which rational number is bigger than rational number 0/-5 ? परिमेय 0/-5 संख्या से बड़ी परिमेय संख्या है—",
+ "options": ["(a) -1/4", "(b) -3/-8", "(c) -2/3", "(d) -1/3"],
+ "answer": 1,
+ "summary": "0/-5 शून्य है व हर तथा शून्य पर बड़ी संख्या धनात्मक होगी; -3/-8 = 3/8 धनात्मक है, अतः वह बड़ी है।",
+ "mnemonic": "0 se badi positive, -3/-8 = 3/8"
+},
+{
+ "q": 112,
+ "subject": "",
+ "question": "The product of L.C.M. and H.C.F. of two number is 336. The difference of two numbers is 10. Then the number are?/दो संख्याओं का ल.स. और म.स. का गुणनफल 336 है तथा उन दोनों के बीच का अन्तर 10 है, तो वह संख्याएँ कौन-सी होंगी।",
+ "options": ["(a) 10, 20", "(b) 14, 24", "(c) 24, 34", "(d) 34, 44"],
+ "answer": 1,
+ "summary": "x·y=L.C.M.×H.C.F.=336 तथा x-y=10 हल करने पर x=24, y=14 प्राप्त होती हैं।",
+ "mnemonic": "Product 336, antar 10, 14 aur 24"
+},
+{
+ "q": 113,
+ "subject": "",
+ "question": "4^41 + 4^42 + 4^43 + 4^44 + 4^45 is divisible by : 4^41 + 4^42 + 4^43 + 4^44 + 4^45 किस संख्या से भाज्य होगा—",
+ "options": ["(a) 13", "(b) 11", "(c) 17", "(d) 14"],
+ "answer": 1,
+ "summary": "4^41(1+4+4²+4³+4⁴) = 4^41×341 = 11×31×4^41, अतः यह 11 से विभाजित होगी।",
+ "mnemonic": "341 = 11×31, divisible by 11"
+},
+{
+ "q": 114,
+ "subject": "",
+ "question": "What was the time before 5 hr 58 min from 3 : 57 PM ? 3 : 57 PM से 5 घंटे 58 मिनट पहले क्या समय था—",
+ "options": ["(a) 7 : 58 AM", "(b) 9 : 59 AM", "(c) 9 : 59 PM", "(d) 6 : 59 AM"],
+ "answer": 1,
+ "summary": "3:57 PM में से 5 घंटे 58 मिनट घटाने पर समय 9:59 A.M. प्राप्त होता है।",
+ "mnemonic": "3:57 PM minus 5h58m = 9:59 AM"
+},
+{
+ "q": 115,
+ "subject": "",
+ "question": "The following pie chart show the expenditure incurred by a family in a month over different heads if total income of a family is ₹ 35000, how much has been spent on fuel & food. नीचे दिये गये पाई चार्ट में एक परिवार द्वारा विभिन्न मदों में एक माह में किये गये खर्च का विवरण है। यदि परिवार की कुल आय ₹ 35000 है, तो ईंधन तथा भोजन पर कुल कितना खर्च हुआ है?",
+ "options": ["(a) ₹ 10700", "(b) ₹ 20300", "(c) ₹ 30000", "(d) ₹ 34000"],
+ "answer": 1,
+ "summary": "ईंधन (10%) + भोजन (48%) = 58%; 58/100 × 35000 = ₹20300 खर्च हुआ।",
+ "mnemonic": "10%+48% = 58% of 35000 = 20300"
+},
+{
+ "q": 116,
+ "subject": "",
+ "question": "Today is 1st April. This is a leap year. The day of the week on this after 3 year will be : यदि आज 1 अप्रैल है। दिन बुधवार है। अब अधिवर्ष है। आज से 3 वर्ष पश्चात् सप्ताह का कौन-सा दिन होगा?",
+ "options": ["(a) Monday/सोमवार", "(b) Wednesday/बुधवार", "(c) Saturday/शनिवार", "(d) Sunday/रविवार"],
+ "answer": 2,
+ "summary": "अधिवर्ष में 1 अप्रैल बुधवार है; 3 वर्ष बाद दिन शनिवार होगा।",
+ "mnemonic": "Wed + 3 saal (leap) = Saturday"
+},
+{
+ "q": 117,
+ "subject": "",
+ "question": "The difference between complementary and supplementary angles of a given acute angle is :/किसी न्यूनकोण के पूरक व सम्पूरक कोणों का अंतर है—",
+ "options": ["(a) 45°", "(b) 90°", "(c) 180°", "(d) 360°"],
+ "answer": 1,
+ "summary": "सम्पूरक कोण (180-x) और न्यूनकोण के पूरक (90-x) का अंतर = (180-x)-(90-x) = 90°।",
+ "mnemonic": "Supplementary minus complementary = 90"
+},
+{
+ "q": 118,
+ "subject": "",
+ "question": "At what time will the simple interest at the rate of 16⅔ % per annum be 5/6 of the principal? किस समय में 16⅔% वार्षिक ब्याज की दर से साधारण ब्याज, मूलधन के 5/6 होगा?",
+ "options": ["(a) 6 year/6 वर्ष", "(b) 5 year/5 वर्ष", "(c) 4 year/4 वर्ष", "(d) 7 year/7 वर्ष"],
+ "answer": 1,
+ "summary": "S.I. = (5/6)P, R = 16⅔% = 50/3; PRT/100 से T = 5 वर्ष प्राप्त होता है।",
+ "mnemonic": "50/3% rate, SI = 5/6 P, T = 5 saal"
+},
+{
+ "q": 119,
+ "subject": "",
+ "question": "What is the profit percentage if you buy bananas at the rate of ₹ 10 dozen and sell them at the rate of 10 bananas at ₹ 10 ? ₹ 10 दर्जन की दर से केले खरीद कर 12 रुपये के 10 केले की दर से बेचने पर लाभ प्रतिशत होगा?",
+ "options": ["(a) 36%", "(b) 44%", "(c) 42%", "(d) 48%"],
+ "answer": 1,
+ "summary": "क्रय मूल्य ₹10 में 12 केले व विक्रय ₹12 में 10 केले; लाभ% = (144-100)/100×100 = 44%।",
+ "mnemonic": "Kharid 12@10, bech 10@12, profit 44%"
+},
+{
+ "q": 120,
+ "subject": "",
+ "question": "If 30% of a number is 63 less than three fourth of that number. Then the number is :/यदि किसी संख्या का 30% उस संख्या के तीन-चौथाई से 63 कम हो, तो वह संख्या है—",
+ "options": ["(a) 140", "(b) 120", "(c) 82", "(d) 93"],
+ "answer": 0,
+ "summary": "(3/4)x - (30/100)x = 63 हल करने पर x = 140 प्राप्त होता है।",
+ "mnemonic": "3/4 x minus 30% x = 63, x = 140"
+}
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "q": 81,
+    "subject": "",
+    "question": "उपर्युक्त गद्य के अनुसार समाज में किसकी संख्या कम है?",
+    "options": ["शिवाजी की", "गुणी की", "दुर्जनों की", "सज्जनों की"],
+    "answer": 1,
+    "summary": "गद्यांश के अनुसार 'दुर्जन' की संख्या कम है क्योंकि संसार अधिक तो यदि-समय में सजनों की संख्या अधिक होती है; गुणी की संख्या कम है।",
+    "mnemonic": "Gunee kam, isliye 'b' guni"
+  },
+  {
+    "q": 82,
+    "subject": "",
+    "question": "उपर्युक्त गद्य के अनुसार दुष्ट लोग समाज में क्यों प्रबल दिखते हैं?",
+    "options": ["क्योंकि सज्जन सहन करते हैं।", "क्योंकि उनकी पहुँच होती है।", "क्योंकि उनकी संख्या अधिक होती है।", "क्योंकि वे धनी होते हैं।"],
+    "answer": 0,
+    "summary": "सज्जन लोगों की सहनशीलता के कारण ही दुर्जन लोग संसार में कम होते हुए भी समाज में अधिक प्रबल दिखते हैं।",
+    "mnemonic": "Sajjan sahte, isliye 'a' aage"
+  },
+  {
+    "q": 83,
+    "subject": "",
+    "question": "इस श्लोक का भाव है",
+    "options": ["वृक्ष पर मत लादो आँत्रों से", "वृक्ष का अहित मत करना", "प्राणी जो वृक्ष पर आश्रित होते हैं, वृक्ष के नाश से उनके भी नाश की संभावना है", "वृक्ष महान होता है"],
+    "answer": 2,
+    "summary": "श्लोक का भाव है कि जो प्राणी वृक्ष पर आश्रित होते हैं, वृक्ष के नाश से उनका भी नाश हो जाता है।",
+    "mnemonic": "Aashrit prani naash, 'c' samajh"
+  },
+  {
+    "q": 84,
+    "subject": "",
+    "question": "उपर्युक्त श्लोक में 'भुगांधि' का तात्पर्य है",
+    "options": ["प्राणी", "आश्रय", "नाश", "वृक्ष"],
+    "answer": 1,
+    "summary": "उपर्युक्त श्लोक में 'भुगांधि' का तात्पर्य आश्रय से है, अतः वृक्ष का सहारा या जिस पर प्राणी आश्रित होते हैं।",
+    "mnemonic": "Bhugaandhi = aashray, 'b'"
+  },
+  {
+    "q": 85,
+    "subject": "",
+    "question": "'भू' धातु का लोट् लकार, मध्यम पुरुष, एकवचन रूप है",
+    "options": ["भवसि", "भवानि", "भवतु", "भव"],
+    "answer": 3,
+    "summary": "'भू' धातु के लोट् लकार में मध्यम पुरुष एकवचन का रूप 'भव' है।",
+    "mnemonic": "Lot lakar madhyam ek = bhav, 'd'"
+  },
+  {
+    "q": 86,
+    "subject": "",
+    "question": "सर्वनाम शब्द है",
+    "options": ["सर्व", "स्थूल", "प्रातः", "पुः"],
+    "answer": 0,
+    "summary": "'सर्व' (सब) सर्वनाम शब्द है; स्थूल विशेषण, प्रातः अव्यय और पुः संज्ञा है।",
+    "mnemonic": "Sarv = sarvanaam, 'a'"
+  },
+  {
+    "q": 87,
+    "subject": "",
+    "question": "'कुञ्जर' शब्द का अर्थ है",
+    "options": ["हाथी", "हिरण", "गुञ्जर", "सर्प"],
+    "answer": 0,
+    "summary": "'कुञ्जर' शब्द का अर्थ 'हाथी' होता है।",
+    "mnemonic": "Kunjar = haathi, 'a'"
+  },
+  {
+    "q": 88,
+    "subject": "",
+    "question": "'मातृ' शब्द का तृतीया विभक्ति एकवचन में रूप होता है",
+    "options": ["मातया", "माता", "मात्रा", "मातवा"],
+    "answer": 2,
+    "summary": "'मातृ' शब्द का तृतीया विभक्ति एकवचन में रूप 'मात्रा' होता है।",
+    "mnemonic": "Trutiya ekvachan matr = maatra, 'c'"
+  },
+  {
+    "q": 89,
+    "subject": "",
+    "question": "सुबन्धु की रचना है",
+    "options": ["वासवदत्ता", "मेघदूतम्", "अभिज्ञानशाकुन्तलम्", "स्वप्नवासवदत्तम्"],
+    "answer": 0,
+    "summary": "वासवदत्ता सुबन्धु की रचना है; मेघदूतम् कालिदास, अभिज्ञानशाकुन्तलम् कालिदास तथा स्वप्नवासवदत्तम् भास की रचना है।",
+    "mnemonic": "Subandhu = Vasavdatta, 'a'"
+  },
+  {
+    "q": 90,
+    "subject": "",
+    "question": "निम्नलिखित में से कौन -सा स्वर है?",
+    "options": ["यृ", "ख", "उपर्युक्त में से कोई नहीं", "ङ"],
+    "answer": 1,
+    "summary": "संस्कृत में स्वरों की संख्या नौ है; अघ् प्रत्याहार सभी स्वरों का बोधक है - अ, इ, उ, ऋ, ल, ए, ओ, ऐ, औ।",
+    "mnemonic": "Khh swar hai, 'b'"
+  },
+  {
+    "q": 91,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "Diagonal of a rectangular field is 17 metre and perimeter is 46 metre then the area of the field will be : / किसी आयताकार खेत का विकर्ण 17 मीटर तथा परिमाप 46 मीटर है तो खेत का क्षेत्रफल होगा–",
+    "options": ["120 m²/मी²", "132 m²/मी²", "289 m²/मी²", "112 m²/मी²"],
+    "answer": 0,
+    "summary": "विकर्ण 17, परिमाप 46 से l+b=23, l-b=±7 हल करने पर b=8 और क्षेत्रफल = l×b = 120 m²।",
+    "mnemonic": "120 area, 'a' answer"
+  },
+  {
+    "q": 92,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "On simplification {(2⁻¹)}⁻¹, the number will be : / {(2⁻¹)}⁻¹ के सरलीकरण से प्राप्त संख्या होगी–",
+    "options": ["B, C, D", "A, C, D", "C, B, D", "A, B, C"],
+    "answer": 3,
+    "summary": "{(2⁻¹)}⁻¹ का सरल मान 2 है; 2 एक छोटी अभाज्य संख्या, सम संख्या और 2/2 का गुणक है।",
+    "mnemonic": "2 = small prime, even, multiple of 2/2 → A,B,C, 'd'"
+  },
+  {
+    "q": 93,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "Which one is correct in the following statements? / निम्नलिखित में से कौन -सा कथन सही है?",
+    "options": ["Least prime number 1 है। / सबसे छोटी अभाज्य संख्या 1 है।", "A composite number may be odd number / एक भाज्य संख्या विषम हो सकती है।", "Even prime number does not exist / कोई सम अभाज्य संख्या नहीं है।", "Sum of two prime numbers always prime number / दो अभाज्य संख्याओं का योगफल सदैव अभाज्य संख्या होती है।"],
+    "answer": 1,
+    "summary": "एक भाज्य (composite) संख्या विषम हो सकती है, जैसे 9, 15, 21; अतः कथन (b) सही है।",
+    "mnemonic": "Bhajya vishom ho sakti, 'b'"
+  },
+  {
+    "q": 94,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "The difference between the interior and exterior angles of a regular polygon is 60°. The number of sides in the polygon is : / एक बहुभुज के अन्तः एवं बाह्य कोणों का अंतर 60° है तो बहुभुज में भुजाओं की संख्या है–",
+    "options": ["5", "6", "3", "4"],
+    "answer": 1,
+    "summary": "बहुभुज के अन्तः कोण (n-2)180°/n और बाह्य कोण 360°/n का अंतर 60° रखने पर n=6 प्राप्त होता है।",
+    "mnemonic": "Antar 60 → 6 bhujaye, 'b'"
+  },
+  {
+    "q": 95,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "The number of points present on a straight line is : / एक सरल रेखा पर स्थित बिन्दुओं की संख्या होती है–",
+    "options": ["0", "2", "1", "infinite/असंख्य"],
+    "answer": 3,
+    "summary": "किसी भी सरल रेखा पर असंख्य बिन्दु हो सकते हैं।",
+    "mnemonic": "Sarl rekha = asankhya, 'd'"
+  },
+  {
+    "q": 96,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "Find pythagorean triplet of which smallest number is 8 / एक पाइथागोरस त्रिक ज्ञात कीजिए, जिसकी सबसे छोटी संख्या 8 है–",
+    "options": ["8, 15, 17", "8, 9, 10", "8, 64, 512", "6, 8, 10"],
+    "answer": 0,
+    "summary": "पाइथागोरस त्रिक में 8²+15²=17² (64+225=289) सत्य है, अतः सबसे छोटी संख्या 8 वाला त्रिक 8,15,17 है।",
+    "mnemonic": "8-15-17 triplet, 'a'"
+  },
+  {
+    "q": 97,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "Find the value of Z for which the number 417Z8 is divisible by 9. / Z का मान ज्ञात कीजिए, यदि संख्या 417Z8, 9 से विभाज्य हो।",
+    "options": ["6", "7", "9", "8"],
+    "answer": 1,
+    "summary": "9 से विभाज्यता के नियमानुसार 4+1+7+Z+8=20+Z का योग 9 का गुणज होना चाहिए; Z=7 लेने पर 27 प्राप्त होता है।",
+    "mnemonic": "Yog 27 → Z=7, 'b'"
+  },
+  {
+    "q": 98,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "If 2160 = 2ᵃ × 3ᵇ × 5ᶜ, then find the value of 3ᵃ × 2⁻ᵇ × 5⁻ᶜ. / यदि 2160 = 2ᵃ × 3ᵇ × 5ᶜ, तो 3ᵃ × 2⁻ᵇ × 5⁻ᶜ का मान ज्ञात कीजिए।",
+    "options": ["0", "81/40", "37/39", "1/2"],
+    "answer": 1,
+    "summary": "2160 = 2⁴×3³×5¹ अर्थात a=4, b=3, c=1; मान रखने पर 3⁴×2⁻³×5⁻¹ = 81/40 प्राप्त होता है।",
+    "mnemonic": "81 over 40, 'b'"
+  },
+  {
+    "q": 99,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "Find using side figure; the value of x is : / पार्श्व आकृति द्वारा ज्ञात करें, x का मान है–",
+    "options": ["1", "5", "6", "0"],
+    "answer": 0,
+    "summary": "दिए गए चित्र में यह ज्ञात होता है कि अंकों के सम्मुख दी गई संख्या घन के रूप में है; 1³=1 अतः x=1।",
+    "mnemonic": "1 ka ghan = 1, 'a'"
+  },
+  {
+    "q": 100,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "Mode of distribution can be obtained from / किसी बंटन का बहुलक ज्ञात किया जा सकता है–",
+    "options": ["Less than type ogives / 'से कम' संचयी बारम्बारता वक्र द्वारा", "More than type ogives / 'से अधिक' संचयी बारम्बारता वक्र द्वारा", "Frequency polygon/आवृत्ति बहुभुज द्वारा", "Histogram/आयत चित्र द्वारा"],
+    "answer": 3,
+    "summary": "किसी बंटन का बहुलक आयत चित्र (Histogram) द्वारा ज्ञात किया जा सकता है।",
+    "mnemonic": "Mode = Histogram, 'd'"
+  },
+  {
+    "q": 101,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "The length of rectangle is increased by 60% by what percent would the width have to be decreased to maintain the same area? / एक आयत की लम्बाई में 60% की वृद्धि करने पर उसकी चौड़ाई में कितने प्रतिशत की कमी करनी होगी जिससे आयत का क्षेत्रफल न बदले?",
+    "options": ["75.5%", "125%", "37.5%", "50%"],
+    "answer": 2,
+    "summary": "लम्बाई में 60% वृद्धि पर चौड़ाई में कमी = 100×x/(100+x) = 6000/160 = 37.5% होगी।",
+    "mnemonic": "60% badha → 37.5% kam, 'c'"
+  },
+  {
+    "q": 102,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "The volume of a cube is numerically equal to sum of the length of its edges. The total surface area of a cube in square units is : / एक घन का आयतन संख्यात्मक रूप में उसकी भुजाओं की लम्बाई के योग के बराबर है। घन का सम्पूर्ण पृष्ठीय क्षेत्रफल वर्ग इकाई में है–",
+    "options": ["64.5", "72.0", "44.2", "12.4"],
+    "answer": 1,
+    "summary": "घन का आयतन a³ और 12 भुजाओं का योग 12a; a³=12a से a²=12, अतः सम्पूर्ण पृष्ठ 6a²=6×12=72 वर्ग इकाई।",
+    "mnemonic": "72 surface area, 'b'"
+  },
+  {
+    "q": 103,
+    "subject": "Part– IV Mathematics/गणित",
+    "question": "Amit's salary in 2018 is Rs. 1,26,500. His salary for 2016 has risen annually by 10% and 15% respectively to reach 2018 salary figures. What was his salary in 2016? / 2018 में अमित का वेतन रूपये 1,26,500 है। वर्ष 2016 से उसका वेतन प्रतिवर्ष क्रमशः 10% व 15% बढ़कर 2018 के वेतन तक पहुँच गया। वर्ष 2016 में उसका वेतन कितना था?",
+    "options": ["Rs. 1,15,000", "Rs. 1,00,000", "Rs. 1,25,000", "Rs. 95,000"],
+    "answer": 1,
+    "summary": "1,26,500 = x×(110/100)×(115/100) हल करने पर 2016 में अमित का वेतन रू 1,00,000 था।",
+    "mnemonic": "Wapas chalo → 1 lakh, 'b'"
+  }
+]

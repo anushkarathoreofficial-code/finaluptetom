@@ -1,0 +1,326 @@
+[
+{
+ "q": 42,
+ "subject": "",
+ "question": "उपर्युक्त गद्यांश के आधार पर बताइये कि संसार के सारे काड़ संभिव है—",
+ "options": ["राजनीतिक क्षेत्र तक", "सामाजिकता तक", "आत्मा तक", "धर्म तक"],
+ "answer": 0,
+ "summary": "गद्यांश के अनुसार राजनीतिक और आध्यात्मिक तत्त्वों का समन्वय मिलता है, अतः संसार के सारे काज राजनीतिक क्षेत्र तक संभव हैं।",
+ "mnemonic": "Sansaar ke saare kaaj = Rajnitik kshetra tak"
+},
+{
+ "q": 43,
+ "subject": "",
+ "question": "उपर्युक्त गद्यांश को गांधीवाद का आधार किसे बताया गया है?",
+ "options": ["राजनीतिक और आध्यात्मिक तत्त्व की", "जनसेवा और अध्यात्मिक तत्व की", "ईश्वर निष्ठा और जन की निर्मलता की", "राजनीतिक अध्यात्म और सामाजिकता की"],
+ "answer": 0,
+ "summary": "गांधीवाद का आधार राजनीतिक और आध्यात्मिक तत्त्व को बताया गया है।",
+ "mnemonic": "Gandhivaad = Rajnitik + Adhyatmik tattva"
+},
+{
+ "q": 44,
+ "subject": "",
+ "question": "'कतुप्रिया' के रचनाकार कौन हैं?",
+ "options": ["धर्मवीर भारती", "रामेन राघव", "भगवतीचरण वर्मा", "जयाशंकर"],
+ "answer": 0,
+ "summary": "'कनुप्रिया' की रचना धर्मवीर भारती ने की है।",
+ "mnemonic": "Kanupriya = dharmaVEER Bharati"
+},
+{
+ "q": 45,
+ "subject": "",
+ "question": "प्लुत स्वर कौन—सा है?",
+ "options": ["अदम्", "ओदम्", "ओम्", "ओम"],
+ "answer": 1,
+ "summary": "'ओदम्' प्लुत स्वर है, जिसके उच्चारण में तीन गुना अधिक समय लगता है।",
+ "mnemonic": "Plut swar = Odam (option b)"
+},
+{
+ "q": 46,
+ "subject": "",
+ "question": "'प्रयोजन' का समानार्थी शब्द नहीं है—",
+ "options": ["लक्ष्य", "हेतु", "नियोजन", "उद्देश्य"],
+ "answer": 2,
+ "summary": "'नियोजन' शब्द 'प्रयोजन' का समानार्थी नहीं है; हेतु, उद्देश्य व लक्ष्य प्रयोजन के समानार्थी होते हैं।",
+ "mnemonic": "Prayojan ka NAHI = Niyojan (c)"
+},
+{
+ "q": 47,
+ "subject": "",
+ "question": "'बाजू' का विलोम शब्द है—",
+ "options": ["सरल", "विशेष", "वक्र", "सीधा"],
+ "answer": 2,
+ "summary": "'बाजू' का विलोम शब्द 'वक्र' है; सीधा-सरल बाजू के समानार्थी जैसा है।",
+ "mnemonic": "Baaju ka vilom = Vakra (c)"
+},
+{
+ "q": 48,
+ "subject": "",
+ "question": "निम्नलिखित विकल्पों में किस विकल्प में विशेषण का निर्देश अशुद्ध है?",
+ "options": ["यार्द – अनुगामिक बोधक", "दूसरा – क्रमवाचक", "वह नौकर – कोई विशेषण नहीं है", "छब्बीस – पूर्णांक बोधक"],
+ "answer": 2,
+ "summary": "'वह नौकर' में 'वह' सार्वनामिक विशेषण है; विशेषण मुख्यतः चार प्रकार के होते हैं।",
+ "mnemonic": "Galat = 'Vah naukar koi visheshan nahi' (c)"
+},
+{
+ "q": 49,
+ "subject": "",
+ "question": "'आप भला तो जग भला' वाक्य में सर्वनाम के किस भेद का बोध होता है?",
+ "options": ["निजवाचक सर्वनाम", "अनिश्चय वाचक सर्वनाम", "प्रश्नवाचक सर्वनाम", "सम्बन्धवाचक सर्वनाम"],
+ "answer": 0,
+ "summary": "'आप भला तो जग भला' वाक्य में 'निजवाचक सर्वनाम' का बोध होता है; सर्वनाम छह भेद के होते हैं।",
+ "mnemonic": "Aap bhala = Nijvachak sarvanam"
+},
+{
+ "q": 50,
+ "subject": "",
+ "question": "निम्नलिखित में से कौन—सा शब्द पुल्लिंग है?",
+ "options": ["चील", "कड़ी", "सरसों", "संतरा"],
+ "answer": 3,
+ "summary": "'संतरा' पुल्लिंग शब्द है; चील, कड़ी, सरसों आदि स्त्रीलिंग हैं।",
+ "mnemonic": "Pulling = Santara (d)"
+},
+{
+ "q": 51,
+ "subject": "",
+ "question": "उपरोक्त पद्य किस कवि का है?",
+ "options": ["जायसी", "सूरदास", "तुलसीदास", "कबीर"],
+ "answer": 1,
+ "summary": "उपरोक्त पद्य गोस्वामी तुलसीदास द्वारा रचित है (व्याख्या अनुसार)।",
+ "mnemonic": "Pady ka kavi = Surdas (b)"
+},
+{
+ "q": 52,
+ "subject": "",
+ "question": "उपरोक्त पद किस आधार पर है?",
+ "options": ["जायसी", "सूरदास", "तुलसीदास", "कबीर"],
+ "answer": 1,
+ "summary": "उपरोक्त पद सूरदास के आधार पर है।",
+ "mnemonic": "Pad ka aadhar = Surdas (b)"
+},
+{
+ "q": 53,
+ "subject": "",
+ "question": "उच्चारण स्थल की दृष्टि से कौन—सा विकल्प शुद्ध है?",
+ "options": ["ष — मूर्धन्य", "श — तालव्य", "घ — कण्ठ्य", "घ — तालव्य"],
+ "answer": 0,
+ "summary": "'ष' मूर्धन्य व्यंजन है; उच्चारण स्थान के अनुसार 'ष' शुद्ध विकल्प है।",
+ "mnemonic": "Sh (ष) = Murdhanya (a)"
+},
+{
+ "q": 54,
+ "subject": "",
+ "question": "निम्नलिखित में कौन—सा कथन अशुद्ध है?",
+ "options": ["यो महाशय जायेगे", "हिन्दी में जा उत्साहन समाप्त से लिख हो गया है", "वह संसार वालों में", "विमर्श कटुप्र हो"],
+ "answer": 1,
+ "summary": "व्याख्या अनुसार दिए गए विकल्पों में 'हिन्दी में जा उत्साहन समाप्त से लिख हो गया है' अशुद्ध कथन है।",
+ "mnemonic": "Ashuddh kathan = option (b)"
+},
+{
+ "q": 55,
+ "subject": "",
+ "question": "'मेरे लड़के ने मेरी आज्ञा का पालन नहीं किया' वाक्य में 'लड़के' के विषय में कौन—सा विकल्प सही है? इस पद्य में कौन—सा अलंकार है?",
+ "options": ["पुल्लिंग", "स्त्रीलिंग", "एकवचन", "बहुवचन"],
+ "answer": 0,
+ "summary": "व्याख्या अनुसार 'लड़के' पुल्लिंग शब्द है।",
+ "mnemonic": "Ladke = Pulling (a)"
+},
+{
+ "q": 56,
+ "subject": "",
+ "question": "'राम आम खाता है' में वाच्य का कौन—सा रूप है?",
+ "options": ["कर्मवाच्य", "भाववाच्य", "उभयवाच्य", "कर्तृवाच्य"],
+ "answer": 3,
+ "summary": "'राम आम खाता है' में 'कर्तृवाच्य' है, क्योंकि कर्ता की प्रधानता है।",
+ "mnemonic": "Raam aam khata = Kartrivachya (d)"
+},
+{
+ "q": 57,
+ "subject": "",
+ "question": "'सोहन पानी पीकर बिना पानी सब पून्। पानी गए न ऊबरै मोती मानुष चून।' इस दोहे में कौन—सा अलंकार है?",
+ "options": ["उपमा", "रूपक", "उत्प्रेक्षा", "श्लेष"],
+ "answer": 3,
+ "summary": "इस दोहे में 'श्लेष' अलंकार है, क्योंकि 'पानी' का अनेक अर्थों में प्रयोग हुआ है।",
+ "mnemonic": "Paani anek arth = Shlesh (d)"
+},
+{
+ "q": 58,
+ "subject": "",
+ "question": "निम्नलिखित में से कौन—सा शब्द शुद्ध है? आदप्रद शब्द — शुद्ध रूप",
+ "options": ["आंगन", "चांद", "आंख", "अंक"],
+ "answer": 0,
+ "summary": "व्याख्या अनुसार 'आंगन' शब्द का शुद्ध रूप दिया गया है।",
+ "mnemonic": "Shuddh roop = Aangan (a)"
+},
+{
+ "q": 59,
+ "subject": "",
+ "question": "निम्न में से किस शब्द की वर्तनी सही है?",
+ "options": ["शिविधि", "शविधि", "सविधि", "शविधि"],
+ "answer": 1,
+ "summary": "व्याख्या अनुसार दिए गए शब्दों में 'शविधि' की वर्तनी शुद्ध है।",
+ "mnemonic": "Sahi vartani = option (b)"
+},
+{
+ "q": 60,
+ "subject": "",
+ "question": "उपचारात्मक शिक्षण की सफलता किसमें होती है—",
+ "options": ["सर्किक नियमों के प्रभाव से", "समय व अवधि पर", "समस्याओं के कारणों की सही पहचान पर", "उपचारात्मक शिक्षण की समाप्ति पर"],
+ "answer": 2,
+ "summary": "उपचारात्मक शिक्षण की सफलता समस्याओं के कारणों की सही पहचान पर निर्भर करती है।",
+ "mnemonic": "Upcharatmak safalta = samasya ke kaaran ki pehchaan (c)"
+},
+{
+ "q": 61,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Which of the following sentences is in Passive voice?",
+ "options": ["The teacher scolded him for being late", "Some boys were helping the wounded man", "My watch was lost", "Someone may steal the bicycle."],
+ "answer": 2,
+ "summary": "'My watch was lost' Passive voice है, जिसमें कर्म पर ध्यान केंद्रित होता है। Structure— P.V.– P. subject + Auxiliary verb + V III + P. object + other word.",
+ "mnemonic": "Passive = My watch was lost (c)"
+},
+{
+ "q": 62,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Which of the following alternatives is the correct passive voice from the following sentence? 'Do it'",
+ "options": ["It is done", "It will be done", "Let it be done", "It be done"],
+ "answer": 2,
+ "summary": "Imperative sentence 'Do it' का Passive voice 'Let it be done' होगा। P.V.– Let + object + be + V III.",
+ "mnemonic": "Do it -> Let it be done (c)"
+},
+{
+ "q": 63,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Which of the following words is plural?",
+ "options": ["Crisis", "Analysis", "Criteria", "Index"],
+ "answer": 2,
+ "summary": "'Criteria' Plural noun है, इसका singular form 'criterion' होता है।",
+ "mnemonic": "Plural = Criteria (c)"
+},
+{
+ "q": 64,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Which of the following nouns is plural?",
+ "options": ["mice", "electronics", "billiards", "news"],
+ "answer": 0,
+ "summary": "'mice' Plural noun है, इसका singular form 'mouse' होता है।",
+ "mnemonic": "Plural = mice (a)"
+},
+{
+ "q": 65,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "He was an orphan and lived with his uncle. In the above given sentence identify the gender of the word 'orphan'.",
+ "options": ["Feminine Gender", "Common Gender", "Neuter Gender", "Masculine Gender"],
+ "answer": 1,
+ "summary": "'orphan' Common Gender का शब्द है, यह संज्ञा पुरुष या स्त्री दोनों के बोधक है।",
+ "mnemonic": "Orphan = Common Gender (b)"
+},
+{
+ "q": 66,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Which of the following words is not a co-ordinating conjunction?",
+ "options": ["but", "if", "for", "and"],
+ "answer": 1,
+ "summary": "'if' Sub-ordinating conjunction है, अन्य शब्द co-ordinating conjunctions हैं।",
+ "mnemonic": "Not co-ordinating = if (b)"
+},
+{
+ "q": 67,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Fill in the blanks with appropriate prepositions : His thirst .............. knowledge left him no leisure .............. anything else.",
+ "options": ["at, at", "on, on", "for, for", "by, by"],
+ "answer": 2,
+ "summary": "दिए गए blanks में appropriate preposition 'for, for' होगा, क्योंकि इसका उपयोग 'के लिए' अर्थ में करते हैं।",
+ "mnemonic": "for, for (c)"
+},
+{
+ "q": 68,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "The word 'fast' in the sentence 'He is a fast writer' is",
+ "options": ["a noun", "an adverb", "an adjective", "a conjunction"],
+ "answer": 2,
+ "summary": "'He is a fast writer' में 'fast' noun (writer) की विशेषता बता रहा है, अतः यह Adjective है।",
+ "mnemonic": "fast writer = Adjective (c)"
+},
+{
+ "q": 69,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Which of the following is not a simple sentence?",
+ "options": ["She does not know good manners", "She reads what she likes", "He is a man of great knowledge", "There is a very costly book in my house"],
+ "answer": 1,
+ "summary": "'She reads what she likes' complex sentence है। Simple sentence सरल वाक्य होता है जिसमें केवल एक Finite verb होता है।",
+ "mnemonic": "Not simple = She reads what she likes (b)"
+},
+{
+ "q": 70,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "The sentence 'He will be playing the piano in the concert day after tomorrow' is in :",
+ "options": ["Present Indefinite Tense", "Future Imperfect Tense", "Future Perfect Continuous Tense", "Future Indefinite Tense"],
+ "answer": 1,
+ "summary": "Structure— Sub + will/shall be + V + ing + object + other words में Future continuous tense या Future imperfect tense का प्रयोग होता है।",
+ "mnemonic": "will be playing = Future Imperfect (b)"
+},
+{
+ "q": 71,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "In which of the following sentences is the subject of verb a feminine gender noun?",
+ "options": ["All the male members have arrived", "All the young men have arrived", "All the old men have arrived", "All the female members have arrived"],
+ "answer": 3,
+ "summary": "Feminine gender का शब्द 'Female' है, अतः 'All the female members have arrived' सही है; अन्य विकल्पों में masculine gender words हैं।",
+ "mnemonic": "Feminine = female members (d)"
+},
+{
+ "q": 72,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "The method of teaching in which the teacher tries to establish a link between the foreign language word and the object without the interference of the learner's mother tongue is called :",
+ "options": ["the structural method", "the bilingual method", "the grammar-translation method", "the direct method"],
+ "answer": 3,
+ "summary": "Direct Method में foreign language word और object के बीच सीधा सम्बन्ध बनाया जाता है बिना mother tongue की सहायता के।",
+ "mnemonic": "Direct link, no mother tongue = Direct method (d)"
+},
+{
+ "q": 73,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "If you are testing your student's comprehension of written English, you are testing their understanding of what they have just",
+ "options": ["read", "listened to", "spoken", "written"],
+ "answer": 0,
+ "summary": "written English की comprehension testing का अर्थ है कि students ने जो 'read' किया है उसकी understanding की जा रही है।",
+ "mnemonic": "Comprehension of written English = read (a)"
+},
+{
+ "q": 74,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Choose the correct sentence :",
+ "options": ["Please listen your teacher.", "Please listen towards your teacher.", "Please listen of your teacher.", "Please listen to your teacher."],
+ "answer": 3,
+ "summary": "Structure— Please + V I + preposition + object; 'listen' के साथ 'to' preposition का प्रयोग उपयुक्त होगा।",
+ "mnemonic": "listen TO your teacher (d)"
+},
+{
+ "q": 75,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Find out the correct sentence/sentences :",
+ "options": ["I am not believing him.", "Both of the above", "None of the above", "I don't believe him."],
+ "answer": 3,
+ "summary": "Verbs of 'thinking' (think, suppose, believe, agree, remember, understand आदि) सामान्यतः continuous form में प्रयोग नहीं होते, अतः 'I don't believe him.' सही है।",
+ "mnemonic": "Believe -> simple, not continuous = I don't believe him (d)"
+},
+{
+ "q": 76,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Which of the following alternatives is grammatically correct?",
+ "options": ["All this men are gentle", "All these man are gentle", "All these mans are gentle", "All these men are gentle"],
+ "answer": 3,
+ "summary": "Countable noun 'man' का Plural form 'men' है, अतः 'All these men are gentle.' grammatically correct है।",
+ "mnemonic": "these MEN are gentle (d)"
+},
+{
+ "q": 77,
+ "subject": "Part-III Language-II : English/भाषा-II : अंग्रेजी",
+ "question": "Fill in the blank with appropriate preposition : He came to me .............. midnight.",
+ "options": ["at", "on", "upon", "in"],
+ "answer": 0,
+ "summary": "किसी निश्चित समय (point of time) के लिए preposition 'at' का प्रयोग होता है, अतः 'He came to me at midnight.' सही है।",
+ "mnemonic": "at midnight (a)"
+}
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "q": 132,
+    "subject": "",
+    "question": "वायुमंडल का प्रमुख स्तर, जो पृथ्वी-तल के नजदीक है,",
+    "options": ["समतापमंडल", "क्षोभमंडल", "मध्यमंडल", "आयनमंडल"],
+    "answer": 1,
+    "summary": "पृथ्वी-तल के सबसे निकट का वायुमंडलीय स्तर क्षोभमंडल है, जहाँ सभी मौसमी घटनाएँ घटित होती हैं।",
+    "mnemonic": "Tal ke paas Kshobh-mandal, mausam yahin machaaye halchal."
+  },
+  {
+    "q": 133,
+    "subject": "",
+    "question": "संयुक्त राष्ट्र सुरक्षा परिषद में कितने स्थायी सदस्य हैं?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 2,
+    "summary": "संयुक्त राष्ट्र सुरक्षा परिषद में 5 स्थायी सदस्य हैं जिन्हें वीटो का अधिकार प्राप्त है।",
+    "mnemonic": "Security Council ke 5 boss, veto power inke paas."
+  },
+  {
+    "q": 134,
+    "subject": "",
+    "question": "सरिस्का राष्ट्रीय उद्यान अवस्थित है",
+    "options": ["पश्चिम बंगाल में", "गुजरात में", "राजस्थान में", "असम में"],
+    "answer": 2,
+    "summary": "सरिस्का राष्ट्रीय उद्यान राजस्थान में अवस्थित है तथा बाघों के लिए प्रसिद्ध है।",
+    "mnemonic": "Sariska ka rajya Rajasthan, baagh ka thikana."
+  },
+  {
+    "q": 135,
+    "subject": "",
+    "question": "पारिस्थितिक तंत्र में ऊर्जा का मुख्य स्रोत है",
+    "options": ["ए. टी. पी.", "सर्व-भक्षक", "डी. एन. ए.", "सौर. एन. र्ज."],
+    "answer": 3,
+    "summary": "पारिस्थितिक तंत्र में ऊर्जा का मुख्य स्रोत सूर्य का प्रकाश (सौर ऊर्जा) है।",
+    "mnemonic": "Ecosystem ki energy ka source – Sun ki saur."
+  },
+  {
+    "q": 136,
+    "subject": "",
+    "question": "'एगमार्क' का सम्बन्ध है -",
+    "options": ["गुणवत्ता से", "पैकेजिंग से", "संवर्धन से", "उत्पादन से"],
+    "answer": 0,
+    "summary": "एगमार्क (AGMARK) कृषि उत्पादों की गुणवत्ता का प्रमाणन चिह्न है।",
+    "mnemonic": "AGMARK ka matlab – Quality ka chhaap."
+  },
+  {
+    "q": 137,
+    "subject": "",
+    "question": "आर्सेनिक द्वारा जल-प्रदूषण सर्वाधिक है",
+    "options": ["उत्तर प्रदेश में", "मध्य प्रदेश में", "बिहार में", "पश्चिम बंगाल में"],
+    "answer": 3,
+    "summary": "आर्सेनिक द्वारा जल-प्रदूषण सर्वाधिक पश्चिम बंगाल में पाया जाता है।",
+    "mnemonic": "Arsenic ka paani-pradushan – Paschim Bengal mein."
+  },
+  {
+    "q": 138,
+    "subject": "",
+    "question": "वन संरक्षण अधिनियम पारित किया गया था",
+    "options": ["1960 में", "1962 में", "1972 में", "1975 में"],
+    "answer": 0,
+    "summary": "वन संरक्षण अधिनियम 1960 में पारित किया गया।",
+    "mnemonic": "Van Sanrakshan – 1960 ka chhaन."
+  },
+  {
+    "q": 139,
+    "subject": "",
+    "question": "DNA से प्रोटीन की प्रक्रिया को कहते हैं",
+    "options": ["प्रकाश-संश्लेषण", "आत्मसात", "विभाजन", "स्टैन्सलेशन"],
+    "answer": 3,
+    "summary": "DNA से प्रोटीन निर्माण की प्रक्रिया को ट्रांसलेशन कहते हैं।",
+    "mnemonic": "DNA se protein – Translation ki machine."
+  },
+  {
+    "q": 140,
+    "subject": "",
+    "question": "किस DNA के संविदान में मौलिक कणों का योगदान माना गया है?",
+    "options": ["NADP", "NADPH₂", "CO₂", "O₂"],
+    "answer": 1,
+    "summary": "प्रकाश-संश्लेषण के प्रकाशीय चरण की अभिक्रिया में NADPH₂ का योगदान होता है।",
+    "mnemonic": "Prakashik charan ka udhar – NADPH₂ taiyaar."
+  },
+  {
+    "q": 141,
+    "subject": "",
+    "question": "धूमवाद कहा जाता है",
+    "options": ["उसकी सेना के", "दक्षिणी ध्रुव के", "उत्तरी ध्रुव के", "पश्चिमी ध्रुव के"],
+    "answer": 1,
+    "summary": "धूमवाद का सम्बन्ध दक्षिणी ध्रुव क्षेत्र से माना जाता है।",
+    "mnemonic": "Dhoomwad ka rishta – Dakshini dhruv se."
+  },
+  {
+    "q": 142,
+    "subject": "",
+    "question": "भारत में 'प्रोजेक्ट टाइगर' प्रारम्भ किया गया था",
+    "options": ["1972 में", "1973 में", "1981 में", "1985 में"],
+    "answer": 0,
+    "summary": "भारत में प्रोजेक्ट टाइगर 1972 में बाघों के संरक्षण के लिए प्रारम्भ किया गया।",
+    "mnemonic": "Project Tiger – 1972 ka shuru, baagh ki rakhwali zaroori."
+  },
+  {
+    "q": 143,
+    "subject": "",
+    "question": "'फूलों की घाटी' अवस्थित है",
+    "options": ["जम्मू-कश्मीर में", "हिमाचल प्रदेश में", "उत्तराखण्ड में", "सिक्किम में"],
+    "answer": 2,
+    "summary": "फूलों की घाटी राष्ट्रीय उद्यान उत्तराखण्ड में अवस्थित है।",
+    "mnemonic": "Phoolon ki ghati – Uttarakhand ki maati."
+  },
+  {
+    "q": 144,
+    "subject": "",
+    "question": "एक वयस्क मानव में कुल अस्थियों की संख्या कितनी होती है?",
+    "options": ["240", "275", "206", "175"],
+    "answer": 2,
+    "summary": "एक वयस्क मानव शरीर में कुल 206 अस्थियाँ होती हैं।",
+    "mnemonic": "Adult body ki haddi – 206 ki ginti."
+  },
+  {
+    "q": 145,
+    "subject": "",
+    "question": "डायनोसौर इनमें से किस वर्ग के अन्तर्गत अवस्थित है",
+    "options": ["स्तनधर्मी में", "सरीसृप में", "मीनधर्मी में", "नागवंशी में"],
+    "answer": 1,
+    "summary": "डायनोसौर सरीसृप (Reptilia) वर्ग के अन्तर्गत आते हैं।",
+    "mnemonic": "Dinosaur ka group – Sarisrip (Reptile)."
+  },
+  {
+    "q": 146,
+    "subject": "",
+    "question": "प्रकाश-संश्लेषण के प्रकाशीय चरण के दौरान का अभिक्रियाएं कौन-सा अपघटन होता है,",
+    "options": ["जल, NADP", "NADPH₂, CO₂", "O₂, NADP", "O₂, CO₂"],
+    "answer": 0,
+    "summary": "प्रकाश-संश्लेषण के प्रकाशीय चरण में जल (H₂O) का अपघटन होता है जिससे O₂ निकलती है।",
+    "mnemonic": "Prakashik charan – paani toote, O2 chhoote."
+  },
+  {
+    "q": 147,
+    "subject": "",
+    "question": "एल. पी. जी. के संबंध में क्या सत्य नहीं है?",
+    "options": ["यह रंग रहित होती है", "यह स्वच्छ ईंधन है", "यह नीले लपटों से जलती है", "यह ऑक्सीजन का संवर्धन करती है"],
+    "answer": 3,
+    "summary": "LPG (Liquefied Petroleum Gas) ऑक्सीजन का संवर्धन नहीं करती; यह स्वच्छ रंगहीन ईंधन है जो नीली लौ से जलता है।",
+    "mnemonic": "LPG oxygen nahin badhati – yeh galat baat."
+  },
+  {
+    "q": 148,
+    "subject": "",
+    "question": "'प्रजातियों का उद्भव' का लेखक एक रचना है",
+    "options": ["अरस्तू की", "चार्ल्स डार्विन की", "ट्रोफिम लाइसेन्को की", "रॉबर्ट हुक की"],
+    "answer": 1,
+    "summary": "'The Origin of Species' (प्रजातियों का उद्भव) चार्ल्स डार्विन की रचना है।",
+    "mnemonic": "Origin of Species – Charles Darwin ki recipes."
+  },
+  {
+    "q": 149,
+    "subject": "",
+    "question": "इनमें से किसका द्रव्यमान सर्वाधिक है?",
+    "options": ["23 ₁₁ Na", "23 ₁₂ Mg", "23 ₇ N", "23 ₈ S"],
+    "answer": 2,
+    "summary": "समान द्रव्यमान संख्या 23 वाले इन परमाणुओं में सबसे हल्के तत्त्व का परमाणु द्रव्यमान सर्वाधिक माना जाता है।",
+    "mnemonic": "Same mass number 23 – sabse halka ka maximum."
+  },
+  {
+    "q": 150,
+    "subject": "",
+    "question": "अनिश्चितता व्यवस्था का मुख्यतया अधिनियम है",
+    "options": ["प्लांक का", "हाइजेनबर्ग का", "बोर का", "आइन्स्टीन का"],
+    "answer": 1,
+    "summary": "अनिश्चितता का सिद्धान्त हाइजेनबर्ग (Heisenberg) द्वारा 1946 में प्रतिपादित किया गया।",
+    "mnemonic": "Uncertainty ka asoom – Heisenberg ka naam."
+  }
+]

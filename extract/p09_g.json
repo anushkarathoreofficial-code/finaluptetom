@@ -1,0 +1,236 @@
+[
+{
+ "q": 125,
+ "subject": "",
+ "question": "Which country has a flexible Constitution? किस देश में लचीला संविधान लागू है?",
+ "options": ["China/चीन", "America/अमेरिका", "United Kingdom/यूनाइटेड किंगडम", "India/भारत"],
+ "answer": 2,
+ "summary": "यूनाइटेड किंगडम में लचीला संविधान लागू है क्योंकि वहाँ संविधान अलिखित है और इसमें आसानी से संशोधन किया जा सकता है।",
+ "mnemonic": "Flexible = UK, kyunki likha hi nahi (unwritten)"
+},
+{
+ "q": 126,
+ "subject": "",
+ "question": "In which of the following regions Reindeer are found? निम्नलिखित में से किस प्रदेश में रेंडियर पाया जाता है?",
+ "options": ["Hot Desert/गर्म मरुस्थल", "Monsoon/मानसून", "Taiga/टैगा", "Tundra/टुण्ड्रा प्रदेश"],
+ "answer": 3,
+ "summary": "रेंडियर टुण्ड्रा प्रदेश में पाया जाता है; ठण्डे टुण्ड्रा प्रदेश के निवासियों के लिए परिवहन और मांस-दूध हेतु यह उपयोगी है।",
+ "mnemonic": "Reindeer = Tundra, dono cold se shuru"
+},
+{
+ "q": 127,
+ "subject": "",
+ "question": "Which one of the following is not a temperate grassland? निम्नलिखित में से कौन-सा एक शीतोष्ण घास प्रदेश नहीं है?",
+ "options": ["Compas/कम्पास", "Downs/डाउन्स", "Prairies/प्रेयरीज", "Pampus/पम्पस"],
+ "answer": 0,
+ "summary": "शीतोष्ण घास प्रदेशों में डाउन्स, प्रेयरीज, पम्पस आदि शामिल हैं; कम्पास शीतोष्ण घास प्रदेश नहीं है।",
+ "mnemonic": "Compas nahi hai grassland, baaki teen DPP hai"
+},
+{
+ "q": 128,
+ "subject": "",
+ "question": "According to population size, the largest Continent is जनसंख्या के आकार के अनुसार सबसे बड़ा महाद्वीप है—",
+ "options": ["North America/उत्तरी अमेरिका", "Asia/एशिया", "Africa/अफ्रीका", "Europe/यूरोप"],
+ "answer": 1,
+ "summary": "जनसंख्या के आकार के अनुसार एशिया सबसे बड़ा महाद्वीप है, जहाँ विश्व की सर्वाधिक जनसंख्या निवास करती है।",
+ "mnemonic": "Sabse zyada log = Asia"
+},
+{
+ "q": 129,
+ "subject": "",
+ "question": "Where does Tharu tribe live in India? भारत में थारू जनजाति कहाँ निवास करती है?",
+ "options": ["Tarai region of Uttar Pradesh उत्तर प्रदेश के तराई क्षेत्र में", "Uttarakhand/उत्तराखण्ड में", "Jharkhand/झारखण्ड में", "Thar Desert/थार मरुस्थल में"],
+ "answer": 0,
+ "summary": "थारू जनजाति मुख्यतः उत्तर प्रदेश के तराई क्षेत्र तथा उत्तराखण्ड में निवास करती है; आयोग ने (a & b) दोनों को सही माना है।",
+ "mnemonic": "Tharu = Tarai (UP), naam mein hi T-T"
+},
+{
+ "q": 130,
+ "subject": "",
+ "question": "Bhilai Steel Plant is situated in भिलाई इस्पात संयंत्र स्थित है—",
+ "options": ["Jharkhand/झारखण्ड में", "Chhattisgarh/छत्तीसगढ़ में", "Odisha/ओडिशा में", "Madhya Pradesh/मध्य प्रदेश में"],
+ "answer": 1,
+ "summary": "भिलाई इस्पात संयंत्र छत्तीसगढ़ में स्थित है, जो भारत का पहला इस्पात उत्पादन संयंत्र है तथा सोवियत संघ की सहायता से स्थापित किया गया था।",
+ "mnemonic": "Bhilai = Chhattisgarh, dono Bha/Chh se feel"
+},
+{
+ "q": 131,
+ "subject": "",
+ "question": "Reservation for women in India is available in भारत में महिलाओं के लिए आरक्षण की व्यवस्था कहाँ है?",
+ "options": ["Vidhan Sabha/विधान सभा में", "Cabinet/मंत्रिमण्डल में", "Panchayati Raj Institutions/पंचायती राज संस्थाओं में", "Lok Sabha/लोक सभा में"],
+ "answer": 2,
+ "summary": "भारत में महिलाओं के लिए आरक्षण की व्यवस्था पंचायती राज संस्थाओं में है, जहाँ कुल सीटों का एक-तिहाई महिलाओं के लिए आरक्षित है।",
+ "mnemonic": "Women reservation = Panchayati Raj (1/3 seats)"
+},
+{
+ "q": 132,
+ "subject": "",
+ "question": "In order to be appointed as the Governor of a State, one must have attained the age of किसी राज्य के राज्यपाल की नियुक्ति के लिए व्यक्ति की कम-से-कम आयु होनी चाहिए?",
+ "options": ["45 years/45 वर्ष", "50 years/50 वर्ष", "30 years/30 वर्ष", "35 years/35 वर्ष"],
+ "answer": 3,
+ "summary": "राज्यपाल बनने के लिए व्यक्ति की न्यूनतम आयु 35 वर्ष होनी चाहिए तथा उसे भारत का नागरिक होना चाहिए।",
+ "mnemonic": "Governor = 35 saal minimum"
+},
+{
+ "q": 133,
+ "subject": "",
+ "question": "Choose the right Code after comparing List-I with List-II सूची-I और सूची-II का सुमेलन करके इसे सही कूट चुनें—",
+ "options": ["A-2 B-1 C-4 D-3", "A-3 B-4 C-1 D-2", "A-3 B-4 C-2 D-1", "A-4 B-1 C-2 D-3"],
+ "answer": 1,
+ "summary": "सूची-I (Indian Union/राज्य/Corporation/Village Panchayat) का सूची-II (Prime Minister/Sarpanch/Governor/Mayor) से सही मिलान A-3, B-4, C-1, D-2 है।",
+ "mnemonic": "Union-PM, State-Sarpanch hai trick wala, code 3-4-1-2"
+},
+{
+ "q": 134,
+ "subject": "",
+ "question": "When and where, Article 356 was used first? अनुच्छेद 356 का प्रथम प्रयोग कब और कहाँ हुआ?",
+ "options": ["Kerala 1959/केरल 1959", "Jammu and Kashmir 1956 जम्मू और कश्मीर 1956", "Madhya Pradesh 1957/मध्य प्रदेश 1957", "Bihar 1958/बिहार 1958"],
+ "answer": 0,
+ "summary": "अनुच्छेद 356 का प्रथम प्रयोग 1959 में केरल में हुआ, जिसके अंतर्गत केंद्र सरकार राज्य में राष्ट्रपति शासन लागू कर सकती है।",
+ "mnemonic": "Article 356 first = Kerala 1959"
+},
+{
+ "q": 135,
+ "subject": "",
+ "question": "Which tax can be imposed by Nagar Nigam? नगर निगम द्वारा कौन-सा कर लगाया जा सकता है?",
+ "options": ["House Tax/गृह कर", "Toll Tax/चुंगी कर", "Entertainment Tax/मनोरंजन कर", "All the above/उपरोक्त सभी"],
+ "answer": 3,
+ "summary": "नगर निगम गृह कर, चुंगी कर, मनोरंजन कर आदि सभी प्रकार के कर लगा सकता है, क्योंकि यह स्थानीय स्वशासन व्यवस्था है।",
+ "mnemonic": "Nagar Nigam = sab tax (All the above)"
+},
+{
+ "q": 136,
+ "subject": "",
+ "question": "The world's most problematic aquatic weed, also known as \"Terror of Bengal\" is संसार का सर्वाधिक समस्याकारी जलीय खरपतवार, जिसे 'बंगाल का आतंक' भी कहते हैं, वह है—",
+ "options": ["Parthenium hysterophorus (Congress grass) पार्थीनियम हिस्टैरोफोरस (कांग्रेस घास)", "Eichhornia Crassipes (Water hyacinth) एकोर्निया क्रैसिपेस (जलकुम्भी)", "Cynodone dactylon (Doob grass) सिनोडोन डेक्टाइलोन (दूब घास)", "Lantana Camara (लैंटाना कैमरा)"],
+ "answer": 1,
+ "summary": "जलकुम्भी (Eichhornia Crassipes) विश्व का सर्वाधिक समस्याकारी जलीय खरपतवार है, जिसे 'बंगाल का आतंक' कहा जाता है।",
+ "mnemonic": "Terror of Bengal = Jalkumbhi (Water hyacinth)"
+},
+{
+ "q": 137,
+ "subject": "",
+ "question": "The abiotic property of a lake is वाइरस के अजैविक होने का लक्षण है—",
+ "options": ["It does not have protein इसमें प्रोटीन नहीं पाया जाता", "It cannot reproduce यह प्रजनन नहीं कर सकता", "It can be crystalized इसको क्रिस्टल के रूप में परिवर्तित किया जा सकता है", "It does not have the genetic material इसमें वंशानुगत पदार्थ नहीं पाया जाता"],
+ "answer": 2,
+ "summary": "वाइरस को क्रिस्टल के रूप में परिवर्तित किया जा सकता है, जो इसके अजैविक (निर्जीव) होने का लक्षण है।",
+ "mnemonic": "Virus crystal ban jaata = abiotic (non-living)"
+},
+{
+ "q": 138,
+ "subject": "",
+ "question": "Plant hormone that help in the ripening of fruits is फलों को पकाने में सहायता करता है—",
+ "options": ["Gibberellins/जिबरेलिन्स", "Cytokinin/साइटोकाइनिन", "Ethylene/एथिलीन", "Auxin/ऑक्सिन"],
+ "answer": 2,
+ "summary": "एथिलीन एक पादप हार्मोन है जो फलों को पकाने में सहायता करता है; यह एकमात्र गैसीय हार्मोन है।",
+ "mnemonic": "Fruit ripening = Ethylene gas"
+},
+{
+ "q": 139,
+ "subject": "",
+ "question": "Free living, anaerobic, nitrogen (N₂) fixing bacteria found in soil is स्वतंत्र रूप से भूमि में रहने वाला अवायवीय जीवाणु जिसमें नाइट्रोजन (N₂) नियतीकरण की क्षमता होती है, वह है—",
+ "options": ["Rhizobium/राइजोबियम", "Clostridium/क्लोस्ट्रीडियम", "Vibrio/विब्रियो", "Azotobacter/एजोटोबैक्टर"],
+ "answer": 1,
+ "summary": "क्लोस्ट्रीडियम स्वतंत्र रूप से भूमि में रहने वाला अवायवीय नाइट्रोजन स्थिरीकरण करने वाला जीवाणु है।",
+ "mnemonic": "Free + anaerobic N2 fixer = Clostridium"
+},
+{
+ "q": 140,
+ "subject": "",
+ "question": "Which type of DNA is commonly found inside the cell? किस प्रकार का DNA कोशिका में सामान्य रूप से पाया जाता है?",
+ "options": ["C - DNA", "B - DNA", "Z - DNA", "A - DNA"],
+ "answer": 1,
+ "summary": "B-DNA कोशिका में सामान्य रूप से पाया जाने वाला DNA है; यह सबसे सामान्य व स्थायी रूप होता है।",
+ "mnemonic": "Body cell = B-DNA"
+},
+{
+ "q": 141,
+ "subject": "",
+ "question": "Which example of sessile animal among following? निम्न में से एकस्थ – अचल जंतु का उदाहरण है?",
+ "options": ["Leach/लीच", "Chiton/काइटन", "Echinus/इकाइनस", "Euplectella/यूप्लेक्टेला"],
+ "answer": 3,
+ "summary": "यूप्लेक्टेला एकस्थ (sessile/अचल) जंतु का उदाहरण है, जो एक स्थान पर स्थिर रहता है।",
+ "mnemonic": "Sessile = Euplectella (sponge, hilta nahi)"
+},
+{
+ "q": 142,
+ "subject": "",
+ "question": "Unit of protein molecule is प्रोटीन अणुओं की इकाई है—",
+ "options": ["Fatty acid/वसा अम्ल", "Amino acid/अमीनो अम्ल", "Vitamin/विटामिन", "Glucose/ग्लूकोज"],
+ "answer": 1,
+ "summary": "प्रोटीन अणुओं की इकाई अमीनो अम्ल है; अमीनो अम्ल आपस में जुड़कर प्रोटीन का निर्माण करते हैं।",
+ "mnemonic": "Protein ki unit = Amino acid"
+},
+{
+ "q": 143,
+ "subject": "",
+ "question": "Which organelle is absent in plant cell? निम्न में से कौन-सा अंगक पादप कोशिका में अनुपस्थित होता है?",
+ "options": ["Plastids/लवक", "Vacuoles/रिक्तिकाएँ", "Centrosome/तारककाय", "Cellulose cell wall/सेल्यूलोज कोशिका भित्ति"],
+ "answer": 2,
+ "summary": "तारककाय (Centrosome) पादप कोशिका में अनुपस्थित होता है, जबकि लवक, रिक्तिका व सेल्यूलोज भित्ति पादप कोशिका में पायी जाती हैं।",
+ "mnemonic": "Plant cell mein Centrosome nahi"
+},
+{
+ "q": 144,
+ "subject": "",
+ "question": "Largest gland in human body is मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है—",
+ "options": ["Pituitary Gland/पीयूष ग्रंथि", "Adrenal Gland/अधिवृक्क ग्रंथि", "Liver/यकृत", "Pancreas/अग्नाशय"],
+ "answer": 2,
+ "summary": "यकृत मनुष्य के शरीर की सबसे बड़ी ग्रन्थि है, जो पित्त का स्रावण करती है।",
+ "mnemonic": "Largest gland = Liver (yakrit)"
+},
+{
+ "q": 145,
+ "subject": "",
+ "question": "State bird of Uttar Pradesh is उत्तर प्रदेश का राज्य पक्षी है—",
+ "options": ["Peacock/मोर", "House Sparrow/गौरैया", "Parrot/तोता", "Sarus Crane/सारस क्रेन"],
+ "answer": 3,
+ "summary": "सारस क्रेन उत्तर प्रदेश का राज्य पक्षी है; जबकि मोर भारत का राष्ट्रीय पक्षी है।",
+ "mnemonic": "UP state bird = Sarus Crane"
+},
+{
+ "q": 146,
+ "subject": "",
+ "question": "Hamlet is associated with which settlement? पुरवा किस अधिवास में शामिल है—",
+ "options": ["Rural/ग्रामीण", "Linear/रेखीय", "Urban/नगरीय", "Fragmented/अपखंडित"],
+ "answer": 0,
+ "summary": "पुरवा (Hamlet) ग्रामीण अधिवास में शामिल है; ये ग्राम, पल्ली आदि के अंतर्गत आते हैं।",
+ "mnemonic": "Hamlet = Rural (purwa gaon ka hissa)"
+},
+{
+ "q": 147,
+ "subject": "",
+ "question": "Which is volcano mountain? कौन-सा ज्वालामुखी पर्वत है?",
+ "options": ["Ural/यूराल", "Appalachian/अपलेशियन", "Kilimanjaro/किलिमंजारो", "Aravali/अरावली"],
+ "answer": 2,
+ "summary": "किलिमंजारो एक ज्वालामुखी पर्वत है, जो अफ्रीका की सबसे ऊँची चोटी है।",
+ "mnemonic": "Volcano = Kilimanjaro (Africa)"
+},
+{
+ "q": 148,
+ "subject": "",
+ "question": "Elephanta Island is located at एलीफेण्टा द्वीप अवस्थित है—",
+ "options": ["Coral Coast/मूँगा तट", "Mumbai Coast/मुम्बई तट", "Ganga Delta/गंगा डेल्टा", "Kutch Coast/कच्छ तट"],
+ "answer": 1,
+ "summary": "एलीफेण्टा द्वीप मुम्बई तट पर अवस्थित है; यह द्वीप अपनी प्राचीन गुफाओं व मूर्तियों के लिए प्रसिद्ध है।",
+ "mnemonic": "Elephanta = Mumbai coast"
+},
+{
+ "q": 149,
+ "subject": "",
+ "question": "Monsoon forests are found where rainfall is मानसूनी वन पाये जाते हैं जहाँ वर्षा होती है—",
+ "options": ["150-200 cm/150-200 सेमी", "50-150 cm/50-150 सेमी", "70-100 cm/70-100 सेमी", "70-200 cm/70-200 सेमी"],
+ "answer": 0,
+ "summary": "मानसूनी (पर्णपाती) वन वहाँ पाये जाते हैं जहाँ वर्षा 150-200 सेमी होती है; ये भारत में सबसे अधिक क्षेत्र में फैले हैं।",
+ "mnemonic": "Monsoon forest = 150-200 cm rain"
+},
+{
+ "q": 150,
+ "subject": "",
+ "question": "Karbi Anglong Plateau is an extension of कार्बी ऑगलोंग पठार विस्तार है—",
+ "options": ["Himalaya/हिमालय का", "Plain/मैदान का", "Shan plateau/शान पठार का", "Peninsular plateau/प्रायद्वीपीय पठार का"],
+ "answer": 3,
+ "summary": "कार्बी ऑगलोंग पठार प्रायद्वीपीय पठार का विस्तार है, जो मेघालय में स्थित है।",
+ "mnemonic": "Karbi Anglong = Peninsular plateau ka extension"
+}
+]

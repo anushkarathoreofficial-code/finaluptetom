@@ -1,0 +1,434 @@
+[
+{
+ "q": 41,
+ "subject": "",
+ "question": "'प्रगीतिका' में किस उपसर्ग का प्रयोग है?",
+ "options": ["प्र", "गी", "ति", "का"],
+ "answer": 0,
+ "summary": "'प्रगीतिका' शब्द में 'प्र' उपसर्ग का प्रयोग हुआ है।",
+ "mnemonic": "PRAgeetika ka PRA = upsarg"
+},
+{
+ "q": 42,
+ "subject": "",
+ "question": "'तुलसीदास' किसकी कविता है?",
+ "options": ["मुक्तबोध", "अज्ञेय", "हरिवंशराय बच्चन", "सूर्यकांत त्रिपाठी 'निराला'"],
+ "answer": 3,
+ "summary": "'तुलसीदास' सूर्यकांत त्रिपाठी 'निराला' की रचना है।",
+ "mnemonic": "Tulsidas likha NIRALA ne"
+},
+{
+ "q": 43,
+ "subject": "",
+ "question": "'गंभीर' का सही विलोम-शब्द है?",
+ "options": ["चपल + चपल", "विभोर + सार", "अधीर + अकार", "धीर + कार"],
+ "answer": 1,
+ "summary": "'गंभीर' शब्द का सही विलोम 'विभोर + सार' दिया गया है।",
+ "mnemonic": "Gambhir ka ulta = vibhor saar"
+},
+{
+ "q": 44,
+ "subject": "",
+ "question": "'वैदेही वनवास' किसकी रचना है?",
+ "options": ["रामधारी सिंह 'दिनकर'", "मैथिलीशरण गुप्त", "अयोध्यासिंह उपाध्याय 'हरिऔध'", "श्रीधर पाठक"],
+ "answer": 2,
+ "summary": "'वैदेही वनवास' अयोध्यासिंह उपाध्याय 'हरिऔध' की रचना है।",
+ "mnemonic": "Vaidehi Vanvas = HARIAUDH"
+},
+{
+ "q": 45,
+ "subject": "",
+ "question": "निम्न में से पुल्लिंग शब्द का चयन कीजिए।",
+ "options": ["पहिया", "लिखावट", "पठाई", "महिमा"],
+ "answer": 0,
+ "summary": "दिए गए शब्दों में 'पहिया' पुल्लिंग शब्द है।",
+ "mnemonic": "PAHIYA = pulling"
+},
+{
+ "q": 47,
+ "subject": "",
+ "question": "संप्रेषण-कला का विकास किससे होता है?",
+ "options": ["अभ्यास", "रटना", "अध्ययन", "अनुकरण"],
+ "answer": 0,
+ "summary": "संप्रेषण-कला का विकास अभ्यास द्वारा होता है।",
+ "mnemonic": "Sampreshan badhe ABHYAS se"
+},
+{
+ "q": 48,
+ "subject": "",
+ "question": "निम्न में संयुक्त व्यंजन कौन-सा नहीं है?",
+ "options": ["य", "ष", "क्ष", "त्र"],
+ "answer": 0,
+ "summary": "दिए गए विकल्पों में 'य' संयुक्त व्यंजन नहीं है; क्ष, त्र, ज्ञ संयुक्त व्यंजन हैं।",
+ "mnemonic": "YA akela, baaki sanyukt"
+},
+{
+ "q": 49,
+ "subject": "",
+ "question": "'सूर्यजय' पद में कौन-सा समास है?",
+ "options": ["द्वंद्व", "कर्मधारय", "बहुव्रीहि", "द्विगु"],
+ "answer": 2,
+ "summary": "'सूर्यजय' शब्द में बहुव्रीहि समास है।",
+ "mnemonic": "Suryajay = BAHUVRIHI"
+},
+{
+ "q": 50,
+ "subject": "",
+ "question": "'अलंकार' में किस उपसर्ग का प्रयोग है?",
+ "options": ["अरि", "अल", "अलं", "सलंक"],
+ "answer": 2,
+ "summary": "'अलंकार' में 'अलं' उपसर्ग का प्रयोग हुआ है।",
+ "mnemonic": "ALANkar ka ALAN = upsarg"
+},
+{
+ "q": 51,
+ "subject": "",
+ "question": "यह पुस्तक किसकी है? रेखांकित शब्द का पद-परिचय दीजिए।",
+ "options": ["सार्वनामिक विशेषण (पुरुषवाचक विशेषण), एकवचन, स्त्रीलिंग", "सर्वनाम, एकवचन, स्त्रीलिंग", "गुणवाचक विशेषण (पुरुषवाचक विशेषण), एकवचन", "सम्बंधवाचक सर्वनाम"],
+ "answer": 0,
+ "summary": "'यह' का पद-परिचय सार्वनामिक विशेषण, एकवचन, स्त्रीलिंग है।",
+ "mnemonic": "YEH = sarvnamik visheshan"
+},
+{
+ "q": 52,
+ "subject": "",
+ "question": "'विश्लेषण' शब्द का विलोम होगा-",
+ "options": ["विवेचन", "वशीकरण", "संश्लेषण", "विभाजित"],
+ "answer": 2,
+ "summary": "'विश्लेषण' शब्द का विलोम 'संश्लेषण' होता है।",
+ "mnemonic": "Vishleshan ka ulta = SANSHLESHAN"
+},
+{
+ "q": 53,
+ "subject": "",
+ "question": "किसी व्यक्ति के ऊपर के दाँतों पर जीभ लगाने से होने है, उसे क्या कहते हैं?",
+ "options": ["कंठ्य", "मूर्धन्य", "ओष्ठ्य", "अनुनासिक"],
+ "answer": 1,
+ "summary": "ऊपर के दाँतों पर जीभ लगाने से उच्चारित ध्वनियाँ मूर्धन्य व्यंजन कहलाती हैं।",
+ "mnemonic": "Daanton-jeebh = MURDHANYA"
+},
+{
+ "q": 55,
+ "subject": "",
+ "question": "'अत्यधिक' का विलोम क्या है?",
+ "options": ["अत्याल्प", "अत्यधिक", "अल्प", "अधिक"],
+ "answer": 0,
+ "summary": "'अत्यधिक' का विलोम 'अत्याल्प' होता है।",
+ "mnemonic": "Atyadhik ka ulta = ATYALP"
+},
+{
+ "q": 56,
+ "subject": "",
+ "question": "'ज्ञान' का विलोम क्या है?",
+ "options": ["अदृश्य", "सम", "विवाँ", "अविज्ञान"],
+ "answer": 3,
+ "summary": "'ज्ञान' शब्द का विलोम 'अज्ञान' (अविज्ञान) होता है।",
+ "mnemonic": "Gyan ka ulta = AGYAN"
+},
+{
+ "q": 57,
+ "subject": "",
+ "question": "'संकल्प' शब्द में उपसर्ग बताइए।",
+ "options": ["सम्", "सं", "सर", "सम"],
+ "answer": 1,
+ "summary": "'संकल्प' शब्द में 'सं' उपसर्ग लगा हुआ है।",
+ "mnemonic": "SANkalp ka SAN = upsarg"
+},
+{
+ "q": 58,
+ "subject": "",
+ "question": "मुझसे यह भी हुआ नहीं जाता। इस वाक्य का प्रयोग होगा-",
+ "options": ["भाववाच्य", "कर्तृवाच्य", "कर्मवाच्य", "अन्य"],
+ "answer": 0,
+ "summary": "'मुझसे यह भी हुआ नहीं जाता' वाक्य भाववाच्य का उदाहरण है।",
+ "mnemonic": "Mujhse hua nahi = BHAAV-vachya"
+},
+{
+ "q": 59,
+ "subject": "",
+ "question": "तद्भव और हिन्दी तत्सम का कौन-सा मेल गलत है?",
+ "options": ["तौल-तोल", "औषधि-ओषधि", "रूप्य-रूपा", "आदर्श-आदर्शम"],
+ "answer": 3,
+ "summary": "तत्सम-तद्भव में 'आदर्श-आदर्शम' का मेल गलत है।",
+ "mnemonic": "Aadarsh-aadarsham = GALAT mel"
+},
+{
+ "q": 60,
+ "subject": "",
+ "question": "लेखक और उसकी रचना का कौन-सा जोड़ा गलत है?",
+ "options": ["संस्कृति के घर अध्याय- रामधारी सिंह 'दिनकर'", "रसो-स्तन- आचार्य महावीर प्रसाद द्विवेदी", "स्वतंत्रता- लक्ष्मीनारायण मिश्र", "अशोक के फूल- आचार्य हजारी प्रसाद द्विवेदी"],
+ "answer": 1,
+ "summary": "लेखक-रचना में 'रसो-स्तन- आचार्य महावीर प्रसाद द्विवेदी' जोड़ा गलत है।",
+ "mnemonic": "Raso-stan jodi = GALAT"
+},
+{
+ "q": 61,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following words is 'plural'?",
+ "options": ["Dog", "Fox", "Goat", "Mice"],
+ "answer": 3,
+ "summary": "'Mice' is a plural word because it is the plural form of 'mouse'.",
+ "mnemonic": "MICE = plural of mouse"
+},
+{
+ "q": 62,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following words is regarded as singular?",
+ "options": ["Dogs", "Mathematics", "Cats", "Cars"],
+ "answer": 1,
+ "summary": "'Mathematics' itself is a complete singular word; subject name is always singular.",
+ "mnemonic": "MATHEMATICS = singular"
+},
+{
+ "q": 63,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following sentences is in active voice?",
+ "options": ["He was asked to keep quiet.", "A house was bought for fifty lacs.", "I requested him to come in time.", "His behaviour was good."],
+ "answer": 2,
+ "summary": "In active voice the subjects acts; 'I requested him to come in time.' is active.",
+ "mnemonic": "I requested = ACTIVE voice"
+},
+{
+ "q": 64,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following sentences is in passive voice?",
+ "options": ["Please mend your business.", "I kept quiet throughout the meeting.", "He was assisted by a group of students.", "They came late and lost the match."],
+ "answer": 2,
+ "summary": "In passive voice the subject receives the action; 'He was assisted by a group of students.' is passive.",
+ "mnemonic": "WAS assisted = PASSIVE"
+},
+{
+ "q": 65,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "\"That is the man he prefer was seeking.\" In the above sentence, what is the status of the two 'the's'?",
+ "options": ["Verb", "Noun", "Conjunction", "Definite article"],
+ "answer": 3,
+ "summary": "'A', 'An' and 'The' are articles; 'The' is a definite article.",
+ "mnemonic": "THE = definite article"
+},
+{
+ "q": 66,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "\"These students are most disobedient.\" In the above sentence, what is the gender of the word 'students'.",
+ "options": ["Feminine gender", "Common gender", "Conjunction", "Definite article"],
+ "answer": 1,
+ "summary": "Common Gender deals with both masculine and feminine; 'students' can be male or female.",
+ "mnemonic": "STUDENTS = common gender"
+},
+{
+ "q": 67,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "\"He was going along the road\", point out the tense.",
+ "options": ["Present perfect", "Past perfect", "Past continuous", "Future indefinite"],
+ "answer": 2,
+ "summary": "Past Continuous rule: subject + was/were + v1+ing + object; 'He was going along the road' is past continuous.",
+ "mnemonic": "WAS going = past CONTINUOUS"
+},
+{
+ "q": 68,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Language learning starts from",
+ "options": ["writing", "reading", "listening", "speaking"],
+ "answer": 2,
+ "summary": "Language learning starts from listening; child listens first then produces words.",
+ "mnemonic": "Bhasha shuru = LISTENING"
+},
+{
+ "q": 69,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "What is the main purpose of poetry recitation in a language classroom?",
+ "options": ["To know the historical background of the poem", "To enjoy and appreciate the poem", "To give their opinions about poem", "To become aware of the poet and his/her work"],
+ "answer": 1,
+ "summary": "The main purpose of poetry recitation is to enjoy and appreciate the poem.",
+ "mnemonic": "Kavita = enjoy & appreciate"
+},
+{
+ "q": 70,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Fill in the blanks with the correct article : Yesterday I saw .......... European riding on .......... elephant.",
+ "options": ["the, the", "a, an", "a, a", "an, the"],
+ "answer": 1,
+ "summary": "'European' takes 'a' (yu sound) and 'Elephant' takes 'an' (vowel sound), so 'a, an'.",
+ "mnemonic": "a European, an elephant"
+},
+{
+ "q": 71,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Choose the correct sentence :",
+ "options": ["Please describe me the story", "Please describe the story.", "Please describe to me the story.", "Please describe to the story."],
+ "answer": 1,
+ "summary": "'Describe' is not followed by a preposition; 'Please describe the story.' is correct.",
+ "mnemonic": "Describe + no preposition"
+},
+{
+ "q": 72,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Fill in the blank with correct preposition : A prisoner was accused .......... murder.",
+ "options": ["of", "for", "to", "off"],
+ "answer": 0,
+ "summary": "'Accused of' is the correct collocation; accused of murder.",
+ "mnemonic": "Accused OF murder"
+},
+{
+ "q": 73,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "The antonym of 'innocent' is",
+ "options": ["clever", "ignorant", "active", "guilty"],
+ "answer": 3,
+ "summary": "The correct antonym of 'innocent' is 'guilty'.",
+ "mnemonic": "Innocent ka ulta = GUILTY"
+},
+{
+ "q": 74,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "The synonym of 'significant' is",
+ "options": ["prominent", "magnificent", "efficient", "important"],
+ "answer": 3,
+ "summary": "The correct synonym of 'significant' is 'important'.",
+ "mnemonic": "Significant = IMPORTANT"
+},
+{
+ "q": 75,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which one of the following words can be made plural by adding a suffix 'en'?",
+ "options": ["Box", "Tax", "Max", "Ox"],
+ "answer": 3,
+ "summary": "Suffix 'en' makes select letters words plural; Ox + en = Oxen.",
+ "mnemonic": "OX + en = Oxen"
+},
+{
+ "q": 76,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Choose the correct pronoun to complete the following sentence : This dress is .......... and that one is mine.",
+ "options": ["our book", "your book", "yours", "your"],
+ "answer": 2,
+ "summary": "'Yours' is the correct possessive pronoun; This dress is yours.",
+ "mnemonic": "YOURS = possessive pronoun"
+},
+{
+ "q": 77,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Change the following sentence into passive voice : Have the girls asked this question?",
+ "options": ["This question have asked by girls", "Has this question been asked by the girls?", "Has this question asked by the girls?", "Have this question asked by the girls?"],
+ "answer": 1,
+ "summary": "Passive of Present Perfect interrogative: change into present perfect continuous Tense (has been, have been).",
+ "mnemonic": "HAS this question BEEN asked"
+},
+{
+ "q": 78,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which kind of noun is Gangapur?",
+ "options": ["Common noun", "Collective noun", "Proper noun", "Material noun"],
+ "answer": 2,
+ "summary": "Gangapur is a name of place and a Proper Noun; spelled with an initial capital letter.",
+ "mnemonic": "Gangapur = PROPER noun"
+},
+{
+ "q": 79,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which part of speech is the word 'brave'?",
+ "options": ["Noun", "Pronoun", "Adjective", "Preposition"],
+ "answer": 2,
+ "summary": "'Brave' is an Adjective; adjectives are one of the eight parts of speech that tells more about a noun.",
+ "mnemonic": "Brave = ADJECTIVE"
+},
+{
+ "q": 80,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following words is a material noun?",
+ "options": ["Cow", "Air", "Gold", "Class"],
+ "answer": 2,
+ "summary": "Material Noun refers to a material or substance like gold; Gold is a material noun.",
+ "mnemonic": "GOLD = material noun"
+},
+{
+ "q": 81,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following words is an abstract noun?",
+ "options": ["Connection", "Boy", "Women", "Plough"],
+ "answer": 0,
+ "summary": "Abstract noun refers to an idea or a general quality, not a physical object; Connection is abstract.",
+ "mnemonic": "CONNECTION = abstract noun"
+},
+{
+ "q": 82,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which kind of noun is 'adversity'?",
+ "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+ "answer": 2,
+ "summary": "Adversity is an Abstract Noun.",
+ "mnemonic": "ADVERSITY = abstract noun"
+},
+{
+ "q": 83,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which part of speech is the word 'hard' in the sentence 'He is working hard'?",
+ "options": ["Adverb", "Conjunction", "Preposition", "Noun"],
+ "answer": 0,
+ "summary": "Adverb: a word that can be used before noun, verb, a phrase or another verb; 'hard' is an adverb here.",
+ "mnemonic": "Working HARD = adverb"
+},
+{
+ "q": 84,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following sentences has a 'conjunction'?",
+ "options": ["She is up to jumpt tomorrow.", "I am nobody for you.", "She is poor but she is by nature hospitable.", "My grandfather is not well."],
+ "answer": 2,
+ "summary": "Conjunction is a word used for joining other words, phrases or sentences; 'but' joins here.",
+ "mnemonic": "BUT = conjunction"
+},
+{
+ "q": 85,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Point out the sentence which is in present perfect tense.",
+ "options": ["I shall go to Jaunpur tomorrow.", "She is very intelligent.", "Your sister visited us yesterday.", "I have finished my work."],
+ "answer": 3,
+ "summary": "Rule of Present Perfect Tense: Sub + have/has + v3 form + object; 'I have finished my work.' is present perfect.",
+ "mnemonic": "HAVE finished = present perfect"
+},
+{
+ "q": 86,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following is a misspelt word?",
+ "options": ["Desiccation", "Derogatory", "Dessication", "Dermatitis"],
+ "answer": 2,
+ "summary": "'Desiccation' is correct (निर्जलीकरण); 'Dessication' is misspelt.",
+ "mnemonic": "DESSICATION = wrong spelling"
+},
+{
+ "q": 87,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following sentences has a transitive verb?",
+ "options": ["She walks in the morning daily.", "He is running very fast.", "She writes well.", "I killed a snake last night."],
+ "answer": 3,
+ "summary": "Transitive verb requires an object; 'I killed a snake last night.' has a transitive verb.",
+ "mnemonic": "Killed a snake = transitive verb"
+},
+{
+ "q": 88,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following sentences is negative?",
+ "options": ["I come from a rich family.", "You can do all this to me time.", "He does not listen to me.", "They are very capable people."],
+ "answer": 2,
+ "summary": "Negative sentence uses Not/Never; 'He does not listen to me.' is negative.",
+ "mnemonic": "Does NOT = negative"
+},
+{
+ "q": 89,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Which of the following sentence is exclamatory?",
+ "options": ["What a piece of work is man.", "What do you know about ancient India.", "Which is your favourite book.", "His cruelty knew no bounds."],
+ "answer": 0,
+ "summary": "Exclamatory sentence conveys excitement or emotion; 'What a piece of work is man.' is exclamatory.",
+ "mnemonic": "WHAT a...! = exclamatory"
+},
+{
+ "q": 90,
+ "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+ "question": "Point out the complex sentence.",
+ "options": ["They are very wise people.", "You know me well.", "She does not sing.", "One who does not love one's country is a wretched person."],
+ "answer": 3,
+ "summary": "Complex sentence has one or more independent clauses; 'One who does not love one's country is a wretched person.' is complex.",
+ "mnemonic": "One WHO... = complex sentence"
+}
+]

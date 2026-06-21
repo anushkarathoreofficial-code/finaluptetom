@@ -1,0 +1,227 @@
+[
+{
+ "q": 1,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Which of the following is NOT the main views of learning given by thorndike?/थार्नडाइक के द्वारा दिया गया अधिगम का मुख्य नियम नहीं है?",
+ "options": ["(a) Law of Exercise/अभ्यास का नियम", "(b) Law of Readiness/तत्परता का नियम", "(c) Law of Effect/प्रभाव का नियम", "(d) Law of attitude/अभिवृत्ति का नियम"],
+ "answer": 3,
+ "summary": "थार्नडाइक द्वारा दिए गए अधिगम के मुख्य तीन नियम हैं - अभ्यास का नियम, तत्परता का नियम और प्रभाव का नियम। अभिवृत्ति का नियम इनमें शामिल नहीं है।",
+ "mnemonic": "Thorndike ke 3 niyam: Exercise, Readiness, Effect - 'ERE'; Attitude bahar."
+},
+{
+ "q": 2,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Kohler and Kofka believed learning to a function of -/कोहलर तथा कॉफ्का के अनुसार अधिगम होता है-",
+ "options": ["(a) Imitation/अनुकरण द्वारा", "(b) Trial effort/प्रयास द्वारा", "(c) Insight/सूझ द्वारा", "(d) Exercise/अभ्यास द्वारा"],
+ "answer": 2,
+ "summary": "कोहलर तथा कॉफ्का गेस्टाल्टवादी थे, जिनके अनुसार अधिगम सूझ या अंतर्दृष्टि द्वारा होता है।",
+ "mnemonic": "Kohler-Koffka Gestalt = Insight/Soojh se seekhna."
+},
+{
+ "q": 3,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Who was the father of social constructivism?/सामाजिक निर्माणवाद के जनक कौन थे?",
+ "options": ["(a) Novak/नोवाक", "(b) Vygotsky/वायगोत्सकी", "(c) Piaget/पियाजे", "(d) Glaserfied/ग्लासरफील्ड"],
+ "answer": 1,
+ "summary": "सामाजिक निर्माणवाद के जनक वायगोत्सकी हैं, जिन्होंने सीखने में सामाजिक एवं सांस्कृतिक कारकों पर बल दिया।",
+ "mnemonic": "Social constructivism = Vygotsky (Social = V)."
+},
+{
+ "q": 4,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Which of the following is not a characteristic of development?/निम्न में से कौन विकास का विशेषता नहीं है?",
+ "options": ["(a) To be cumulative/संचयी होना", "(b) To be Directional./दिशात्मक होना", "(c) To be specific./विशिष्ट होना", "(d) To be uncontrolled and independent./अनियंत्रित एवं स्वतंत्र होना"],
+ "answer": 3,
+ "summary": "विकास संचयी, दिशात्मक एवं विशिष्ट होता है; अनियंत्रित एवं स्वतंत्र होना विकास की विशेषता नहीं है।",
+ "mnemonic": "Vikas controlled hota hai - uncontrolled/independent NAHI."
+},
+{
+ "q": 5,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Author of the book 'Hereditary Genius' is :/'हेरिडिटरी जीनियस' पुस्तक के लेखक हैं -",
+ "options": ["(a) Hurlock/हरलॉक", "(b) Galton/गाल्टन", "(c) Woodworth/वुडवर्थ", "(d) Ross/रॉस"],
+ "answer": 1,
+ "summary": "'हेरिडिटरी जीनियस' पुस्तक के लेखक गाल्टन हैं।",
+ "mnemonic": "Hereditary Genius = Galton (G se G)."
+},
+{
+ "q": 6,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Lowest level of cognitive achievement is :/संज्ञानात्मक उपलब्धि का न्यूनतम स्तर है-",
+ "options": ["(a) Understanding/बोध", "(b) Knowledge/ज्ञान", "(c) Application/अनुप्रयोग", "(d) Evaluation/मूल्यांकन"],
+ "answer": 1,
+ "summary": "ब्लूम के संज्ञानात्मक उद्देश्य में ज्ञान सबसे निम्न स्तर है, उसके बाद बोध, अनुप्रयोग, विश्लेषण, संश्लेषण और मूल्यांकन आते हैं।",
+ "mnemonic": "Bloom ka sabse neeche = Knowledge/Gyaan."
+},
+{
+ "q": 7,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "The last step of microteaching is :/सूक्ष्म-शिक्षण का अंतिम सोपान है-",
+ "options": ["(a) Feedback/प्रतिपुष्टि", "(b) Re-planning/पुन: योजना", "(c) Re-feedback/पुन: प्रतिपुष्टि", "(d) Re-teaching/पुन: शिक्षण"],
+ "answer": 2,
+ "summary": "सूक्ष्म-शिक्षण का अंतिम अर्थात अंतिम सोपान पुन: प्रतिपुष्टि (Re-feedback) है।",
+ "mnemonic": "Microteaching ka last step = Re-feedback (Punah pratipushti)."
+},
+{
+ "q": 8,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "According to 'Guilford', divergent thinking requires :/गिल्फोर्ड के अनुसार अपसारी चिंतन में आवश्यक है-",
+ "options": ["(a) Categorization./वर्गीकरण", "(b) Fluency of ideas./विचारों की प्रवाहशीलता", "(c) Arithmatical reasoning./अंकगणितीय तर्क", "(d) One solution./एक समाधान"],
+ "answer": 1,
+ "summary": "गिल्फोर्ड के अनुसार अपसारी चिंतन में विचारों की प्रवाहशीलता आवश्यक होती है, जिसमें अनेक समाधान खोजे जाते हैं।",
+ "mnemonic": "Guilford divergent = ideas ki Fluency (anek solutions)."
+},
+{
+ "q": 9,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Who is the propounder of Brain-storming method?/मस्तिष्क उद्वलन विधि के प्रतिपादक कौन हैं?",
+ "options": ["(a) John Dewey/जॉन डीवी", "(b) Osborn/ऑसबोर्न", "(c) Hurlock/हरलॉक", "(d) Ausubel/ऑसुबेल"],
+ "answer": 1,
+ "summary": "मस्तिष्क उद्वलन (Brain-storming) विधि के प्रतिपादक ऑसबोर्न हैं।",
+ "mnemonic": "Brain-storming = Osborn (O se O)."
+},
+{
+ "q": 10,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Who is associated with Thematic Apperception test./प्रसंगात्मक अंतर्बोध परीक्षण से कौन सम्बंधित है?",
+ "options": ["(a) C.D. Morgan/सी.डी. मॉर्गन", "(b) H.A. Murray/एच.ए. मुर्रे", "(c) Both (a) and (b)/(a) एवं (b) दोनों", "(d) J.L. Moreno/जे.एल. मोरेनो"],
+ "answer": 2,
+ "summary": "प्रसंगात्मक अंतर्बोध परीक्षण (TAT) सी.डी. मॉर्गन एवं एच.ए. मुर्रे दोनों से सम्बंधित है।",
+ "mnemonic": "TAT = Morgan + Murray dono (Both a and b)."
+},
+{
+ "q": 11,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "First stage of creative thinking is known as :/सर्जनात्मक चिंतन की प्रथम अवस्था कहलाती है-",
+ "options": ["(a) Preparation/आयोजन", "(b) Incubation/उद्भवन", "(c) Illumination/प्रकाश", "(d) Revision/संशोधन"],
+ "answer": 0,
+ "summary": "सर्जनात्मक चिंतन की प्रथम अवस्था आयोजन (Preparation) है, इसके बाद उद्भवन, प्रकाश और सत्यापन आते हैं।",
+ "mnemonic": "Creative thinking first = Preparation/Aayojan."
+},
+{
+ "q": 12,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Stimulus Response theory was propounded by:/उद्दीपक अनुक्रिया सिद्धांत का प्रतिपादन किया गया-",
+ "options": ["(a) Thorndike/थार्नडाइक", "(b) Gestalt/गेस्टाल्ट", "(c) Both of the above/उपर्युक्त दोनों", "(d) None of the above/इनमें से कोई नहीं"],
+ "answer": 0,
+ "summary": "उद्दीपक अनुक्रिया सिद्धांत का प्रतिपादन थार्नडाइक ने किया, जिसके अधिगम के तीन मुख्य नियम हैं।",
+ "mnemonic": "Stimulus-Response (S-R) = Thorndike."
+},
+{
+ "q": 13,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Which factors affect learning :/कौन-से कारक अधिगम को प्रभावित करते हैं?",
+ "options": ["(a) Personal factor/व्यक्तिगत कारक", "(b) Environmental factor/वातावरण सम्बन्धी कारक", "(c) Social factor/सामाजिक कारक", "(d) All of the above/उपर्युक्त सभी"],
+ "answer": 3,
+ "summary": "अधिगम को व्यक्तिगत, वातावरण सम्बन्धी और सामाजिक सभी कारक प्रभावित करते हैं।",
+ "mnemonic": "Learning ko sabhi affect karte = All of the above."
+},
+{
+ "q": 14,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Who gave the concept of multiple intelligence./बहुबुद्धि का सिद्धांत किसने दिया था-",
+ "options": ["(a) Piaget/पियाजे", "(b) Bruner/ब्रूनर", "(c) Gardner/गार्डनर", "(d) Vygotsky/वायगोत्सकी"],
+ "answer": 2,
+ "summary": "बहुबुद्धि का सिद्धांत गार्डनर द्वारा दिया गया, जिसमें उन्होंने विभिन्न प्रकार की बुद्धियों का वर्णन किया।",
+ "mnemonic": "Multiple intelligence = Gardner."
+},
+{
+ "q": 15,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Spearman has given :/स्पीयरमैन ने दिया-",
+ "options": ["(a) Two factor theory of intelligence/बुद्धि का द्विकारक सिद्धांत", "(b) Group factor theory of intelligence/बुद्धि का समूहकारक सिद्धांत", "(c) Multi factor theory of intelligence/बुद्धि का बहुकारक सिद्धांत", "(d) None of the above/इनमें से कोई नहीं"],
+ "answer": 0,
+ "summary": "स्पीयरमैन ने बुद्धि का द्विकारक सिद्धांत दिया, जिसमें सामान्य कारक (G-Factor) और विशिष्ट कारक (S-Factor) शामिल हैं।",
+ "mnemonic": "Spearman = Two factor (G aur S Factor)."
+},
+{
+ "q": 16,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Project method is associated with :/प्रोजेक्ट विधि सम्बंधित है-",
+ "options": ["(a) Kilpatrick/किलपैट्रिक", "(b) Rousseau/रूसो", "(c) Montessori/मॉटेसरी", "(d) Froebel/फ्रोबेल"],
+ "answer": 0,
+ "summary": "प्रोजेक्ट विधि का प्रतिपादन किलपैट्रिक द्वारा किया गया, जो जॉन डीवी के विचारों पर आधारित है।",
+ "mnemonic": "Project method = Kilpatrick."
+},
+{
+ "q": 17,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "In Lesson plan, what is related to students previous knowledge?/पाठ योजना में छात्र के पूर्व अधिगम से सम्बंधित है-",
+ "options": ["(a) Objective writing/उद्देश्य लेखन", "(b) Introductory questions/प्रस्तावना प्रश्न", "(c) Evaluation question/मूल्यांकन प्रश्न", "(d) Statement of aim/लक्ष्य कथन"],
+ "answer": 1,
+ "summary": "पाठ-योजना में प्रस्तावना प्रश्न छात्र के पूर्व अधिगम या पूर्व ज्ञान से सम्बंधित होते हैं।",
+ "mnemonic": "Purva gyaan = Prastavana/Introductory questions."
+},
+{
+ "q": 18,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Choose the wrong statement :/गलत कथन को चुनें-",
+ "options": ["(a) Student learn best in natural environment/छात्र स्वाभाविक वातावरण में अच्छा सीखते हैं", "(b) Student learn best by doing/छात्र करके अच्छा सीखते हैं", "(c) Student learn best in play-way method/छात्र खेल-खेल में अच्छा सीखते हैं", "(d) Student learn best in controlled environment/छात्र नियंत्रित वातावरण में अच्छा सीखते हैं"],
+ "answer": 3,
+ "summary": "छात्र स्वाभाविक वातावरण, करके तथा खेल-खेल में अच्छा सीखते हैं; नियंत्रित वातावरण में सीखना गलत कथन है।",
+ "mnemonic": "Galat = controlled environment; natural/doing/play sahi."
+},
+{
+ "q": 19,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Which amendment of the constitution emphasized on right to education?/संविधान के किस संशोधन से शिक्षा के अधिकार पर बल दिया गया है?",
+ "options": ["(a) 52nd/52 वाँ", "(b) 86th/86 वाँ", "(c) 68th/68 वाँ", "(d) 22nd/22 वाँ"],
+ "answer": 1,
+ "summary": "संविधान के 86वें संशोधन से शिक्षा के अधिकार पर बल दिया गया, जिसके तहत 6-14 वर्ष के बच्चों को निःशुल्क एवं अनिवार्य शिक्षा का अधिकार मिला (अनुच्छेद 21A)।",
+ "mnemonic": "Right to Education = 86th amendment (Article 21A)."
+},
+{
+ "q": 20,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Functions of teaching includes :/शिक्षण के कार्य में सम्मिलित है-",
+ "options": ["(a) Evaluation function/मूल्यांकन कार्य", "(b) Remedial function/उपचारात्मक कार्य", "(c) Diagnostic function/निदानात्मक कार्य", "(d) All of these/उपर्युक्त सभी"],
+ "answer": 3,
+ "summary": "शिक्षण के कार्यों में मूल्यांकन, उपचारात्मक एवं निदानात्मक सभी कार्य सम्मिलित हैं।",
+ "mnemonic": "Teaching functions = sabhi (Evaluation, Remedial, Diagnostic)."
+},
+{
+ "q": 21,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Teaching will be best effective when :/शिक्षण सबसे कम प्रभावशाली होगा, जब-",
+ "options": ["(a) Teacher is active/शिक्षक एकाधिकारवादी होगा", "(b) Students are passive/विद्यार्थी निष्क्रिय होंगे", "(c) Emphasis is only on writing/केवल लेखन पर बल हो", "(d) All of these/उपर्युक्त सभी"],
+ "answer": 3,
+ "summary": "शिक्षण सबसे कम प्रभावशाली तब होगा जब शिक्षक एकाधिकारवादी हो, विद्यार्थी निष्क्रिय हों और केवल लेखन पर बल हो - अर्थात उपर्युक्त सभी।",
+ "mnemonic": "Sabse KAM prabhavshali = sab galat conditions (All of these)."
+},
+{
+ "q": 22,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Theory of Trans formational Grammar was given by :/भाषा रूपांतरण सिद्धांत किसने दिया-",
+ "options": ["(a) Bernstein/बर्नस्टीन", "(b) Chomsky/चॉमस्की", "(c) Filmore/फिल्मोर", "(d) Skinner/स्किनर"],
+ "answer": 1,
+ "summary": "भाषा रूपांतरण व्याकरण सिद्धांत (Transformational Grammar) चॉमस्की द्वारा दिया गया।",
+ "mnemonic": "Transformational Grammar = Chomsky."
+},
+{
+ "q": 23,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Which is not correct with reference to physical structure of the body?/शारीरिक गठन के सन्दर्भ में कौन सही नहीं है?",
+ "options": ["(a) Mexomorphic/मेसोमॉर्फिक", "(b) Antagonistic/एन्टागोनिस्टिक", "(c) Ectomorphic/एक्टोमॉर्फिक", "(d) Endomorphic/एण्डोमॉर्फिक"],
+ "answer": 1,
+ "summary": "शारीरिक गठन के सन्दर्भ में मेसोमॉर्फिक, एक्टोमॉर्फिक एवं एण्डोमॉर्फिक सही हैं; एन्टागोनिस्टिक सही नहीं है।",
+ "mnemonic": "Body types = Meso/Ecto/Endo morphic; Antagonistic galat."
+},
+{
+ "q": 24,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Identify the components of motivation from the following :/निम्नांकित में अभिप्रेरणा के घटकों की पहचान करें-",
+ "options": ["(a) Need/आवश्यकता", "(b) Drive/अंतर्नोद", "(c) Incentive/प्रेरक", "(d) All of the above/उपर्युक्त सभी"],
+ "answer": 3,
+ "summary": "अभिप्रेरणा के घटकों में आवश्यकता, अंतर्नोद और प्रेरक - उपर्युक्त सभी शामिल हैं।",
+ "mnemonic": "Motivation ke ghatak = Need, Drive, Incentive - All."
+},
+{
+ "q": 25,
+ "subject": "बाल विकास एवं शिक्षण विधि",
+ "question": "Psycho-Analytic theory was propounded by :/मनोविश्लेषणात्मक सिद्धांत के प्रतिपादक हैं -",
+ "options": ["(a) Singmund freud/सिगमंड फ्रायड", "(b) Allport/आलपोर्ट", "(c) Freud/फ्रायड", "(d) Both (b) and (c)/(b) एवं (c) दोनों"],
+ "answer": 0,
+ "summary": "मनोविश्लेषणात्मक सिद्धांत के प्रतिपादक सिगमंड फ्रायड हैं।",
+ "mnemonic": "Psycho-Analytic = Sigmund Freud."
+}
+]

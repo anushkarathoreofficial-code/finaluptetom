@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#4f46e5">
+<title>UPTET Quiz</title>
+<style>
+  :root{
+    --bg:#0f1220; --card:#1a1f35; --card2:#232a45; --ink:#eef1ff; --muted:#9aa3c7;
+    --brand:#6366f1; --brandd:#4f46e5; --good:#22c55e; --goodbg:#0e3a22;
+    --bad:#ef4444; --badbg:#3a1414; --line:#2c3354; --gold:#f5b301;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans Devanagari",Roboto,sans-serif;
+    font-size:17px; line-height:1.55; padding-bottom:88px;
+  }
+  header{
+    position:sticky;top:0;z-index:20;background:linear-gradient(135deg,var(--brandd),var(--brand));
+    padding:14px 16px 10px; box-shadow:0 4px 18px rgba(0,0,0,.35);
+  }
+  .htop{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .htop h1{font-size:18px;margin:0;font-weight:800;letter-spacing:.3px}
+  .pill{background:rgba(255,255,255,.18);padding:3px 10px;border-radius:999px;font-size:12.5px;font-weight:700}
+  .bar{height:7px;background:rgba(255,255,255,.22);border-radius:999px;margin-top:10px;overflow:hidden}
+  .bar > i{display:block;height:100%;background:#fff;width:0;transition:width .35s ease}
+  .barlbl{font-size:11.5px;opacity:.92;margin-top:5px;display:flex;justify-content:space-between}
+
+  .wrap{max-width:640px;margin:0 auto;padding:16px}
+
+  .controls{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+  select,.btn{
+    background:var(--card2);color:var(--ink);border:1px solid var(--line);
+    border-radius:12px;padding:10px 12px;font-size:14px;font-weight:600;
+  }
+  select{flex:1;min-width:140px}
+  .btn{cursor:pointer}
+  .btn.ghost{background:transparent}
+
+  .meta{font-size:12.5px;color:var(--muted);margin-bottom:8px;display:flex;justify-content:space-between;gap:8px}
+  .subj{background:var(--card2);color:#c7cef5;padding:2px 9px;border-radius:999px;font-weight:700;font-size:12px}
+
+  .qcard{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 8px 26px rgba(0,0,0,.28)}
+  .qtext{font-size:19px;font-weight:700;line-height:1.5;margin:2px 0 16px}
+  .qtext .num{color:var(--brand);font-weight:800;margin-right:6px}
+
+  .opt{
+    display:flex;align-items:flex-start;gap:11px;width:100%;text-align:left;
+    background:var(--card2);border:1.5px solid var(--line);border-radius:13px;
+    padding:13px 14px;margin-bottom:10px;color:var(--ink);font-size:16.5px;
+    cursor:pointer;transition:.12s; font-weight:600;
+  }
+  .opt:active{transform:scale(.992)}
+  .opt .lab{flex:0 0 26px;height:26px;border-radius:50%;background:var(--bg);
+    display:grid;place-items:center;font-size:13px;font-weight:800;color:var(--muted);border:1px solid var(--line)}
+  .opt.correct{background:var(--goodbg);border-color:var(--good)}
+  .opt.correct .lab{background:var(--good);color:#04210f;border-color:var(--good)}
+  .opt.wrong{background:var(--badbg);border-color:var(--bad)}
+  .opt.wrong .lab{background:var(--bad);color:#2a0606;border-color:var(--bad)}
+  .opt.dim{opacity:.55}
+  .opt[disabled]{cursor:default}
+
+  .reveal{margin-top:6px;border-radius:14px;overflow:hidden;border:1px solid var(--line);display:none}
+  .reveal.show{display:block;animation:rise .25s ease}
+  @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .verdict{padding:11px 14px;font-weight:800;font-size:15px;display:flex;align-items:center;gap:8px}
+  .verdict.ok{background:var(--goodbg);color:#7ff0a8}
+  .verdict.no{background:var(--badbg);color:#ff9a9a}
+  .block{padding:13px 14px;border-top:1px solid var(--line)}
+  .block h4{margin:0 0 5px;font-size:12px;letter-spacing:.6px;text-transform:uppercase;color:var(--muted)}
+  .block p{margin:0;font-size:15.5px;line-height:1.55}
+  .mnem{background:#1d2746}
+  .mnem p{color:#ffe7a3}
+  .mnem h4{color:var(--gold)}
+
+  .nav{display:flex;gap:10px;margin-top:16px}
+  .nav .btn{flex:1;text-align:center;padding:14px;font-size:16px;border-radius:14px}
+  .primary{background:var(--brand);border-color:var(--brand);color:#fff}
+
+  .empty{text-align:center;color:var(--muted);padding:60px 20px}
+  .empty .big{font-size:46px;margin-bottom:10px}
+
+  /* bottom tabs */
+  nav.tabs{
+    position:fixed;left:0;right:0;bottom:0;z-index:30;display:flex;
+    background:var(--card);border-top:1px solid var(--line);
+    padding:6px 6px calc(6px + env(safe-area-inset-bottom));
+  }
+  nav.tabs button{
+    flex:1;background:none;border:0;color:var(--muted);font-size:11px;font-weight:700;
+    display:flex;flex-direction:column;align-items:center;gap:3px;padding:6px 2px;cursor:pointer;border-radius:10px;
+  }
+  nav.tabs button .ic{font-size:20px}
+  nav.tabs button.on{color:var(--brand)}
+  nav.tabs button .cnt{position:absolute;transform:translate(16px,-6px);background:var(--bad);color:#fff;
+    font-size:10px;min-width:16px;height:16px;border-radius:999px;display:grid;place-items:center;padding:0 4px;font-weight:800}
+
+  .statgrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;text-align:center}
+  .stat .n{font-size:30px;font-weight:800}
+  .stat .l{font-size:12.5px;color:var(--muted);margin-top:3px}
+  .stat.g .n{color:var(--good)} .stat.b .n{color:var(--bad)} .stat.m .n{color:var(--gold)}
+  .danger{color:#ff9a9a;border-color:#5a2a2a}
+</style>
+</head>
+<body>
+<header>
+  <div class="htop">
+    <h1>📚 UPTET Quiz</h1>
+    <span class="pill" id="modePill">अभ्यास</span>
+  </div>
+  <div class="bar"><i id="prog"></i></div>
+  <div class="barlbl"><span id="progL">0 / 0</span><span id="scoreL">✅ 0  ❌ 0</span></div>
+</header>
+
+<div class="wrap" id="view"></div>
+
+<nav class="tabs">
+  <button data-tab="practice" class="on"><span class="ic">📝</span>अभ्यास</button>
+  <button data-tab="wrong"><span class="ic">🔁</span><span style="position:relative"><span class="cnt" id="wcnt" style="display:none">0</span></span>गलत</button>
+  <button data-tab="mastered"><span class="ic">⭐</span>याद</button>
+  <button data-tab="stats"><span class="ic">📊</span>आँकड़े</button>
+</nav>
+
+<script>
+const LS = 'uptet_quiz_v1';
+let DATA = [];           // all questions
+let state = {wrong:{}, mastered:{}, seen:{}, correct:0, attempts:0};
+let tab = 'practice';
+let queue = [];          // current question id list
+let idx = 0;
+let answered = false;
+
+function load(){ try{ const s=JSON.parse(localStorage.getItem(LS)); if(s) state=Object.assign(state,s);}catch(e){} }
+function save(){ localStorage.setItem(LS, JSON.stringify(state)); }
+
+function byId(id){ return DATA.find(q=>q.id===id); }
+function subjects(){ return [...new Set(DATA.map(q=>q.subject))].sort(); }
+function years(){ return [...new Set(DATA.map(q=>q.year).filter(Boolean))].sort().reverse(); }
+
+function buildQueue(){
+  const subj = (document.getElementById('subjSel')||{}).value || 'all';
+  const yr   = (document.getElementById('yearSel')||{}).value || 'all';
+  let pool = DATA.filter(q=> (subj==='all'||q.subject===subj) && (yr==='all'||q.year===yr));
+  let ids = pool.map(q=>q.id);
+  if(tab==='wrong')    ids = ids.filter(id=>state.wrong[id]);
+  if(tab==='mastered') ids = ids.filter(id=>state.mastered[id]);
+  return ids;
+}
+
+function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+
+function setTab(t){
+  tab=t; idx=0; answered=false;
+  document.querySelectorAll('nav.tabs button').forEach(b=>b.classList.toggle('on',b.dataset.tab===t));
+  const pill=document.getElementById('modePill');
+  pill.textContent = {practice:'अभ्यास',wrong:'गलत वाले',mastered:'याद हो गए',stats:'आँकड़े'}[t];
+  if(t==='stats'){ renderStats(); return; }
+  queue = buildQueue();
+  render();
+}
+
+function updateHeader(){
+  const total = queue.length;
+  const cur = total? Math.min(idx+1,total):0;
+  document.getElementById('progL').textContent = cur+' / '+total;
+  document.getElementById('prog').style.width = total? (cur/total*100)+'%':'0%';
+  document.getElementById('scoreL').textContent = '✅ '+state.correct+'  ❌ '+(state.attempts-state.correct);
+  const wc=Object.keys(state.wrong).length;
+  const wcnt=document.getElementById('wcnt');
+  wcnt.textContent=wc; wcnt.style.display = wc? 'grid':'none';
+}
+
+function controlsHTML(){
+  const sv = (document.getElementById('subjSel')||{}).value || 'all';
+  const yv = (document.getElementById('yearSel')||{}).value || 'all';
+  const sub = ['<option value="all">सभी विषय</option>']
+    .concat(subjects().map(s=>`<option value="${s}" ${s===sv?'selected':''}>${s}</option>`)).join('');
+  const yr = ['<option value="all">सभी वर्ष</option>']
+    .concat(years().map(y=>`<option value="${y}" ${y===yv?'selected':''}>UPTET ${y}</option>`)).join('');
+  return `<div class="controls">
+     <select id="yearSel" onchange="setTab(tab)">${yr}</select>
+     <select id="subjSel" onchange="setTab(tab)">${sub}</select>
+     <button class="btn ghost" onclick="shuffleQueue()">🔀 शफ़ल</button>
+  </div>`;
+}
+
+function shuffleQueue(){ queue=shuffle(buildQueue()); idx=0; answered=false; render(); }
+
+function render(){
+  const view=document.getElementById('view');
+  updateHeader();
+  if(tab==='stats') return;
+
+  if(!queue.length){
+    let msg = tab==='wrong'
+      ? {e:'🎉',t:'कोई गलत प्रश्न नहीं!',s:'गलत उत्तर यहाँ आएँगे। सही करते ही हट जाएँगे।'}
+      : tab==='mastered'
+      ? {e:'⭐',t:'अभी कुछ याद नहीं हुआ',s:'सही उत्तर दिए प्रश्न यहाँ जुड़ेंगे।'}
+      : {e:'📭',t:'कोई प्रश्न नहीं',s:'questions.json में प्रश्न जोड़ें।'};
+    view.innerHTML = controlsHTML()+`<div class="empty"><div class="big">${msg.e}</div><b>${msg.t}</b><p>${msg.s}</p></div>`;
+    return;
+  }
+  if(idx>=queue.length){
+    view.innerHTML = controlsHTML()+`<div class="empty"><div class="big">✅</div><b>सेट पूरा!</b>
+      <p>इस सेट के सारे प्रश्न हो गए।</p>
+      <button class="btn primary" style="margin-top:14px;padding:12px 22px" onclick="idx=0;answered=false;render()">फिर से शुरू करें</button></div>`;
+    return;
+  }
+
+  const q = byId(queue[idx]);
+  const labels=['A','B','C','D','E'];
+  let optsHTML = q.options.map((o,i)=>
+    `<button class="opt" data-i="${i}" onclick="choose(${i})"><span class="lab">${labels[i]}</span><span>${o}</span></button>`
+  ).join('');
+
+  view.innerHTML = controlsHTML()+`
+    <div class="meta"><span class="subj">${q.subject||'सामान्य'}</span><span>${q.src||q.id}</span></div>
+    <div class="qcard">
+      <div class="qtext"><span class="num">Q${idx+1}.</span>${q.question}</div>
+      <div id="opts">${optsHTML}</div>
+      <div class="reveal" id="reveal">
+        <div class="verdict" id="verdict"></div>
+        <div class="block"><h4>📖 सारांश</h4><p>${q.summary||'—'}</p></div>
+        ${q.mnemonic?`<div class="block mnem"><h4>🧠 याद रखने की ट्रिक</h4><p>${q.mnemonic}</p></div>`:''}
+      </div>
+      <div class="nav">
+        <button class="btn" onclick="prev()">← पिछला</button>
+        <button class="btn primary" id="nextBtn" onclick="next()">अगला →</button>
+      </div>
+    </div>`;
+  answered=false;
+}
+
+function choose(i){
+  if(answered) return;
+  answered=true;
+  const q=byId(queue[idx]);
+  state.seen[q.id]=true;
+  state.attempts++;
+  const correct = i===q.answer;
+  const btns=document.querySelectorAll('.opt');
+  btns.forEach((b,bi)=>{
+    b.setAttribute('disabled','');
+    if(bi===q.answer) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  const v=document.getElementById('verdict');
+  if(correct){
+    state.correct++;
+    state.mastered[q.id]=true;
+    delete state.wrong[q.id];
+    v.className='verdict ok'; v.textContent='✅ सही उत्तर!';
+  }else{
+    state.wrong[q.id]=true;
+    delete state.mastered[q.id];
+    v.className='verdict no'; v.textContent='❌ गलत — सही: '+['A','B','C','D','E'][q.answer];
+  }
+  document.getElementById('reveal').classList.add('show');
+  save(); updateHeader();
+}
+
+function next(){
+  // In wrong/mastered tab a question can leave its set once answered.
+  // Rebuild the queue, then only advance if the current item stayed in the set
+  // (if it left, the next item has shifted into this index already).
+  if(tab==='wrong' || tab==='mastered'){
+    const curId = queue[idx];
+    const stayed = tab==='wrong' ? !!state.wrong[curId] : !!state.mastered[curId];
+    queue = buildQueue();
+    if(stayed) idx++;
+  } else {
+    idx++;
+  }
+  answered=false; render();
+}
+function prev(){ if(idx>0){idx--; answered=false; render();} }
+
+function renderStats(){
+  const view=document.getElementById('view');
+  const total=DATA.length;
+  const seen=Object.keys(state.seen).length;
+  const mas=Object.keys(state.mastered).length;
+  const wr=Object.keys(state.wrong).length;
+  const acc= state.attempts? Math.round(state.correct/state.attempts*100):0;
+  view.innerHTML=`
+    <div class="statgrid">
+      <div class="stat"><div class="n">${total}</div><div class="l">कुल प्रश्न</div></div>
+      <div class="stat"><div class="n">${seen}</div><div class="l">अब तक देखे</div></div>
+      <div class="stat m"><div class="n">${mas}</div><div class="l">⭐ याद हो गए</div></div>
+      <div class="stat b"><div class="n">${wr}</div><div class="l">🔁 गलत वाले</div></div>
+      <div class="stat g"><div class="n">${acc}%</div><div class="l">सटीकता</div></div>
+      <div class="stat"><div class="n">${state.attempts}</div><div class="l">कुल प्रयास</div></div>
+    </div>
+    <div style="margin-top:18px;display:flex;flex-direction:column;gap:10px">
+      <button class="btn" onclick="resetProgress('wrong')">🔁 'गलत वाले' लिस्ट खाली करें</button>
+      <button class="btn danger" onclick="resetProgress('all')">🗑️ सारी प्रगति रीसेट करें</button>
+    </div>
+    <p style="color:var(--muted);font-size:12.5px;margin-top:18px;text-align:center">
+      प्रगति इसी फ़ोन/ब्राउज़र में सेव रहती है। ऑफलाइन भी चलता है।</p>`;
+}
+
+function resetProgress(kind){
+  if(kind==='wrong'){ if(!confirm("'गलत वाले' लिस्ट खाली करें?")) return; state.wrong={}; }
+  else { if(!confirm('सारी प्रगति मिटाएँ? यह वापस नहीं होगा।')) return;
+    state={wrong:{},mastered:{},seen:{},correct:0,attempts:0}; }
+  save(); updateHeader(); renderStats();
+}
+
+document.querySelectorAll('nav.tabs button').forEach(b=>b.onclick=()=>setTab(b.dataset.tab));
+
+// boot
+load();
+function boot(j){ DATA = j.questions||j; setTab('practice'); }
+if (window.QUESTIONS) {              // standalone single-file build (embedded data)
+  boot(window.QUESTIONS);
+} else {                             // served folder: load questions.json
+  fetch('questions.json',{cache:'no-store'})
+    .then(r=>r.json()).then(boot)
+    .catch(e=>{
+      document.getElementById('view').innerHTML =
+       `<div class="empty"><div class="big">⚠️</div><b>questions.json लोड नहीं हुआ</b>
+        <p style="font-size:13px">फ़ोन पर इस्तेमाल के लिए <b>UPTET-Quiz.html</b> (सिंगल फ़ाइल) खोलें — वह बिना सर्वर के चलती है।</p></div>`;
+    });
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,200 @@
+[
+{
+ "q": 20,
+ "subject": "",
+ "question": "Which of the following stages of development is called as \"A unique stage of emotional development\" by Cole and Bruce? / विकास की किस अवस्था को कोल तथा ब्रूस ने ''संवेगात्मक विकास का अनोखा अवस्था'' कहा है?",
+ "options": ["Infancy/शैशवावस्था", "Childhood/बाल्यावस्था", "Adulthood/प्रौढ़ावस्था", "Adolescence/किशोरावस्था"],
+ "answer": 3,
+ "summary": "कोल व ब्रूस ने किशोरावस्था (Adolescence) को संवेगात्मक विकास का अनोखा काल बताया है, क्योंकि यह माता-पिता के लिए बाल-विकास की द्रुत अवस्था के समझना कठिन होता है।",
+ "mnemonic": "Cole-Bruce ka 'unique emotion' = teenage (Adolescence)"
+},
+{
+ "q": 21,
+ "subject": "",
+ "question": "'Learning is any change in behaviour, resulting from behaviour' who said it? / 'व्यवहार के कारण व्यवहार में परिवर्तन ही अधिगम है' यह किसने कहा है?",
+ "options": ["Woodworth/वुडवर्थ", "Guilford/गिलफोर्ड", "Skinner/स्किनर", "Crow & Crow/क्रो एण्ड क्रो"],
+ "answer": 1,
+ "summary": "गिलफोर्ड के अनुसार व्यवहार के कारण व्यवहार में परिवर्तन ही अधिगम है। वुडवर्थ-नवीन ज्ञान, स्किनर-अनुकूलन, क्रो एण्ड क्रो-आदतों आदि का अर्जन।",
+ "mnemonic": "Behaviour se behaviour change = Guilford (G for 'gunge' behaviour)"
+},
+{
+ "q": 22,
+ "subject": "",
+ "question": "Match the List-A and List-B / सूची-A तथा सूची-B को सुमेलित कीजिए। List-A/सूची-A: A. Bruner/ब्रूनर, B. Ausubel/ऑसुबेल, C. Glasser/ग्लेजर, D. Gordon/गॉर्डन; List-B/सूची-B: I. Basic teaching model/बुनियादी शिक्षण प्रतिमान, II. Synectics teaching model/सायनेक्टिक्स शिक्षण प्रतिमान, III. Advance organiser teaching model/अग्रिम संगठक शिक्षण प्रतिमान, IV. Concept attainment teaching model/सम्प्रत्यय उपलब्धि शिक्षण प्रतिमान, V. Inquiry training model/पृच्छा प्रशिक्षण प्रतिमान",
+ "options": ["IV III I II", "IV III II I", "I II III V", "III II II V"],
+ "answer": 0,
+ "summary": "ब्रूनर-सम्प्रत्यय उपलब्धि (IV), ऑसुबेल-अग्रिम संगठक (III), ग्लेजर-बुनियादी (I), गॉर्डन-सायनेक्टिक्स (II) शिक्षण प्रतिमान।",
+ "mnemonic": "Bruner=Concept, Ausubel=Advance, Glasser=Basic, Gordon=synectics"
+},
+{
+ "q": 23,
+ "subject": "",
+ "question": "The first step of problem solving is : / समस्या समाधान का प्रथम चरण है-",
+ "options": ["Data collection/आँकड़ा संग्रहण", "Identification of problem/समस्या की पहचान", "Testing of hypothesis/परिकल्पना का परीक्षण", "Formulation of hypothesis/परिकल्पना का निर्माण"],
+ "answer": 1,
+ "summary": "समस्या-समाधान विधि के पाँच चरणों में प्रथम चरण समस्या की पहचान करना है, फिर परिकल्पना का निर्माण, आँकड़ा संग्रह, परीक्षण व निष्कर्ष।",
+ "mnemonic": "Problem solve karne se pehle problem ki Pehchaan"
+},
+{
+ "q": 24,
+ "subject": "",
+ "question": "Learning of children will be most effective when : / बालकों का अधिगम सर्वाधिक प्रभावशाली होगा, जब-",
+ "options": ["Emphasis will be only on reading, writing and mathematical skills/पढ़ने-लिखने एवं गणितीय कौशल पर ही बल दिया जायेगा", "Development of cognitive, affective and psychomotor domain of children will take place/बालकों के संज्ञानात्मक, भावात्मक तथा मनोपेशीय पक्ष का विकास होगा", "Teaching system will be autocratic/शिक्षण व्यवस्था स्वतंत्रात्मक होगी", "Teacher will lead the learning process and keep the children passive/शिक्षक अधिगम प्रक्रिया का नेतृत्व करेगा एवं बालकों को निष्क्रिय रखेगा"],
+ "answer": 1,
+ "summary": "बालकों का अधिगम तब सर्वाधिक प्रभावशाली होता है जब उनके संज्ञानात्मक, भावात्मक तथा मनोपेशीय तीनों पक्षों का विकास होता है।",
+ "mnemonic": "Sab side ka vikas (cognitive+affective+psychomotor) = best learning"
+},
+{
+ "q": 25,
+ "subject": "",
+ "question": "Which step is prominent in the syntax of teaching model of memory level and understanding level? / स्मृति स्तर एवं बोध स्तर के शिक्षण प्रतिमान की संरचना में कौन-सा सोपान उपलब्धि है?",
+ "options": ["Generalization/सामान्यीकरण", "Exploration/अन्वेषण", "Presentation/प्रस्तुतीकरण", "Planning/नियोजन"],
+ "answer": 2,
+ "summary": "स्मृति स्तर और बोध स्तर दोनों शिक्षण प्रतिमानों की संरचना में प्रस्तुतीकरण (Presentation) सोपान समान रूप से उपलब्ध है।",
+ "mnemonic": "Memory aur Bodh dono mein common = Presentation"
+},
+{
+ "q": 26,
+ "subject": "",
+ "question": "Which of the following theory is also known as theory of Reinforcement? / निम्न में किस सिद्धांत को पुनर्बलन का सिद्धांत भी कहते है?",
+ "options": ["Classical Conditioning Theory/शास्त्रीय अनुबन्धन सिद्धांत", "Stimulus Response Theory/उद्दीपक अनुक्रिया सिद्धांत", "Theory of Insight/सूझ का सिद्धांत", "Operant Conditioning Theory/क्रिया प्रसूत अनुबन्ध सिद्धांत"],
+ "answer": 3,
+ "summary": "क्रिया प्रसूत अनुबन्धन सिद्धांत (Operant Conditioning) को पुनर्बलन का सिद्धांत भी कहते हैं; स्किनर ने इसमें पुनर्बलन पर बल दिया।",
+ "mnemonic": "Operant = pOint reinforcement (Skinner ka pula)"
+},
+{
+ "q": 27,
+ "subject": "",
+ "question": "Which of the following stage is not the part of Bruner's Cognitive Development Theory? / निम्न में से कौन-सी अवस्था ब्रूनर के संज्ञानात्मक विकास सिद्धांत का भाग नहीं है?",
+ "options": ["Imitative stage/अनुकरण की अवस्था", "Iconic stage/प्रतिबिम्बात्मक अवस्था", "Symbolic stage/संकेतात्मक अवस्था", "Enactive stage/क्रियात्मक अवस्था"],
+ "answer": 0,
+ "summary": "ब्रूनर के संज्ञानात्मक विकास की तीन अवस्थाएँ हैं- क्रियात्मक (Enactive), प्रतिबिम्बात्मक (Iconic) और संकेतात्मक (Symbolic); अनुकरण अवस्था इसमें नहीं है।",
+ "mnemonic": "Bruner ke 3: Enactive-Iconic-Symbolic; Imitative NOT in"
+},
+{
+ "q": 28,
+ "subject": "",
+ "question": "Morrison has described five steps in his teaching model at understanding level which are : / मॉरीसन ने अपने अवबोध स्तर के शिक्षण प्रतिमान में पाँच चरणों का वर्णन किया है वे हैं- I. Presentation/प्रस्तुतिकरण, II. Exploration/खोज, III. Organisation/संगठन/व्यवस्था, IV. Assimilation/आत्मसातकरण, V. Recitation/वाचन/अधिगमीकरण; इनको सही क्रम है-",
+ "options": ["IV, V, III, I, II", "II, I, IV, III, V", "I, IV, III, II, V", "II, I, III, IV, V"],
+ "answer": 3,
+ "summary": "मॉरीसन के अवबोध स्तर शिक्षण प्रतिमान का सही क्रम है- खोज, प्रस्तुतीकरण, संगठन, आत्मसातकरण, वाचन/अधिगमीकरण (II, I, III, IV, V)।",
+ "mnemonic": "Morrison: Explore-Present-Organise-Assimilate-Recite (II I III IV V)"
+},
+{
+ "q": 29,
+ "subject": "",
+ "question": "Which of the following is not related with cognitive domain? / निम्न में से कौन-सा संज्ञानात्मक क्षेत्र से संबंधित नहीं है?",
+ "options": ["Valuing/अनुमूल्यन", "Application/अनुप्रयोग", "Understanding/बोध", "Knowledge/ज्ञान"],
+ "answer": 0,
+ "summary": "ब्लूम ने संज्ञानात्मक क्षेत्र में ज्ञान, बोध, अनुप्रयोग, संश्लेषण, विश्लेषण व मूल्यांकन रखे; अनुमूल्यन (Valuing) इसमें नहीं है।",
+ "mnemonic": "Cognitive mein Valuing NOT — Valuing toh feelings (affective) ka"
+},
+{
+ "q": 30,
+ "subject": "",
+ "question": "Which of the following is not the curve of learning? / निम्न में से कौन-सा अधिगम का वक्र नहीं है?",
+ "options": ["Concave/नतोदर", "Combination type/मिश्रित", "Longitudinal/लम्बवत्", "Convex/उन्नतोदर"],
+ "answer": 2,
+ "summary": "अधिगम वक्र मुख्यतः चार प्रकार के होते हैं- सरल रेखीय (समान निष्पादन), उन्नतोदर (बढ़ता निष्पादन), नतोदर (घटता निष्पादन) और मिश्रित; लम्बवत् वक्र नहीं होता।",
+ "mnemonic": "Learning curves: Straight, Convex, Concave, Combination — Longitudinal NOT"
+},
+{
+ "q": 31,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "प्रकाशन वर्ष की दृष्टि से डॉ. हरिवंश राय बच्चन की रचनाओं का सही अनुक्रम है-",
+ "options": ["मधुकलश, मधुबाला, मधुशाला, निशा निमंत्रण", "मधुशाला, मधुबाला, मधुकलश, निशा निमंत्रण", "निशा निमंत्रण, मधुशाला, मधुबाला, मधुकलश", "मधुशाला, मधुबाला, निशा निमंत्रण, मधुकलश"],
+ "answer": 1,
+ "summary": "हरिवंश राय बच्चन की रचनाओं का प्रकाशन क्रम- मधुशाला (1935), मधुबाला (1936), मधुकलश (1937), निशा निमंत्रण (1938)।",
+ "mnemonic": "Bachchan: shaala-baala-kalash-nimantran (1935-38)"
+},
+{
+ "q": 32,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "सुमेल कीजिए। I. हिन्दी साहित्य सम्मेलन, II. काशी नागरी प्रचारिणी सभा, III. राष्ट्रभाषा प्रचार समिति, वर्धा; A. 1893, B. 1918, C. 1910",
+ "options": ["A B C", "C B A", "B A C", "C A B"],
+ "answer": 1,
+ "summary": "हिन्दी साहित्य सम्मेलन-1910, काशी नागरी प्रचारिणी सभा-1893, राष्ट्र भाषा प्रचार समिति वर्धा-1918।",
+ "mnemonic": "Sahitya Sammelan=1910, Kashi Nagari=1893, Wardha=1918"
+},
+{
+ "q": 33,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "'तुलसीदास' के रचनाकार हैं-",
+ "options": ["महादेवी वर्मा", "केशवदास", "सूर्यकान्त त्रिपाठी 'निराला'", "डॉ. रामविलास शर्मा"],
+ "answer": 2,
+ "summary": "'तुलसीदास' के रचनाकार सूर्यकान्त त्रिपाठी 'निराला' हैं; इनकी अन्य रचनाएँ- परिमल, गीतिका, कुकुरमुत्ता, अनामिका, बेला, नये पत्ते, अर्चना, अराधना, गीत गुंज आदि।",
+ "mnemonic": "'Tulsidas' (kavya) likha Nirala ne"
+},
+{
+ "q": 34,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "'अन्यय से अनन्यय' आत्मकथा किसकी है?",
+ "options": ["मधु कांती", "प्रभा खेतान", "ममता कालिया", "उषा प्रियंवदा"],
+ "answer": 1,
+ "summary": "'अन्या से अनन्या' आत्मकथा प्रभा खेतान की है; यह आत्मकथा जीवन के अनुसृत यातनाओं को बेबाकी से व्यक्त करती है।",
+ "mnemonic": "'Anya se Ananya' = Prabha Khetan ki kahani"
+},
+{
+ "q": 35,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "'प्रभु जी तुम चंदन हम पानी' किसका वाक्य है?",
+ "options": ["कबीर", "रैदास", "नानक", "गुरु अर्जुन देव"],
+ "answer": 1,
+ "summary": "'प्रभु जी तुम चंदन हम पानी' पद रैदास की रचना है; ये संत रविदास के नाम से भी जाने जाते हैं।",
+ "mnemonic": "'Prabhu ji tum chandan hum paani' = Raidas"
+},
+{
+ "q": 36,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "निम्नलिखित में से कौन-सा शब्द तद्भव है?",
+ "options": ["बिडुरी", "खेत", "प्रभु", "नाग"],
+ "answer": 1,
+ "summary": "'खेत' तद्भव शब्द है, जो संस्कृत 'क्षेत्र' से बना है; शेष शब्द तत्सम हैं।",
+ "mnemonic": "Khet = tadbhav (kshetra se bana)"
+},
+{
+ "q": 37,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "निम्नलिखित में से कौन-सा शब्द देशज है?",
+ "options": ["धड़ाम", "लाश", "औरत", "पतलून"],
+ "answer": 0,
+ "summary": "'भड़ाम/धड़ाम' देशज शब्द है; लाश तुर्की व अरबी का तथा पतलून अंग्रेजी भाषा का शब्द है।",
+ "mnemonic": "Dhadaam = deshaj (local sound word); patloon=English"
+},
+{
+ "q": 38,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "छाछ्र के सिर पर चमेली का तेल का अर्थ है?",
+ "options": ["अयोग्य व्यक्ति की अच्छी सीख देना", "मिथ्या आडम्बर", "अधिक पाने की लालच करना", "योग्य व्यक्ति को अच्छी चीज देना"],
+ "answer": 0,
+ "summary": "'छाछ्र के सिर पर चमेली का तेल' इस लोकोक्ति का अर्थ है 'अयोग्य व्यक्ति की अच्छी सीख देना'।",
+ "mnemonic": "Chhachhr par chameli ka tel = ayogya ko achhi seekh"
+},
+{
+ "q": 39,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "'ज्ञानेंद्र' का संधि-विच्छेद क्या है?",
+ "options": ["ज्ञ + नेंद्र", "ज्ञ + नेद", "ज्ञान् + ऐद्र", "ज्ञान + ईंद्र"],
+ "answer": 1,
+ "summary": "'ज्ञानेंद्र' = ज्ञान् + ऐद्र; यह व्यंजन संधि का उदाहरण है। शेष उदाहरण- सत् + वाणी = सद्वाणी, दिक् + भ्रम = दिग्भ्रम, षट् + मास = षण्मास।",
+ "mnemonic": "Gyanendra = gyan + aindra (vyanjan sandhi)"
+},
+{
+ "q": 40,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "'आपबीती' शब्द में समास है-",
+ "options": ["कर्मधारय समास", "द्वन्द्व समास", "द्विगु समास", "तत्पुरुष समास"],
+ "answer": 3,
+ "summary": "'आपबीती' शब्द में अधिकरण तत्पुरुष समास है ('आप पर बीती'); उत्तर पद प्रधान एवं पूर्व पद गौण होता है।",
+ "mnemonic": "Aapbeeti = 'aap par beeti' = tatpurush samaas"
+},
+{
+ "q": 41,
+ "subject": "Language-I : Hindi / भाषा-I : हिन्दी",
+ "question": "'गोसले में चिड़िया है' में कौन-सा कारक है?",
+ "options": ["अपादान कारक", "सम्बन्ध कारक", "सम्प्रदान कारक", "अधिकरण कारक"],
+ "answer": 3,
+ "summary": "'गोसले में चिड़िया है' इस वाक्य में अधिकरण कारक है; क्रिया के आधार की सूचना देने वाले शब्द अधिकरण कारक कहलाते हैं, इसका परसर्ग 'में' व 'पर' होता है।",
+ "mnemonic": "'mein/par' = Adhikaran karak (location)"
+}
+]

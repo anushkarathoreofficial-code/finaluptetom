@@ -1,0 +1,425 @@
+[
+  {
+    "q": 41,
+    "subject": "हिन्दी भाषा",
+    "question": "'पुनरुक्त' शब्द में कौन-सा उपसर्ग है?",
+    "options": ["अव्यय", "सु", "नइ", "नइ"],
+    "answer": 0,
+    "summary": "'पुनरुक्त' शब्द में 'पुनर्' मूल शब्द एवं 'अवक्त' प्रत्यय है। शेष अग्रसर विकल्प हैं।",
+    "mnemonic": "Punarukt = punar + ukt, upsarg 'av'"
+  },
+  {
+    "q": 42,
+    "subject": "हिन्दी भाषा",
+    "question": "'गोपुर' शब्द का तद्भव है",
+    "options": ["घेरा", "गाय", "गोबर", "गोपन"],
+    "answer": 1,
+    "summary": "'गोपुर' शब्द का तद्भव रूप 'गाय' है। इसी तरह गाय का तत्सम-गौ, गोबर का तत्सम गोमय आदि।",
+    "mnemonic": "Gopur ka tadbhav = gaay (gau)"
+  },
+  {
+    "q": 43,
+    "subject": "हिन्दी भाषा",
+    "question": "'स्वच्छन्द' में कौन-सी सन्धि है?",
+    "options": ["विसर्ग", "व्यंजन", "दीर्घ", "गुण"],
+    "answer": 1,
+    "summary": "'स्वच्छन्द' में व्यंजन सन्धि है। स्व + छन्द = स्वच्छन्द।",
+    "mnemonic": "Swacchand = vyanjan sandhi"
+  },
+  {
+    "q": 44,
+    "subject": "हिन्दी भाषा",
+    "question": "महात्मा बुद्ध ने जब बुद्धत्व प्राप्त किया तब उनकी अवस्था कितनी थी?",
+    "options": ["12 वर्ष", "35 वर्ष", "32 वर्ष", "80 वर्ष"],
+    "answer": 1,
+    "summary": "महात्मा बुद्ध ने जब बुद्धत्व प्राप्त किया तब उनकी अवस्था 35 वर्ष की थी।",
+    "mnemonic": "Buddh ko gyaan = 35 saal"
+  },
+  {
+    "q": 45,
+    "subject": "हिन्दी भाषा",
+    "question": "'श्रुति धर्म' का क्या अर्थ है?",
+    "options": ["वेद", "स्मृति", "दान", "देवता"],
+    "answer": 0,
+    "summary": "'श्रुति धर्म' का अर्थ वेद है। वेदों को श्रुति कहा जाता है।",
+    "mnemonic": "Shruti dharm = Ved"
+  },
+  {
+    "q": 46,
+    "subject": "हिन्दी भाषा",
+    "question": "'गोपिका' शब्द किस तत्सम शब्द से बना है?",
+    "options": ["गोप", "गोपी", "गोपिक", "गोपन"],
+    "answer": 1,
+    "summary": "'गोपिका' शब्द 'गोपी' तत्सम शब्द से बना है।",
+    "mnemonic": "Gopika = Gopi se bana"
+  },
+  {
+    "q": 47,
+    "subject": "हिन्दी भाषा",
+    "question": "'मृत्यु' शब्द नहीं गया? वाक्य में काल्य है",
+    "options": ["अद्य", "नित्य", "बीते दिन", "अभी"],
+    "answer": 1,
+    "summary": "इस वाक्य में 'नित्य' काल्य का प्रयोग है।",
+    "mnemonic": "Nitya = sthayi kaal"
+  },
+  {
+    "q": 48,
+    "subject": "हिन्दी भाषा",
+    "question": "'जिसकी पूर्व से कोई आशा न हो' के लिए एक शब्द है",
+    "options": ["सम्भाव्य", "अप्रत्याशित", "आशा", "अकल्पित"],
+    "answer": 1,
+    "summary": "'जिसकी पूर्व से कोई आशा न हो' के लिए एक शब्द 'अप्रत्याशित' है।",
+    "mnemonic": "Aasha nahi = apratyashit"
+  },
+  {
+    "q": 49,
+    "subject": "हिन्दी भाषा",
+    "question": "'गोधूम' शब्द का तद्भव है",
+    "options": ["गेहूँ", "गाय", "गोबर", "गोधन"],
+    "answer": 0,
+    "summary": "'गोधूम' शब्द का तद्भव रूप 'गेहूँ' है। इसी तरह तत्सम के तद्भव रूप बनते हैं।",
+    "mnemonic": "Godhum ka tadbhav = gehu"
+  },
+  {
+    "q": 50,
+    "subject": "हिन्दी भाषा",
+    "question": "'निष्कपट' शब्द का सीधा-विपरीत है",
+    "options": ["निष्कपट", "सकपट", "कपट", "निरापट"],
+    "answer": 1,
+    "summary": "'निष्कपट' शब्द का सही विपरीत है- 'सकपट'। निस् + कपट = निष्कपट।",
+    "mnemonic": "Nishkapat ka vilom = sakapat"
+  },
+  {
+    "q": 51,
+    "subject": "हिन्दी भाषा",
+    "question": "निम्न में से किस शब्द की वर्तनी सही है?",
+    "options": ["अनुग्रहीत", "अनुगृहीत", "अनुग्रहित", "अनुग्रहीत"],
+    "answer": 1,
+    "summary": "इन शब्दों में सही वर्तनी 'अनुगृहीत' है। शेष शब्दों की वर्तनी अशुद्ध है।",
+    "mnemonic": "Sahi vartani = anugrihit"
+  },
+  {
+    "q": 52,
+    "subject": "हिन्दी भाषा",
+    "question": "'अंगेका' का विशेषण रूप क्या है?",
+    "options": ["अंगिया", "अंग्य", "अंगिमा", "अंगीकृत"],
+    "answer": 3,
+    "summary": "'अंगेका' का विशेषण रूप 'अंगीकृत' होता है।",
+    "mnemonic": "Angeka ka visheshan = angikrit"
+  },
+  {
+    "q": 53,
+    "subject": "हिन्दी भाषा",
+    "question": "'श' ध्वनि का उच्चारण स्थान क्या है?",
+    "options": ["तालु", "ओष्ठ", "दन्त", "तालव्य"],
+    "answer": 0,
+    "summary": "'श' ध्वनि का उच्चारण स्थान तालु है। य, र, ल, व, श, ष, स आदि अन्तःस्थ व्यंजन हैं।",
+    "mnemonic": "'Sh' = taalu se"
+  },
+  {
+    "q": 54,
+    "subject": "हिन्दी भाषा",
+    "question": "'अन्त' शब्द में प्रयुक्त उपसर्ग है?",
+    "options": ["अन्", "अन्त", "अति", "अन्ति"],
+    "answer": 2,
+    "summary": "'अन्त' शब्द में 'अति' उपसर्ग प्रयुक्त है। अति + अन्त।",
+    "mnemonic": "Ant me upsarg = ati"
+  },
+  {
+    "q": 55,
+    "subject": "हिन्दी भाषा",
+    "question": "'उपमान' का अर्थ है",
+    "options": ["समता", "वेद के पाठ", "पर्वत", "तुलना"],
+    "answer": 3,
+    "summary": "'उपमान' का अर्थ है 'तुलना'। उपमेय की तुलना जिससे की जाती है उसे उपमान कहते हैं।",
+    "mnemonic": "Upmaan = tulna"
+  },
+  {
+    "q": 56,
+    "subject": "हिन्दी भाषा",
+    "question": "'ङ' का उच्चारण स्थान होता है",
+    "options": ["नासिक्य", "कंठोष्ठ्य", "मूर्धन्य", "कंठतालव्य"],
+    "answer": 0,
+    "summary": "'ङ' का उच्चारण स्थान नासिक्य है। नासिका से उच्चारित ध्वनियाँ नासिक्य कहलाती हैं।",
+    "mnemonic": "'Nga' = naasikya"
+  },
+  {
+    "q": 57,
+    "subject": "हिन्दी भाषा",
+    "question": "'सार राज मतवारा' में कौन-सा विशेषण है?",
+    "options": ["संख्यावाचक", "गुणवाचक", "परिमाणवाचक", "सार्वनामिक"],
+    "answer": 1,
+    "summary": "'सार राज मतवारा' में परिमाणवाचक विशेषण है। इसमें राज की मात्रा का बोध हो रहा है।",
+    "mnemonic": "Sar raj matwara = parimaanvachak"
+  },
+  {
+    "q": 58,
+    "subject": "हिन्दी भाषा",
+    "question": "'सीस' का तत्सम रूप क्या है?",
+    "options": ["शीश", "शीर्ष", "सिर", "शीर्षक"],
+    "answer": 1,
+    "summary": "'सीस' का तत्सम रूप 'शीर्ष' है। शेष का प्रश्न समय की कोई सम्बन्ध नहीं है।",
+    "mnemonic": "Sees ka tatsam = shirsh"
+  },
+  {
+    "q": 59,
+    "subject": "हिन्दी भाषा",
+    "question": "'खोरछा' शब्द में समास है",
+    "options": ["द्वन्द्व", "द्विगु", "तत्पुरुष", "अव्ययीभाव"],
+    "answer": 1,
+    "summary": "'खोरछा' में द्विगु समास है। जिसका पूर्व पद संख्यावाचक हो।",
+    "mnemonic": "Khorcha = dvigu samaas"
+  },
+  {
+    "q": 60,
+    "subject": "हिन्दी भाषा",
+    "question": "'आँख की किरकिरी होना' का अर्थ है",
+    "options": ["अप्रिय लगना", "मोल लेना", "बहुत प्रिय होना", "अधिक लगना"],
+    "answer": 0,
+    "summary": "'आँख की किरकिरी होना' का अर्थ है- अप्रिय लगना। यह एक मुहावरा है।",
+    "mnemonic": "Aankh ki kirkiri = apriya lagna"
+  },
+  {
+    "q": 61,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Which of the following is a correct expression?",
+    "options": ["As cheerful as a lark", "As busy as a bee", "As happy as a donkey", "As clever as a horse"],
+    "answer": 1,
+    "summary": "सही expression है 'As busy as a bee'। यह एक simile (उपमा) है।",
+    "mnemonic": "Busy as a BEE — B for bee, B for busy"
+  },
+  {
+    "q": 62,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "The sentence, \"This is the house in which I was born\", is",
+    "options": ["a simple sentence", "a compound sentence", "a complex sentence", "a compound-complex sentence"],
+    "answer": 2,
+    "summary": "'This is the house in which I was born' एक complex sentence है क्योंकि इसमें एक main clause और एक subordinate clause है।",
+    "mnemonic": "'in which' = complex sentence"
+  },
+  {
+    "q": 63,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Which of the following words is a preposition?",
+    "options": ["Beyond", "And", "Yet", "Or"],
+    "answer": 0,
+    "summary": "इन चारों शब्दों में 'Beyond' preposition है। शेष conjunction हैं।",
+    "mnemonic": "Beyond = preposition"
+  },
+  {
+    "q": 64,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Which one is an adverb?",
+    "options": ["Apace", "Face", "Mock", "Fury"],
+    "answer": 0,
+    "summary": "'Apace' adverb है, शेष विकल्पों में Face-noun/verb, Mock-verb, Fury-noun हैं।",
+    "mnemonic": "Apace = adverb (a + pace)"
+  },
+  {
+    "q": 65,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Join the following sentences to make a simple sentence : The coffee isn't too strong. It won't keep us awake.",
+    "options": ["The coffee isn't too strong to keep us awake.", "The coffee isn't too strong and will not keep us awake.", "The coffee isn't too strong so it won't keep us awake.", "The coffee isn't too strong so as to keep us awake."],
+    "answer": 0,
+    "summary": "Simple sentence ऐसा sentence होता है जिसमें केवल एक finite verb होता है और एक ऐसा वाक्य 'The coffee isn't too strong to keep us awake' सही है।",
+    "mnemonic": "Simple = ek finite verb, 'too...to'"
+  },
+  {
+    "q": 66,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Fill in the blank with suitable pronoun: My son and my daughter are very fond of ………..",
+    "options": ["each other", "one another", "themselves", "ourselves"],
+    "answer": 0,
+    "summary": "दो व्यक्तियों के बीच उल्लेख के लिए each other का प्रयोग होता है, जबकि दो से अधिक के लिए one another का।",
+    "mnemonic": "Do log = each other"
+  },
+  {
+    "q": 67,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Give one word for 'one who hates mankind'.",
+    "options": ["Nazist", "Fascist", "Misanthrope", "Sadist"],
+    "answer": 2,
+    "summary": "'one who hates mankind' के लिए एक शब्द Misanthrope है जो मानव जाति से घृणा करने वाले को कहते हैं।",
+    "mnemonic": "Misanthrope = mankind hater"
+  },
+  {
+    "q": 68,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Transform the following sentence using the word 'book': \"Let me book the present for you.\"",
+    "options": ["Give me the book.", "Give the book.", "Please transfer the book.", "Can you give the book?"],
+    "answer": 2,
+    "summary": "इस sentence को Passive voice में बदलने पर 'Please transfer the book' सही रूप है।",
+    "mnemonic": "Active to Passive 'book'"
+  },
+  {
+    "q": 69,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Transform the following sentence into a direct sentence: I asked Sheela if I might know her father.",
+    "options": ["I said to Sheela, \"May I know your father?\"", "I told Sheela, \"May I know your father?\"", "I asked Sheela, \"Can I know your father?\"", "I questioned Sheela, \"Will I know your father?\""],
+    "answer": 0,
+    "summary": "Direct speech में asked को said to किया जाता है तथा comma का प्रयोग किया जाता है। Interrogative sentence में if हटाया जाता है।",
+    "mnemonic": "Indirect→Direct: asked→said to, if hatao"
+  },
+  {
+    "q": 70,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Fill in the blank to complete the following sentence: The Ministers are responsible………the Chief Minister of their State for their work.",
+    "options": ["for", "to", "of", "towards"],
+    "answer": 1,
+    "summary": "किसी व्यक्ति के प्रति जिम्मेदार होने के लिए 'responsible to' का प्रयोग होता है- किसी के प्रति उत्तरदायी।",
+    "mnemonic": "Responsible TO somebody"
+  },
+  {
+    "q": 71,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Complete the following sentence with correct conjunction: ………he had not paid his bill, his electricity was cut off.",
+    "options": ["That", "Either", "Unless", "Hence"],
+    "answer": 3,
+    "summary": "इस वाक्य में conjunction As का प्रयोग किया जाएगा। As he had not paid his bill, his electricity was cut off (चूँकि उसने अपना बिल भुगतान नहीं किया था, इसलिए बिजली काट दी गई)।",
+    "mnemonic": "Cause clause = Hence/As"
+  },
+  {
+    "q": 72,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Choose the correct figure of speech in the following sentence: Death lays his icy hand on kings.",
+    "options": ["Metaphor", "Personification", "Apostrophe", "Simile"],
+    "answer": 1,
+    "summary": "Death को इस वाक्य में एक मनुष्य की तरह प्रस्तुत किया गया है इसलिए यहाँ Personification (मानवीकरण अलंकार) का प्रयोग किया गया है।",
+    "mnemonic": "Death 'his hand' = Personification"
+  },
+  {
+    "q": 73,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "The study of population is known as :",
+    "options": ["Ecology", "Astronomy", "Demography", "Genealogy"],
+    "answer": 2,
+    "summary": "जनसंख्या के अध्ययन को Demography कहते हैं। Ecology-पारिस्थितिकी, Astronomy-खगोलशास्त्र, Genealogy-वंशावली का अध्ययन।",
+    "mnemonic": "Demography = population study (demo = log)"
+  },
+  {
+    "q": 74,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Give the meaning of the following proverb: A bird in hand is worth two in a bush",
+    "options": ["To catch two birds with your hands", "To be dissatisfied with what you have", "It is better to be satisfied with what you have than to try to get what is not yours", "To trap birds in bushes"],
+    "answer": 2,
+    "summary": "'A bird in hand is worth two in a bush' का अर्थ है जो तुम्हारे पास है उससे संतुष्ट रहना उस चीज़ से बेहतर है जो तुम्हारी नहीं है।",
+    "mnemonic": "Haath ki ek > jhaadi ki do"
+  },
+  {
+    "q": 75,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Which of the following sounds is not associated with the sound of a bell?",
+    "options": ["Chime", "Jingle", "Ring", "Dang"],
+    "answer": 1,
+    "summary": "Chime, jingle और ring घंटी की आवाज़ से सम्बंधित हैं, जबकि Dang इससे सम्बंधित नहीं है।",
+    "mnemonic": "Bell sound NOT = Jingle"
+  },
+  {
+    "q": 76,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Fill in the blank with the correct preposition: Are you sorry………what you have done?",
+    "options": ["with", "for", "by", "over"],
+    "answer": 1,
+    "summary": "किसी चीज़ के लिए खेद प्रकट करते समय 'sorry for something' का प्रयोग होता है।",
+    "mnemonic": "Sorry FOR something"
+  },
+  {
+    "q": 77,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Pick out the correct synonym of the following word: Attenuate",
+    "options": ["Repent", "Force", "Divide", "Make thin"],
+    "answer": 3,
+    "summary": "Attenuate का अर्थ है किसी को पतला या कमजोर बनाना। इसका synonym 'Make thin' है। Repent-पछताना, Force-बल।",
+    "mnemonic": "Attenuate = make thin (a-thin-uate)"
+  },
+  {
+    "q": 78,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Pick out the compound sentence.",
+    "options": ["To add to these troubles the servant ran away.", "Having no money yet, I could not give the beggar anything.", "I loved him because he was my friend.", "The servant ran away and added to my troubles."],
+    "answer": 3,
+    "summary": "Compound sentence में दो independent clause and, or, but आदि conjunction से जुड़े होते हैं। 'The servant ran away and added to my troubles' सही है।",
+    "mnemonic": "Compound = two clauses + and/or/but"
+  },
+  {
+    "q": 79,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Select the most appropriate preposition to complete the following sentence: Why are you always so suspicious………me?",
+    "options": ["off", "of", "for", "by"],
+    "answer": 1,
+    "summary": "किसी पर शक करने के लिए preposition 'of' का प्रयोग होता है- Suspicious of Somebody।",
+    "mnemonic": "Suspicious OF somebody"
+  },
+  {
+    "q": 80,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Choose the correct alternative to complete the following sentence: The Headmaster……… to speak to you.",
+    "options": ["wants", "is wanting", "was wanting", "None of the above"],
+    "answer": 0,
+    "summary": "दिये गये रिक्त स्थान पर विकल्प (a) wants भरा जायेगा। The Headmaster wants to speak to you (हेडमास्टर आपसे बात करना चाहते हैं)।",
+    "mnemonic": "Headmaster WANTS (present, no continuous)"
+  },
+  {
+    "q": 81,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "The word 'icy' in the passage is a/an",
+    "options": ["noun", "adjective", "adverb", "homonym of 'ice'"],
+    "answer": 1,
+    "summary": "इस passage में icy शब्द adjective है जो संज्ञा ice से बनी है।",
+    "mnemonic": "icy = adjective"
+  },
+  {
+    "q": 82,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "The word 'desert' in the passage is a",
+    "options": ["noun", "pronoun", "verb", "verbal"],
+    "answer": 0,
+    "summary": "इस passage में desert शब्द संज्ञा (noun) है।",
+    "mnemonic": "desert in passage = noun"
+  },
+  {
+    "q": 83,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "The word 'windiest' in the passage is a :",
+    "options": ["second form of verb", "superlative form of adjective", "superlative form of adverb", "comparative form of adjective"],
+    "answer": 1,
+    "summary": "यह शब्द windiest, Adjective की superlative form की रचना है।",
+    "mnemonic": "windiest = superlative adjective"
+  },
+  {
+    "q": 84,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Has Antarctica always been fixed in the South Pole?",
+    "options": ["Yes", "No", "May be", "Not given in the passage"],
+    "answer": 1,
+    "summary": "Has Antarctica always been fixed in the South Pole का उत्तर No है। Antarctica सदैव South Pole पर स्थित नहीं रहा है।",
+    "mnemonic": "Antarctica fixed? = No"
+  },
+  {
+    "q": 85,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "Who are the earliest known inhabitants of Antarctica?",
+    "options": ["American scientists", "Indian scientists", "Dinosaurs", "It has always been a desert"],
+    "answer": 2,
+    "summary": "Antarctica के सबसे प्रथम ज्ञात निवासी Dinosaurs थे।",
+    "mnemonic": "Antarctica earliest = Dinosaurs"
+  },
+  {
+    "q": 86,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "The writer believes that half-educated persons are apt to :",
+    "options": ["enjoy wine-drinking", "enjoy dreaming", "think properly", "appreciate hidden qualities of admirable literature"],
+    "answer": 0,
+    "summary": "इस passage में writer विश्वास करता है कि Half educated persons किसी admirable literature के छिपे गुणों की सराहना नहीं कर पाते हैं।",
+    "mnemonic": "Half-educated = enjoy wine-drinking"
+  },
+  {
+    "q": 87,
+    "subject": "भाग-III : अंग्रेजी (वैकल्पिक भाषा-II)",
+    "question": "The word 'narcotic' in the passage means :",
+    "options": ["great literature", "intoxicant", "false", "intellectual exercise"],
+    "answer": 1,
+    "summary": "narcotic का अर्थ है intoxicant (मादक पदार्थ)। passage में narcotic के सही अर्थ को intoxicant के रूप में लिया गया है।",
+    "mnemonic": "narcotic = intoxicant (madak)"
+  }
+]

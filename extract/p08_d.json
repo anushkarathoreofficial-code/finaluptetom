@@ -1,0 +1,281 @@
+[
+{
+ "q": 61,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "व्याकरण शिक्षण की मुख्य विधि है—",
+ "options": ["निगमन", "आगमन", "आगमन निगमन विधि", "इनमें कोई नहीं"],
+ "answer": 2,
+ "summary": "व्याकरण शिक्षण की मुख्य विधि आगमन-निगमन विधि है, इसमें आगमन से नियम तक तथा निगमन से नियम से उदाहरण तक पहुँचते हैं।",
+ "mnemonic": "Grammar = Aagman + Nigaman dono milkar"
+},
+{
+ "q": 62,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "कक्षा के बच्चों को उनकी आवश्यकताओं को बदलने में आप किस प्रकार सहायता करेंगे—",
+ "options": ["यदि बच्चों की आवश्यकता गलत हो तो दबाव डाल", "सुधार देकर याद करने हेतु कहना", "नम्यतापूर्वक जानकारी देकर", "आवश्यकताओं के बारे में बच्चों को अपनी समझ के व्यक्त करने का अवसर देकर"],
+ "answer": 3,
+ "summary": "बच्चों की आवश्यकताएँ बदलने में उन्हें अपनी समझ व्यक्त करने का अवसर देकर सहायता करनी चाहिए।",
+ "mnemonic": "Bachchon ko apni samajh vyakt karne ka mauka do"
+},
+{
+ "q": 63,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "मातृभाषा सीखने का स्वाभाविक क्रम है—",
+ "options": ["बोलना, सुनना, पढ़ना और लिखना।", "बोलना, सुनना, लिखना और पढ़ना।", "सुनना, बोलना, पढ़ना और लिखना।", "सुनना, पढ़ना, बोलना, लिखना।"],
+ "answer": 2,
+ "summary": "मातृभाषा सीखने का स्वाभाविक क्रम है — सुनना, बोलना, पढ़ना और लिखना।",
+ "mnemonic": "Suno-Bolo-Padho-Likho order yaad rakho"
+},
+{
+ "q": 64,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "देवता शब्द है—",
+ "options": ["पुल्लिंग", "स्त्रीलिंग", "नपुंसकलिंग", "उभयलिंग"],
+ "answer": 0,
+ "summary": "'देवता' शब्द 'देव' शब्द का रूप है और यह पुल्लिंग है।",
+ "mnemonic": "Devata hamesha Pulling"
+},
+{
+ "q": 65,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "53 को संस्कृत में कहते हैं—",
+ "options": ["त्रयः पञ्चाशत्", "त्रिपञ्चाशत्", "त्रयःपञ्चाशत्", "त्रिपञ्चशत्"],
+ "answer": 1,
+ "summary": "संस्कृत में 53 को 'त्रयःपञ्चाशत्/त्रिपञ्चाशत्' कहते हैं।",
+ "mnemonic": "53 = Tri-pancha-shat"
+},
+{
+ "q": 66,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "\"पठ्यपुस्तक प्रायः अशेष छात्र के लिये पढ़ी जाती है।\" यह कथन किसका है—",
+ "options": ["आइन्स्टीन", "एन. के. सिंघानिया", "आर्नोल्ड", "हॉल बायर"],
+ "answer": 2,
+ "summary": "\"पठ्यपुस्तक प्रायः अशेष छात्र के लिये पढ़ी जाती है\" यह कथन आर्नोल्ड का है।",
+ "mnemonic": "Pathya-pustak quote = Arnold"
+},
+{
+ "q": 67,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "रचनात्मक प्रणाली किस शिक्षण के लिए उपयुक्त है—",
+ "options": ["व्याकरण शिक्षण", "काव्य शिक्षण", "गद्य शिक्षण", "लेखन शिक्षण"],
+ "answer": 0,
+ "summary": "रचनात्मक प्रणाली व्याकरण शिक्षण के लिए उपयुक्त है।",
+ "mnemonic": "Rachnatmak pranali = Vyakaran"
+},
+{
+ "q": 68,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "मौखिक भाषा-शिक्षण की प्रत्यक्ष विधि है—",
+ "options": ["भाषण", "अनुलिपि", "प्रतिलिपि", "श्रुतलेख"],
+ "answer": 0,
+ "summary": "मौखिक भाषा-शिक्षण की प्रत्यक्ष विधि भाषण है, जिसमें प्रत्यक्ष रूप से वाचन किया जाता है।",
+ "mnemonic": "Maukhik = Bhashan (bolna)"
+},
+{
+ "q": 69,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'धरित्री' शब्द का अर्थ है—",
+ "options": ["पृथ्वी", "कठिन", "पवन", "जल"],
+ "answer": 0,
+ "summary": "'धरित्री' शब्द का अर्थ पृथ्वी है, यह सब पदार्थों को धारण करती है।",
+ "mnemonic": "Dharitri = Dharti = Prithvi"
+},
+{
+ "q": 70,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "पथपन (55) का संस्कृत में क्या कहेंगे?",
+ "options": ["पञ्चपञ्चाशत्", "पञ्चपञ्चशत्", "पञ्चपञ्चाशत", "पञ्चपञ्चशत"],
+ "answer": 0,
+ "summary": "संस्कृत में 55 को 'पञ्चपञ्चाशत्' कहते हैं।",
+ "mnemonic": "55 = Pancha-pancha-shat"
+},
+{
+ "q": 71,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "निम्नलिखित में से कौन सी कृति महाकवि कालिदास द्वारा रचित नहीं है?",
+ "options": ["अभिज्ञानशाकुन्तलम्", "विक्रमोर्वशीयम्", "रघुवंशम्", "मायाविशेषनाटकम्"],
+ "answer": 3,
+ "summary": "अभिज्ञानशाकुन्तलम्, विक्रमोर्वशीयम् व रघुवंशम् कालिदास की रचनाएँ हैं, परन्तु मायाविशेषनाटकम् उनकी रचना नहीं है।",
+ "mnemonic": "Kalidas nahi = Maya-vishesh-natakam"
+},
+{
+ "q": 72,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'श्री' शब्द प्रथमा विभक्ति एक-वचन का रूप है—",
+ "options": ["श्रीः", "श्रियः", "श्रियम्", "श्रिया"],
+ "answer": 0,
+ "summary": "'श्री' शब्द प्रथमा विभक्ति एकवचन का रूप 'श्रीः' है (ईकारान्त स्त्रीलिङ्ग)।",
+ "mnemonic": "Shri prathama ekvachan = Shri:"
+},
+{
+ "q": 73,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'अहं शिशुं पाठयामि' को कर्म वाच्य में परिवर्तित करने पर रूप प्राप्त होगा—",
+ "options": ["मया शिशुः पाठ्यते", "मया शिशुं पठयते", "मया शिशुः पठयते", "अहं शिशुं पठयते"],
+ "answer": 0,
+ "summary": "'अहं शिशुं पाठयामि' का कर्मवाच्य रूप 'मया शिशुः पाठ्यते' होता है, कर्ता तृतीया व कर्म प्रथमा में होता है।",
+ "mnemonic": "Karmvachya: Maya shishu: pathyate"
+},
+{
+ "q": 74,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'पाणिनम धातु प्रत्ययानि' में पाणिनी कारक है",
+ "options": ["अपादानकारक", "अधिकरण", "कर्म कारक", "करण कारक"],
+ "answer": 0,
+ "summary": "'पाणिनम धातु प्रत्ययानि' में पाणिनी अपादान कारक है।",
+ "mnemonic": "Panini = Apadan karak"
+},
+{
+ "q": 75,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "अनुस्वार का उच्चारण स्थान है—",
+ "options": ["ओष्ठ", "नासिका", "कण्ठ", "तालु"],
+ "answer": 1,
+ "summary": "अनुस्वार का उच्चारण स्थान नासिका है।",
+ "mnemonic": "Anuswar = Nasika (naak)"
+},
+{
+ "q": 76,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "शार्ङिगन्/शय का संधिच्छेद रूप होगा—",
+ "options": ["शार्ङिगन्शय", "शार्ङिगन्+शय", "शार्ङिग+न्शय", "अशयशिगन्"],
+ "answer": 1,
+ "summary": "शार्ङिगन्शय का संधिच्छेद 'शार्ङिगन्+शय' होगा।",
+ "mnemonic": "Sandhichhed = Sharngin + shaya"
+},
+{
+ "q": 77,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "उपक्रमम् में समास होगा—",
+ "options": ["कर्मधारय", "बहुव्रीहि", "केवल समास", "अव्ययीभाव"],
+ "answer": 3,
+ "summary": "उपक्रमम् में अव्ययीभाव समास होता है।",
+ "mnemonic": "Upakramam = Avyayibhav"
+},
+{
+ "q": 78,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "निम्न में कौन उपसर्ग है—",
+ "options": ["प्र", "क्तवतु", "क्त", "अनीयर्"],
+ "answer": 0,
+ "summary": "'प्र' एक उपसर्ग है; अन्य प्रत्यय हैं।",
+ "mnemonic": "Upsarg = Pra"
+},
+{
+ "q": 79,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "अव्यय शब्द नहीं है—",
+ "options": ["कदा", "यतः", "ततः", "ग्राम"],
+ "answer": 3,
+ "summary": "कदा, यतः, ततः अव्यय हैं परन्तु 'ग्राम' अव्यय नहीं है।",
+ "mnemonic": "Avyay nahi = Gram"
+},
+{
+ "q": 80,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'शतकारम्' के रचनाकार है—",
+ "options": ["पं. रंजन ठाकुरराय", "जयदेव", "भर्तृहरि", "अश्वक"],
+ "answer": 2,
+ "summary": "'शतकारम्' (शतकत्रयम्) के रचनाकार भर्तृहरि हैं।",
+ "mnemonic": "Shatakam = Bhartrihari"
+},
+{
+ "q": 81,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'नेत्र' को संस्कृत में कहेंगे—",
+ "options": ["श्रवण", "नयन", "श्रवणेन्द्रिय", "इनमें से कोई नहीं"],
+ "answer": 1,
+ "summary": "'नेत्र' को संस्कृत में 'नयन' कहते हैं।",
+ "mnemonic": "Netra = Nayan (aankh)"
+},
+{
+ "q": 84,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'दिवस' शब्द के सरलामी विभक्ति बहुवचन में रूप होता है—",
+ "options": ["दिवसम्", "दिवसेषु", "दिवसैः", "दिवसाः"],
+ "answer": 3,
+ "summary": "'दिवस' शब्द (अकारान्त पुल्लिंग) का प्रथमा विभक्ति बहुवचन रूप 'दिवसाः' होता है।",
+ "mnemonic": "Divas prathama bahuvachan = Divasaah"
+},
+{
+ "q": 85,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'नदी' शब्द के प्रथमा विभक्ति एकवचन का रूप निम्न में से कौन है?",
+ "options": ["नदी", "नदः", "नदी:", "नदीनाम्"],
+ "answer": 0,
+ "summary": "'नदी' शब्द (ईकारान्त स्त्रीलिंग) का प्रथमा विभक्ति एकवचन रूप 'नदी' होता है।",
+ "mnemonic": "Nadi prathama ekvachan = Nadi"
+},
+{
+ "q": 86,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'शिशु' शब्द का पर्यायवाची निम्न में से कौन नहीं है?",
+ "options": ["पिशुनः", "जन्तकः", "जनकः", "पिक:"],
+ "answer": 2,
+ "summary": "पिशुनः, जन्तकः 'शिशु' के पर्यायवाची हैं परन्तु 'जनकः' (पिता) नहीं है।",
+ "mnemonic": "Shishu nahi = Janak (pita)"
+},
+{
+ "q": 87,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "कोयल को संस्कृत में कहते हैं—",
+ "options": ["गरुणः", "व्यासः", "वाकेरः", "पिक:"],
+ "answer": 3,
+ "summary": "कोयल को संस्कृत में 'पिक:' कहते हैं।",
+ "mnemonic": "Koyal = Pik"
+},
+{
+ "q": 88,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'अंगुली' का वाचक संस्कृत शब्द है—",
+ "options": ["करः", "कराग्रजः", "करशाखा", "कन्धा"],
+ "answer": 2,
+ "summary": "'अंगुली' का वाचक संस्कृत शब्द 'कराग्रजः' है।",
+ "mnemonic": "Anguli = Karagraja"
+},
+{
+ "q": 89,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "'व्याकरण पद्धति' को विश्व में से किस अन्य नाम से भी जाना जाता है—",
+ "options": ["हस्तरीय पद्धति", "पाठ्यांश पद्धति", "साधनात्मक पद्धति", "विश्लेषकरण"],
+ "answer": 0,
+ "summary": "'व्याकरण पद्धति' को पाठ्यांश पद्धति/हस्तरीय पद्धति नाम से भी जाना जाता है।",
+ "mnemonic": "Vyakaran paddhati = Hastriya"
+},
+{
+ "q": 90,
+ "subject": "Language-III : Sanskrit/संस्कृत",
+ "question": "निम्न में से कौन सा वाक्य का रूप नहीं है?",
+ "options": ["पठ", "पठनीय", "पठैषी", "पठिता"],
+ "answer": 1,
+ "summary": "पठ, पठैषी, पठिता वाच्य रूप हैं परन्तु 'पठनीय' नहीं है।",
+ "mnemonic": "Vakya roop nahi = Pathaniya"
+},
+{
+ "q": 91,
+ "subject": "Mathematic/गणित",
+ "question": "If 15 workers can build a road in 48 hours, then the number of workers required to do the same work in 30 hours is :",
+ "options": ["18", "24", "20", "46"],
+ "answer": 1,
+ "summary": "15 श्रमिक 48 घंटे में सड़क बनाते हैं; 30 घंटे में बनाने के लिए (15×48)/30 = 24 श्रमिक चाहिए (व्युत्क्रमानुपाती)।",
+ "mnemonic": "15x48/30 = 24 workers"
+},
+{
+ "q": 92,
+ "subject": "Mathematic/गणित",
+ "question": "The least positive digit x, 890 that the number 324x342 is divisible by 11 is :",
+ "options": ["0", "1", "3", "5"],
+ "answer": 1,
+ "summary": "संख्या 324x342 के 11 से विभाज्य होने हेतु विषम-सम स्थानों के योग का अंतर 0 या 11 का गुणज हो, जिससे x=1 प्राप्त होता है।",
+ "mnemonic": "324x342 div by 11 => x = 1"
+},
+{
+ "q": 93,
+ "subject": "Mathematic/गणित",
+ "question": "The ratio of area of a circle and the maximum square inside it will be :",
+ "options": ["Proportional to the radius of the circle", "Not depend upon the circle", "Proportional to the side of the square", "Equal to the diagonal of the circle"],
+ "answer": 1,
+ "summary": "वृत्त और उसके अंदर बनने वाले अधिकतम बड़े वर्ग के क्षेत्रफल का अनुपात वृत्त पर निर्भर नहीं करता (स्थिर रहता है)।",
+ "mnemonic": "Circle:Square area ratio = constant, circle pe depend nahi"
+}
+]

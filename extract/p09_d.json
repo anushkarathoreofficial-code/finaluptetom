@@ -1,0 +1,299 @@
+[
+  {
+    "q": 78,
+    "subject": "",
+    "question": "Which of the following sentence does not have an adjective clause?",
+    "options": ["I love the man who is truthful", "I met him where he lived", "I met him in Prayagraj which is a holy city.", "The man who is truthful is loved by all"],
+    "answer": 1,
+    "summary": "'where' का प्रयोग जब noun clause के रूप में हो तब उसमें adjective clause नहीं होता; विकल्प (b) में 'where' noun clause के रूप में है।",
+    "mnemonic": "Adjective clause = 'who/which/that'; jahan 'where' aaye wahan adjective clause nahi."
+  },
+  {
+    "q": 79,
+    "subject": "",
+    "question": "Fill in the blank with correct preposition : He is junior ............. me.",
+    "options": ["from", "with", "to", "than"],
+    "answer": 2,
+    "summary": "superior, junior, inferior आदि comparison शब्दों के साथ 'to' preposition का प्रयोग होता है।",
+    "mnemonic": "Junior/senior/superior ke saath hamesha 'to'."
+  },
+  {
+    "q": 80,
+    "subject": "",
+    "question": "Fill in the blank with correct conjunction : Either he is mad ............. he feigns madness.",
+    "options": ["and", "nor", "or", "with"],
+    "answer": 2,
+    "summary": "Either के साथ correlative conjunction 'or' का प्रयोग होता है।",
+    "mnemonic": "Either... or, Neither... nor — Either ke saath 'or'."
+  },
+  {
+    "q": 81,
+    "subject": "",
+    "question": "The word strength is :",
+    "options": ["Material noun", "Abstract noun", "Collective noun", "Common noun"],
+    "answer": 1,
+    "summary": "Strength एक Abstract noun है क्योंकि भावात्मक संज्ञा किसी गुण, प्रिय, विषय आदि का बोध कराती है।",
+    "mnemonic": "Strength = quality/gun, isliye Abstract noun."
+  },
+  {
+    "q": 82,
+    "subject": "",
+    "question": "One who does not take revenge is :",
+    "options": ["a strong man", "a foolish man", "a fool", "a weak man"],
+    "answer": 0,
+    "summary": "जो बदला नहीं लेता वह वास्तव में शक्ति का प्रतीक है, अतः one who does not take revenge means strong man.",
+    "mnemonic": "Badla na lene wala = strong man (forgiveness is strength)."
+  },
+  {
+    "q": 83,
+    "subject": "",
+    "question": "What is the meaning of the word 'untrodden'?",
+    "options": ["Explored", "Hidden", "Explicit", "Unexplored"],
+    "answer": 3,
+    "summary": "Untrodden का सही अर्थ 'Unexplored' (अव्याख्यायित/अछूता) होता है।",
+    "mnemonic": "Untrodden = un-trodden path = Unexplored."
+  },
+  {
+    "q": 84,
+    "subject": "",
+    "question": "Identify the correct figure of speech used in the second stanza.",
+    "options": ["Pun", "Alliteration", "Simile", "Metaphor"],
+    "answer": 2,
+    "summary": "दूसरे Stanza में 'as' का प्रयोग होने से यह Simile है, जो सीधे दो भिन्न वस्तुओं की तुलना 'as' से करता है।",
+    "mnemonic": "'as/like' aaye toh Simile."
+  },
+  {
+    "q": 85,
+    "subject": "",
+    "question": "Which of the following sentence/sentences is/are correct?",
+    "options": ["There is few hope of his recovery.", "He showed few concern for his nephew.", "He showed little mercy to the vanquished.", "Only (C)"],
+    "answer": 2,
+    "summary": "Few का प्रयोग countable nouns के पहले, little का uncountable nouns के पहले negative sense में होता है; अतः 'little mercy' सही है।",
+    "mnemonic": "Few = countable, Little = uncountable; mercy uncountable toh 'little'."
+  },
+  {
+    "q": 86,
+    "subject": "",
+    "question": "Point out the sentence which is in past perfect tense.",
+    "options": ["I had written my letter before he arrived.", "We were listening to the radio all evening.", "It was getting darker.", "He studied many hours everyday."],
+    "answer": 0,
+    "summary": "Past perfect tense का structure Sub + had + V III form + object होता है, जो विकल्प (a) में है।",
+    "mnemonic": "Had + V3 = past perfect; 'had written'."
+  },
+  {
+    "q": 87,
+    "subject": "",
+    "question": "Fill in the blank with the correct article : Neil Armstrong was ............. first man to walk on ............. moon.",
+    "options": ["an, the", "the, the", "an, a", "a, the"],
+    "answer": 1,
+    "summary": "Ordinal adjective के पहले article 'the' तथा अद्वितीय वस्तु moon के पहले भी 'the' का प्रयोग होता है।",
+    "mnemonic": "first = the; moon = the; 'the, the'."
+  },
+  {
+    "q": 88,
+    "subject": "",
+    "question": "Fill in the blank in the following sentence : The teacher has been teaching for ............. hour.",
+    "options": ["an", "a", "two", "three"],
+    "answer": 0,
+    "summary": "Hour शब्द में vowel sound का उच्चारण होता है, अतः इसके पहले 'an' article का प्रयोग होता है।",
+    "mnemonic": "Hour ki 'h' silent = vowel sound, isliye 'an'."
+  },
+  {
+    "q": 89,
+    "subject": "",
+    "question": "Add the right suffix to pluralize the word 'Ox'.",
+    "options": ["es", "ies", "s", "en"],
+    "answer": 3,
+    "summary": "'Ox' में suffix 'en' जोड़कर plural बनाते हैं — Oxen होता है।",
+    "mnemonic": "Ox + en = Oxen (irregular plural)."
+  },
+  {
+    "q": 90,
+    "subject": "",
+    "question": "Change the word 'grow' into a noun by adding one of the suffixes given below.",
+    "options": ["th", "ng", "ng", "ing"],
+    "answer": 0,
+    "summary": "verb 'grow' में suffix 'th' जोड़कर noun (growth) बनाते हैं।",
+    "mnemonic": "grow + th = growth (noun)."
+  },
+  {
+    "q": 61,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "संस्कृत के 'एकोनम चत्वारिंशत्' को कहते हैं?",
+    "options": ["39", "29", "59", "49"],
+    "answer": 0,
+    "summary": "संस्कृत में एकोनम चत्वारिंशत् को 39 कहते हैं (एकोनचत्वारिंशत् / नवत्रिंशतिः)।",
+    "mnemonic": "Eko-nam-chatvarinshat = 40 se ek kam = 39."
+  },
+  {
+    "q": 62,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "द्वि शब्द, स्त्रीलिङ्ग, प्रथमा विभक्ति का रूप है?",
+    "options": ["द्वौ", "द्वे", "द्वयम्", "द्वि"],
+    "answer": 1,
+    "summary": "द्वि शब्द, स्त्रीलिङ्ग, प्रथमा विभक्ति का रूप 'द्वे' होता है; स्त्रीलिङ्ग एवं नपुंसकलिङ्ग में समान रूप 'द्वे' होता है।",
+    "mnemonic": "Dwi shabd, stri-ling, pratham = 'dve'."
+  },
+  {
+    "q": 63,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'ददति' रूप है?",
+    "options": ["लट् लकार, प्रथमपुरुष, बहुवचन", "लोट् लकार, प्रथमपुरुष, एकवचन", "लट् लकार, प्रथमपुरुष, बहुवचन"],
+    "answer": 0,
+    "summary": "'ददति' रूप लट्लकार, प्रथम पुरुष, बहुवचन का है; दा धातु जुहोत्यादिगण के अन्तर्गत आता है।",
+    "mnemonic": "Dadati = dā dhatu, lat lakaar, prathampurush bahuvachan."
+  },
+  {
+    "q": 64,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'गुरूपदेशः' शब्द में प्रयुक्त सन्धि है?",
+    "options": ["दीर्घ सन्धि", "गुण सन्धि", "अयादि सन्धि", "यण सन्धि"],
+    "answer": 0,
+    "summary": "'गुरूपदेशः' शब्द में दीर्घ सन्धि है; समान वर्ण के बाद समान वर्ण आये तो उसके स्थान पर दीर्घ हो जाता है (गुरु + उपदेशः = गुरूपदेशः)।",
+    "mnemonic": "Guru + upadesh = gurupadesh; samaan + samaan = Deergh sandhi."
+  },
+  {
+    "q": 65,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "उपसर्ग है?",
+    "options": ["वद", "कृ", "यच", "परा"],
+    "answer": 3,
+    "summary": "'परा' एक उपसर्ग है जो धातु के अर्थ को बदल देता है; संस्कृत में उपसर्गों की संख्या 22 है।",
+    "mnemonic": "Para = upsarg; sanskrit me 22 upsarg."
+  },
+  {
+    "q": 66,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'मनोरथः' में सन्धि है?",
+    "options": ["अनुनासिक सन्धि", "परसवर्ण सन्धि", "उपर्युक्त में से कोई नहीं", "विसर्ग सन्धि"],
+    "answer": 3,
+    "summary": "'मनोरथः' में विसर्ग सन्धि है; सकारान्त शब्द 'मन' के 'स' के स्थान पर 'उ' तथा 'अ' के बाद 'उ' होने पर 'ओ' हो जाता है (मनः + रथः = मनोरथः)।",
+    "mnemonic": "Manah + rath = Manorath; visarg sandhi."
+  },
+  {
+    "q": 67,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "''नेत्राभ्याम् अश्रूणि पतन्ति'' में नेत्राभ्याम् पद में विभक्ति है?",
+    "options": ["द्वितीया", "पञ्चमी", "सप्तमी", "षष्ठी"],
+    "answer": 1,
+    "summary": "'नेत्राभ्याम् अश्रूणि पतन्ति' में नेत्राभ्याम् में पञ्चमी विभक्ति है क्योंकि नेत्र से अश्रु का अलगाव होने के कारण ध्रुवमपायेऽपादानम् सूत्र से पञ्चमी प्रयुक्त है।",
+    "mnemonic": "Netra se ashru alag (apaadaan) = Panchami vibhakti."
+  },
+  {
+    "q": 68,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'अशनि' शब्द है?",
+    "options": ["स्त्रीलिङ्ग", "नपुंसक लिङ्ग", "उपर्युक्त सभी", ""],
+    "answer": 0,
+    "summary": "'अशनि' शब्द पुल्लिङ्ग है, जिसका अर्थ है- 1. बिजली, गाज 2. वज्र; आयोग ने 'अशनि' शब्द को स्त्रीलिङ्ग एवं पुल्लिङ्ग दोनों माना है।",
+    "mnemonic": "Ashani = bijli/vajra; pulling (aur stri-ling dono)."
+  },
+  {
+    "q": 69,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'तथा नृपोऽनुगम्यते' में वाच्य है?",
+    "options": ["कर्मवाच्य", "भाववाच्य", "उपर्युक्त में से कोई नहीं", "कर्तृवाच्य"],
+    "answer": 0,
+    "summary": "'तथा नृपोऽनुगम्यते' में कर्मवाच्य होता है; इसमें कर्म प्रधान होता है और वचन कर्म के अनुसार होते हैं।",
+    "mnemonic": "Karm pradhan = Karmvachya; nrip (karm) anugamyate."
+  },
+  {
+    "q": 70,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'यूपदारुः' पद में समास है?",
+    "options": ["बहुव्रीहिः", "द्वन्द्वः", "तत्पुरुषः", "अव्ययीभावः"],
+    "answer": 2,
+    "summary": "'यूपदारुः' में तत्पुरुष समास है (तत्पुरुषसमासः-उत्तरपदार्थप्रधानस्तत्पुरुषः); यूपदारु चतुर्थी तत्पुरुष समास का उदाहरण है।",
+    "mnemonic": "Yupdaruh = Tatpurush samaas (uttarpad pradhan)."
+  },
+  {
+    "q": 71,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'गोधुग्' शब्द का अर्थ है?",
+    "options": ["चावल", "गेहूँ", "गदहा", "गाय का दूध"],
+    "answer": 1,
+    "summary": "'गोधुग्' शब्द का अर्थ 'गेहूँ' है (चावल- तण्डुलम्, गेहूँ- गोधूमः, गदहा- गर्दभ, गाय का दूध- गोपयः)।",
+    "mnemonic": "Godhug = gehu (godhumah)."
+  },
+  {
+    "q": 72,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "विसर्ग सन्धि का उदाहरण है?",
+    "options": ["सन्मित्रम्", "महर्षिधिः", "नमस्ते", "तत्त्वः"],
+    "answer": 2,
+    "summary": "'नमस्ते' विसर्ग सन्धि का उदाहरण है; विसर्ग के बाद वर्ग के च, छ, श, ष, स से विसर्ग को स् हो जाता है (नमः + ते = नमस्ते)।",
+    "mnemonic": "Namah + te = Namaste; visarg sandhi."
+  },
+  {
+    "q": 73,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "स्पर्श संज्ञक वर्णों की संख्या है?",
+    "options": ["25", "08", "30", "5"],
+    "answer": 0,
+    "summary": "स्पर्श संज्ञक वर्णों की संख्या (25) है; संस्कृत वर्णमाला में पाँच वर्ग हैं और प्रत्येक वर्ग में पाँच-पाँच वर्ण हैं (5 × 5 = 25 वर्ण)।",
+    "mnemonic": "5 varg × 5 = 25 sparsh varn (ka se ma tak)."
+  },
+  {
+    "q": 74,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'बालिका' इस पद में प्रत्यय है?",
+    "options": ["डाप्", "याट्", "टाप्", "चाप्"],
+    "answer": 2,
+    "summary": "'बालिका' पद में टाप् प्रत्यय है; टाप् प्रत्यय के र् और प् का लोप होकर केवल 'आ' शेष रह जाता है।",
+    "mnemonic": "Balika = TAP pratyay (sirf 'aa' bachta)."
+  },
+  {
+    "q": 75,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'पर्यन्त' में उपसर्ग है?",
+    "options": ["परि", "परा", "पर्", "पर"],
+    "answer": 0,
+    "summary": "'पर्यन्त' में 'परि' उपसर्ग है; उपसर्ग धातु या धातु से बने हुए विशेषण, संज्ञा आदि शब्दों के पूर्व जोड़े जाते हैं।",
+    "mnemonic": "Paryant = pari + ant; 'pari' upsarg."
+  },
+  {
+    "q": 76,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'नदी' शब्दरूप में प्रयुक्त वचन है?",
+    "options": ["बहुवचन", "द्विवचन", "एकवचन और बहुवचन दोनों", "एकवचन"],
+    "answer": 0,
+    "summary": "'नदी' शब्द रूप बहुवचन में प्रयुक्त होते हैं (नदी ईकारान्त स्त्रीलिङ्ग)।",
+    "mnemonic": "Nadi shabd-roop = bahuvachan."
+  },
+  {
+    "q": 77,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "अकारान्त पुल्लिङ्ग शब्द का उदाहरण है?",
+    "options": ["गाय्", "रामः", "फलम्", "भानुः"],
+    "answer": 1,
+    "summary": "रामः अकारान्त पुल्लिङ्ग शब्द का उदाहरण है (फलम्- मकारान्त नपुंसकलिङ्ग, भानुः- उकारान्त पुल्लिङ्ग)।",
+    "mnemonic": "Ramah = akaarant pulling udaharan."
+  },
+  {
+    "q": 78,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'प्रेजते' में सन्धि है?",
+    "options": ["वृद्धि", "पूर्वरूप", "परसवर्ण", "गुण"],
+    "answer": 2,
+    "summary": "'प्रेजते' में परसवर्ण सन्धि है; अकारान्त उपसर्ग के बाद 'ए' या 'ओ' होने पर अकार के स्थान पर परसवर्ण (अर्थात् ए या ओ) हो जाता है (प्र + एजते = प्रेजते)।",
+    "mnemonic": "Pra + ejate = prejate; parasavarn sandhi."
+  },
+  {
+    "q": 79,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "'च' वर्ण का उच्चारण स्थान है?",
+    "options": ["दन्त", "ओष्ठ", "तालु", "दन्तोष्ठ"],
+    "answer": 2,
+    "summary": "'च' वर्ण का उच्चारण स्थान तालु (चकारस्य तालुस्थानम्) है; तालव्य- इचुयशानां तालुः।",
+    "mnemonic": "Cha varg = Talavya (talu se ucharan)."
+  },
+  {
+    "q": 80,
+    "subject": "Part-III Language-II : Sanskrit / भाषा-II : संस्कृत",
+    "question": "घटने के लिए उपयुक्त संस्कृत शब्द है?",
+    "options": ["जतु", "ऊरु", "जघन", "हनु"],
+    "answer": 2,
+    "summary": "घटने के लिए संस्कृत में जघन (जंघा) शब्द उपयुक्त है (जतु- घुटना, ऊरु- जंघा, हनु- ठुड्डी)।",
+    "mnemonic": "Ghutna = Jaghan (jangha)."
+  }
+]

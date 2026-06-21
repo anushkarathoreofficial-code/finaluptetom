@@ -1,0 +1,11 @@
+# Regenerable rendered images (136M) — recreate from PDFs if needed
+pages_col/
+pages/
+hdr/
+
+# Source watermarked solved-paper PDFs (third-party copyrighted) — kept local only
+*.pdf
+
+# OS / misc
+.DS_Store
+.claude/

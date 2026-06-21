@@ -1,0 +1,272 @@
+[
+{
+ "q": 121,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Great dividing rage is located in which Continent? / ग्रेट डिवाइडिंग रेंज निम्न में कहाँ स्थित है?",
+ "options": ["Antarctica/अंटार्कटिका", "Asia/एशिया", "Australia/ऑस्ट्रेलिया", "North America/उत्तरी अमेरिका"],
+ "answer": 2,
+ "summary": "ग्रेट डिवाइडिंग रेंज ऑस्ट्रेलिया महाद्वीप में स्थित है, जो सबसे छोटा महाद्वीप है और दक्षिणी गोलार्द्ध में स्थित है। यह ग्रेट बैरियर रीफ के साथ-साथ समुद्र में एक प्रवाल भित्ती बनाता है।",
+ "mnemonic": "Great Dividing = Down-under (Australia) ki sabse lambi range."
+},
+{
+ "q": 122,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The temperature grasslands of South eastern Europe / दक्षिण पूर्वी यूरोप के शीतोष्ण कटिबंध घास के मैदान को कहा जाता है–",
+ "options": ["Tainga/टैगा", "Tundra/टुंड्रा", "Meadows/मीडोज", "Steppes/स्टॉपीज"],
+ "answer": 3,
+ "summary": "दक्षिण पूर्वी यूरोप के शीतोष्ण कटिबंध घास के मैदान को स्टापीज कहा जाता है। ये दोनों गोलार्द्धों में 23.5° से 66.5° अक्षांशों के मध्य पाए जाते हैं।",
+ "mnemonic": "South-east Europe ki temperate grass = Steppes."
+},
+{
+ "q": 123,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Which of the following is the highest peak of South America / दक्षिण अमेरिका की सबसे ऊँची चोटी निम्न में से कौन है–",
+ "options": ["Mt. Cotopaxy/माउन्ट कोटोपैक्सी", "Mt. Etna/माउन्ट ऐटना", "Mt. Aconcagua/माउन्ट अन्कोनागुआ", "Mt. Kilimanjaro/माउन्ट किलिमंजारो"],
+ "answer": 2,
+ "summary": "दक्षिण अमेरिका की सबसे ऊँची चोटी माउन्ट अन्कोनागुआ (6960 मीटर ऊँची) है, जो एण्डीज पर्वतमाला में स्थित है।",
+ "mnemonic": "South America top = Aconcagua, A for America aur A for Aconcagua."
+},
+{
+ "q": 124,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Chlorophyll is found in which of the following / निम्नलिखित में से किसमें क्लोरोफिल पाया जाता है–",
+ "options": ["Euglena/यूग्लीना", "Hydra/हाइड्रा", "Jellyfish/जेलीफिश", "Sycon/साईकन"],
+ "answer": 0,
+ "summary": "यूग्लीना में क्लोरोफिल पाया जाता है। यूग्लीना क्लोरोफिल युक्त प्रोटोजोआ है, जिसे जन्तुओं और पौधों के मध्य की कड़ी माना जाता है।",
+ "mnemonic": "Euglena = E for Energy/chlorophyll wala protozoa."
+},
+{
+ "q": 125,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "State bird of Uttar Pradesh is / उत्तर प्रदेश का राष्ट्रीय पक्षी है–",
+ "options": ["Peacock/मोर", "Sparrow/गौरेया", "Sarus Crane/सारस क्रेन", "Parrot/तोता"],
+ "answer": 2,
+ "summary": "उत्तर प्रदेश का राज्य पक्षी सारस क्रेन है। यह विश्व का सबसे ऊँचा उड़ने वाला पक्षी है। 20 मार्च को विश्व गौरैया दिवस मनाया जाता है।",
+ "mnemonic": "UP state bird = Sarus, sabse lamba udne wala pakshi."
+},
+{
+ "q": 126,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Which of the following harmones maintains the level of Calcium in Blood. / निम्नलिखित में से कौन-सा हार्मोन रक्त में कैल्शियम के स्तर को नियंत्रित करता है–",
+ "options": ["Parathormone/पैराथार्मोन", "Thyroxin/थाइरॉक्सिन", "Prolactin/प्रोलैक्टिन", "Somatotropin/सोमैटोट्रोपीन"],
+ "answer": 0,
+ "summary": "पैराथार्मोन हार्मोन रक्त में कैल्शियम के स्तर को विनियमित करता है। यह थायरॉइड ग्रंथि के पार्श्व में स्थित पैराथायरॉइड ग्रंथि से स्रावित होता है।",
+ "mnemonic": "Para = Calcium PARtner, blood calcium control."
+},
+{
+ "q": 127,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The thickness of Ozone layer is measured in : / ओजोन परत कि मोटाई मापी जाती है–",
+ "options": ["Kilometer/किलोमीटर में", "Dobson unit/डॉब्सन इकाई में", "Fathom/फैदम में", "Light year/प्रकाश वर्ष में"],
+ "answer": 1,
+ "summary": "ओजोन परत की मोटाई डॉब्सन इकाई में मापी जाती है। ओजोन परत समताप मण्डल के निचले भाग में 15-35 किमी. की ऊँचाई पर पायी जाती है।",
+ "mnemonic": "Ozone thickness = Dobson, D for Dobson D for atmospheric Dhakkan."
+},
+{
+ "q": 128,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Nitrogen fixing bacteria are found in the root of : / नाइट्रोजन स्थिरता करने वाले जीवाणु जड़ों में उपस्थित होते हैं–",
+ "options": ["Wheat/गेहूँ की", "Paddy/धान की", "Pulses/दलहन की", "All above/उपरोक्त सभी की"],
+ "answer": 2,
+ "summary": "नाइट्रोजन स्थिरीकरण करने वाले जीवाणु दलहन (फलीदार पौधों) की जड़ों में पाए जाते हैं। राइजोबियम जीवाणु इनमें सहजीवी रूप में रहते हैं।",
+ "mnemonic": "Nitrogen fixing = Pulses (daal) ki jad, Rhizobium ka ghar."
+},
+{
+ "q": 129,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Which is an edible Fungus? / निम्नलिखित में से कौन-सा खाने योग्य कवक है?",
+ "options": ["Agaricus/एगैरिकस", "Puccinia/पक्सिनिआ", "Mucor/म्यूकर", "Rhizopus/राइजोपस"],
+ "answer": 0,
+ "summary": "एगैरिकस मशरूम की एक प्रजाति है, जिसे खाया जाता है। यह खाद्य मशरूम का प्रमुख और आम किस्म में एगैरिकस, बिस्पोरस आदि शामिल हैं।",
+ "mnemonic": "Edible fungus = Agaricus, A for Aahar (mushroom)."
+},
+{
+ "q": 130,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Mangrove plants are found in : / मैंग्रोव पौधे पाये जाते हैं–",
+ "options": ["Himalaya/हिमालय", "Sundarban/सुंदरवन", "Desert/रेगिस्तान", "Rainforest/वर्षावन"],
+ "answer": 1,
+ "summary": "मैंग्रोव पौधे सुंदरवन में पाये जाते हैं। ये ऐसे वृक्ष होते हैं जो खारे या अर्द्ध-खारे पानी में पाये जाते हैं। भारत में मैंग्रोव वन अंडमान-निकोबार व पश्चिम बंगाल के सुंदरबन डेल्टा में विकसित हैं।",
+ "mnemonic": "Mangrove = Sundarban, khare paani ke pedh."
+},
+{
+ "q": 131,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Which of the following structure is triploid in angiospermous plants : / आवृतबीजी पौधों में निम्नलिखित में से कौन-सी संरचना त्रिगुणित है?",
+ "options": ["Radicle/मूलांकुर", "Cotyledon/बीजपत्र", "Plumule/प्रांकुर", "Endosperm/भ्रूणपोष"],
+ "answer": 3,
+ "summary": "आवृतबीजी पौधों में त्रिगुणित भ्रूणपोष की संरचना होती है। भ्रूणपोष का विकास भ्रूण-विकास के रूप में बढ़ता है।",
+ "mnemonic": "Triploid = Endosperm, 3n bhrunposh."
+},
+{
+ "q": 132,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "In which of the following families Parietal Placentation is present : / निम्नलिखित में से किस कुल में भित्तिलग्न बीजाण्डन्यास पाया जाता है?",
+ "options": ["Brassicaceae/ब्रैसिकेसी", "Malvaceae/मालवेसी", "Asteraceae/ऐस्टरेसी", "Solanaceae/सोलेनेसी"],
+ "answer": 0,
+ "summary": "ब्रैसिकेसी कुल में भित्तिलग्न (Parietal) बीजाण्डन्यास पाया जाता है।",
+ "mnemonic": "Parietal placentation = Brassicaceae, B for Bhitti (wall)."
+},
+{
+ "q": 133,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "End product of anaerobic respiration is : / अनॉक्सी-श्वसन का अंतिम उत्पाद होता है?",
+ "options": ["Glucose/ग्लूकोज", "Ethyl alcohal/एथिल ऐल्कोहल", "Malic acid/मैलिक एसिड", "None of the above/उपरोक्त में से कोई नहीं"],
+ "answer": 1,
+ "summary": "अनॉक्सी-श्वसन का अंतिम उत्पाद एथिल अल्कोहल व कार्बन डाइऑक्साइड होता है। नोट- कुछ स्रोत में ग्लूकोज, एथिल अल्कोहल दोनों माना गया है तथा आयोग द्वारा यह पेपर निरस्त कर दिया गया।",
+ "mnemonic": "Anaerobic respiration = Ethyl alcohol (sharab banti hai)."
+},
+{
+ "q": 134,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Who established the Indian Women's University in Mumbai in 1906 A.D.? / 1916 ई. में मुम्बई में भारतीय महिला विश्वविद्यालय की स्थापना किसने किया था?",
+ "options": ["Aatma Ram Pandurang/आत्मा राम पांडुरंग", "D.K. Karve/डी.के. कर्वे", "Mahadev Govind Ranade/महादेव गोविंद रानाडे", "Keshav Chandra Sen/केशव चंद्र सेन"],
+ "answer": 1,
+ "summary": "1916 ई. में मुम्बई में भारतीय महिला विश्वविद्यालय की स्थापना डी.के. कर्वे ने की थी। उन्होंने 1819 ई. में कलकत्ता में 'तरण स्त्री सभा' की स्थापना की।",
+ "mnemonic": "Indian Women's University = D.K. Karve, K for Kanya."
+},
+{
+ "q": 135,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The famous Rath Yatra of Puri is associated with : / पुरी की प्रसिद्ध रथ यात्रा सम्बन्धित है–",
+ "options": ["Lord Rama/भगवान राम से", "Lord Vishnu/भगवान विष्णु से", "Lord Shiva/भगवान शिव से", "Lord Jagannath/भगवान जगन्नाथ से"],
+ "answer": 3,
+ "summary": "पुरी की प्रसिद्ध रथ यात्रा भगवान जगन्नाथ से सम्बन्धित है।",
+ "mnemonic": "Puri Rath Yatra = Jagannath, Jagannath = J for Jatra."
+},
+{
+ "q": 136,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "On which river bank the Nasik Kumbh Mela is held at? / नासिक में कुम्भ मेला किस नदी के तट पर लगता है?",
+ "options": ["Shipra/शिप्रा", "Narmada/नर्मदा", "Godavari/गोदावरी", "Tapti/ताप्ती"],
+ "answer": 2,
+ "summary": "नासिक में कुम्भ मेला गोदावरी नदी के तट पर लगता है।",
+ "mnemonic": "Nasik Kumbh = Godavari, Na-Go (Nasik-Godavari)."
+},
+{
+ "q": 137,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "What was 'Sandhya'? / 'संध्या' क्या था?",
+ "options": ["Hymn/भजन", "News Paper/अखबार", "Political Party/राजनीतिक दल", "Religious Institution/धार्मिक संस्था"],
+ "answer": 1,
+ "summary": "संध्या एक अखबार था, जो बंग्ला भाषा में प्रतिदिन दैनिक अखबार के रूप में प्रकाशित होता था। यह 1906 ई. में ब्रह्मबान्धव उपाध्याय द्वारा शुरू किया गया था।",
+ "mnemonic": "Sandhya = News paper (akhbaar), S for Samachar."
+},
+{
+ "q": 138,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "What is the total number of members in state Legislative Council of Uttar Pradesh? / उत्तर प्रदेश राज्य विधान परिषद् में कुल सदस्य संख्या कितनी है?",
+ "options": ["100 Members/100 सदस्य", "110 Members/110 सदस्य", "80 Members/80 सदस्य", "104 Members/104 सदस्य"],
+ "answer": 0,
+ "summary": "उत्तर प्रदेश राज्य विधान परिषद् में कुल सदस्य संख्या 100 है। विधान परिषद् की सदस्य बनने की न्यूनतम आयु-सीमा 30 वर्ष है। वर्तमान में केवल 6 राज्यों में विधान परिषद् हैं।",
+ "mnemonic": "UP Vidhan Parishad = 100 members."
+},
+{
+ "q": 139,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The Flag code of India came into effect from? / भारतीय ध्वज संहिता कब से प्रभावी हुई?",
+ "options": ["From 26 January, 2001/26 जनवरी, 2001 से", "From 26 January, 2002/26 जनवरी, 2002 से", "From 15 August, 2001/15 अगस्त, 2001 से", "From 15 August, 2002/15 अगस्त, 2002 से"],
+ "answer": 3,
+ "summary": "भारतीय ध्वज संहिता 26 जनवरी, 2002 से प्रभावी हुई।",
+ "mnemonic": "Flag code 2002, 15 August (azaadi wala din)."
+},
+{
+ "q": 140,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The song 'Jana-Gana-Mana' was adopted in its Hindi version by the Constituent Assembly as the National Anthem of India on which date? / 'जन-गण-मन' की हिन्दी संस्करण को संविधान सभा ने भारतीय के राष्ट्रगान के रूप में कब अपनाया?",
+ "options": ["24 January, 1950/24 जनवरी, 1950", "26 January, 1950/26 जनवरी, 1950", "15 August, 1947/15 अगस्त, 1947", "26 November, 1949/26 नवम्बर, 1949"],
+ "answer": 0,
+ "summary": "जन-गण-मन के हिन्दी संस्करण को संविधान सभा ने 24 जनवरी, 1950 ई. को राष्ट्रगान के रूप में अपनाया। यह सर्वप्रथम 27 दिसम्बर, 1911 ई. भारतीय राष्ट्रीय कांग्रेस के कोलकाता अधिवेशन में गाया गया।",
+ "mnemonic": "Jana-Gana-Mana adopted 24 January 1950 (Republic se 2 din pehle)."
+},
+{
+ "q": 141,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Name of the Speaker in Seventeenth Lok Sabha is? / सत्रहवीं लोकसभा के लोकसभा अध्यक्ष का नाम है?",
+ "options": ["Sumitra Mahajan/सुमित्रा महाजन", "Om Birla/ओम बिड़ला", "Rajnath Singh/राजनाथ सिंह", "Amit Shah/अमित शाह"],
+ "answer": 1,
+ "summary": "सत्रहवीं लोकसभा के लोकसभा अध्यक्ष ओम बिड़ला हैं। संविधान के अनुच्छेद-93 के अनुसार लोकसभा स्वयं ही अपने सदस्यों में से एक अध्यक्ष और उपाध्यक्ष चुनेगी।",
+ "mnemonic": "17th Lok Sabha Speaker = Om Birla."
+},
+{
+ "q": 142,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Who is the chairman of Inter-state Council in India? / भारत में अंतर-राज्यीय परिषद् का अध्यक्ष कौन होता है?",
+ "options": ["President/राष्ट्रपति", "Vice-President/उप राष्ट्रपति", "Prime-Minister/प्रधानमंत्री", "Union Home Minister/केन्द्रीय गृहमंत्री"],
+ "answer": 2,
+ "summary": "भारत में अंतर्राज्यीय परिषद् का अध्यक्ष प्रधानमंत्री होता है। संविधान के अनुच्छेद-263 के अंतर्गत केन्द्र एवं राज्यों के बीच समन्वय हेतु इसकी स्थापना होती है।",
+ "mnemonic": "Inter-state Council chairman = PM (Pradhanmantri)."
+},
+{
+ "q": 143,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Amongst the following, while performing duties who shall have the right of audience in all courts in the territory of India? / निम्नलिखित में से किसे अपने कर्तव्यों के पालन के लिए भारत के राज्यक्षेत्र के सभी न्यायालयों में सुनवाई का अधिकार होगा?",
+ "options": ["Comptroller and Auditor General of India/भारत का नियंत्रक महालेखा परीक्षक", "Speaker of the House of the People/लोक सभा का अध्यक्ष", "Attorney-General of India/भारत का महान्यायवादी", "Prime Minister of India/भारत का प्रधानमंत्री"],
+ "answer": 2,
+ "summary": "भारत के महान्यायवादी पद का उल्लेख संविधान में अनुच्छेद 76 के अन्तर्गत किया गया है, जिसकी नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है। यह सरकार का प्रमुख वकील होता है।",
+ "mnemonic": "Right of audience in all courts = Attorney-General (sarkari vakeel)."
+},
+{
+ "q": 144,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The district where the Ganga river enters the state of Uttar Pradesh : / वह जिला जहाँ गंगा नदी उत्तर प्रदेश राज्य में प्रवेश करती है–",
+ "options": ["Meerut/मेरठ", "Bulandshahr/बुलन्दशहर", "Mathura/मथुरा", "Bijnor/बिजनौर"],
+ "answer": 3,
+ "summary": "गंगा नदी उत्तर प्रदेश के बिजनौर जिला में सर्वप्रथम प्रवेश करती है। गंगा नदी उत्तराखण्ड के उत्तरकाशी में स्थित गंगोत्री ग्लेशियर के गोमुख नामक स्थान से निकलती है।",
+ "mnemonic": "Ganga enters UP at Bijnor, B for Beginning."
+},
+{
+ "q": 145,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Which of the following rivers is not the tributary of the Yamuna river? / निम्नलिखित नदियों में से कौन यमुना नदी की सहायक नहीं है?",
+ "options": ["Gandak/गंडक", "Chambal/चम्बल", "Betwa/बेतवा", "Ken/केन"],
+ "answer": 0,
+ "summary": "गंडक यमुना नदी की सहायक नदी नहीं है। यमुना नदी गंगा की सबसे बड़ी सहायक नदी है, जो यमुनोत्री से निकलती है। यमुना की सहायक नदियों में टोंस, बेतवा, चंबल, केन आदि शामिल हैं।",
+ "mnemonic": "Gandak Yamuna ki nahi (Gandak to Ganga ki sahayak hai)."
+},
+{
+ "q": 146,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Which is the highest Indian Peak : / भारत की सबसे ऊँची चोटी कौन-सी है–",
+ "options": ["Nanda Devi/नंद देवी", "K2/के2", "Atlas/एटलस", "Kamet/कमेट"],
+ "answer": 1,
+ "summary": "भारत की सबसे ऊँची चोटी K2 (गॉडविन ऑस्टिन) है, जो ग्रेट कराकोरम श्रेणी में स्थित है। K2 की ऊँचाई 8598 मीटर है।",
+ "mnemonic": "Highest Indian peak = K2 (Godwin Austin)."
+},
+{
+ "q": 147,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The plateau which is located in Austrlia. / यह पठार जो आस्ट्रेलिया में स्थित है–",
+ "options": ["Colorado/कोलोराडो", "Kimberley/किम्बर्ले", "Katanga/कटंगा", "Patagonia/पैटागोनिया"],
+ "answer": 1,
+ "summary": "किम्बर्ले पठार ऑस्ट्रेलिया में स्थित है। किम्बर्ले एक पठार क्षेत्र है जो ऑस्ट्रेलिया के पश्चिमी भाग में स्थित है।",
+ "mnemonic": "Australia ka plateau = Kimberley (Kimberley diamond bhi)."
+},
+{
+ "q": 148,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "The district of Uttar Pradesh which does not form part of Bundelkhand Plateau : / उत्तर प्रदेश का वह जिला जो बुन्देलखंड पठार का भाग नहीं है–",
+ "options": ["Hamirpur/हमीरपुर", "Lalitpur/ललितपुर", "Mirzapur/मिर्जापुर", "Jhansi/झाँसी"],
+ "answer": 2,
+ "summary": "उत्तर प्रदेश का मिर्जापुर जिला बुन्देलखंड पठार का भाग नहीं है। बुन्देलखण्ड पठार के अन्तर्गत उत्तर प्रदेश के सात जिले (जालौन, झाँसी, ललितपुर, चित्रकूट, हमीरपुर, बाँदा, महोबा) शामिल हैं।",
+ "mnemonic": "Mirzapur Bundelkhand ka nahi (Mirzapur to Vindhya region)."
+},
+{
+ "q": 149,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "In which of the following states the Dudhwa National Park is located? / निम्नलिखित राज्य में से किसमें दुधवा राष्ट्रीय उद्यान स्थित है?",
+ "options": ["Odisha/ओडिशा", "Madhya Pradesh/मध्य प्रदेश", "Uttar Pradesh/उत्तर प्रदेश", "Uttarakhand/उत्तराखंड"],
+ "answer": 2,
+ "summary": "उत्तर प्रदेश राज्य में दुधवा राष्ट्रीय उद्यान स्थित है। यह लखीमपुर खीरी जनपद में स्थित है, जो भारत और नेपाल की सीमाओं से लगे विशाल वन क्षेत्र में फैला है। यह बाघों और बारहसिंगा के लिए विश्व प्रसिद्ध है।",
+ "mnemonic": "Dudhwa National Park = Uttar Pradesh (Lakhimpur Kheri)."
+},
+{
+ "q": 150,
+ "subject": "Environmental Studies / पर्यावरणीय अध्ययन",
+ "question": "Metur Dame is Constructed on which river : / मेटूर बाँध किस नदी पर निर्मित किया गया है–",
+ "options": ["Ganga/गंगा", "Kaveri/कावेरी", "Mahanadi/महानदी", "Sutlej/सतलुज"],
+ "answer": 1,
+ "summary": "मेटूर बाँध कावेरी नदी पर बनाया गया है। यह तमिलनाडु में स्थित एक प्रमुख बाँध है।",
+ "mnemonic": "Metur Dam = Kaveri river (Tamil Nadu)."
+}
+]

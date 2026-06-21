@@ -1,0 +1,245 @@
+[
+{
+ "q": 26,
+ "subject": "",
+ "question": "Which of the following is not associated with learning theory propounded by Skinner ........ : निम्नलिखित में से कौन स्किनर द्वारा प्रतिपादित अधिगम के सिद्धान्त से सम्बन्धित नहीं है—",
+ "options": ["(1) Programmed Instruction Materials अभिकथित अनुदेशन सामग्री", "(2) Personalized Instruction व्यक्ति निर्धारित अनुदेशन", "(3) Learning through errors त्रुटियों के माध्यम से सीखना", "(4) Behaviour modification technique व्यवहार रूपान्तरण तकनीकी"],
+ "answer": 2,
+ "summary": "स्किनर के अधिगम सिद्धान्त में अभिक्रमित अनुदेशन, व्यक्ति निर्धारित अनुदेशन व व्यवहार रूपान्तरण शामिल हैं, किन्तु त्रुटियों के माध्यम से सीखना उससे सम्बन्धित नहीं है।",
+ "mnemonic": "Skinner = programmed, personalized, behaviour MOD; errors se seekhna NAHI"
+},
+{
+ "q": 27,
+ "subject": "",
+ "question": "Which of the following is more useful for the students of different abilities and interest? विभिन्न योग्यताओं एवं रुचियों वाले विद्यार्थियों हेतु कौन-सा मूल्यांकन अधिक उपयोगी होगा?",
+ "options": ["(1) Internal Evaluation/आंतरिक मूल्यांकन", "(2) Summative Evaluation/योगात्मक मूल्यांकन", "(3) Practical Evaluation/प्रायोगिक मूल्यांकन", "(4) Continuous and Comprehensive Evaluation/सतत एवं व्यापक मूल्यांकन"],
+ "answer": 3,
+ "summary": "विभिन्न योग्यताओं एवं रुचियों वाले विद्यार्थियों हेतु सतत एवं व्यापक मूल्यांकन सर्वाधिक उपयोगी है।",
+ "mnemonic": "Alag-alag ability ke liye = CCE (Satat aur Vyapak)"
+},
+{
+ "q": 28,
+ "subject": "",
+ "question": "Which of the following is NOT related to the Cognitive domain of Bloom's taxonomy of instructional objectives? निम्न में से कौन अनुदेशनात्मक उद्देश्यों के सम्बन्धित ब्लूम के वर्गीकरण के संज्ञानात्मक पक्ष से सम्बन्धित नहीं है—",
+ "options": ["(a) Comprehension/अवबोध", "(b) Knowledge/ज्ञान", "(c) Character building/चरित्र निर्माण", "(d) Analysis/विश्लेषण"],
+ "answer": 2,
+ "summary": "ब्लूम के संज्ञानात्मक पक्ष में ज्ञान, अवबोध, अनुप्रयोग, विश्लेषण, संश्लेषण व मूल्यांकन आते हैं; चरित्र निर्माण इसमें सम्मिलित नहीं है।",
+ "mnemonic": "Bloom cognitive = Knowledge se Evaluation; Charitra nirman NAHI"
+},
+{
+ "q": 29,
+ "subject": "",
+ "question": "Which of the following is NOT the level of teaching?निम्न में से कौन-सा शिक्षण का स्तर नहीं है?",
+ "options": ["(a) Memory Level/स्मृति स्तर", "(b) Motivational Level/अभिप्रेरणा स्तर", "(c) Understanding Level/अवबोध स्तर", "(d) Reflective Level/परावर्ती स्तर"],
+ "answer": 1,
+ "summary": "शिक्षण के स्तर (Levels of Teaching) में स्मृति स्तर, अवबोध स्तर एवं परावर्ती (चिंतन) स्तर आते हैं; अभिप्रेरणा स्तर शिक्षण का स्तर नहीं है।",
+ "mnemonic": "Teaching levels = Smriti, Avabodh, Reflective; Abhiprerna NAHI"
+},
+{
+ "q": 30,
+ "subject": "",
+ "question": "Psycho-social theory of development was propounded by ।विकास का मनोसामाजिक सिद्धान्त का प्रतिपादन किया गया—",
+ "options": ["(a) Thorndike/थॉर्नडाइक ने", "(b) Erykson/एरिक्सन ने", "(c) Skinner/स्किनर ने", "(d) Hurlock/हरलॉक ने"],
+ "answer": 1,
+ "summary": "विकास के मनोसामाजिक सिद्धान्त (Psycho-social theory) का प्रतिपादन एरिक्सन ने किया था।",
+ "mnemonic": "Psycho-social = Erikson"
+},
+{
+ "q": 31,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''बीना'' का तत्सम क्या है?",
+ "options": ["(a) वीणा", "(b) वीना", "(c) वयन", "(d) बयन"],
+ "answer": 0,
+ "summary": "''बीना'' का तत्सम शब्द ''वीणा'' है, जो वाद्ययंत्र का बोध कराता है।",
+ "mnemonic": "Beena ka tatsam = VEENA (vaadya yantra)"
+},
+{
+ "q": 32,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''धुमकेतु'' का पर्यायवाची क्या है?",
+ "options": ["(a) अंगार", "(b) अग्नि", "(c) अरुण", "(d) आकाश"],
+ "answer": 1,
+ "summary": "''धूमकेतु'' का पर्यायवाची शब्द 'अग्नि' है।",
+ "mnemonic": "Dhumketu = Agni ka paryayvachi"
+},
+{
+ "q": 33,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "निम्नलिखित गद्यांश को पढ़कर उत्तर दीजिए।आज विज्ञान मनुष्यों के हाथों में अद्भुत और अतुल शक्ति दे रहा है, इसका उपयोग एक व्यक्ति और समूह के दबाने और दूसरे व्यक्ति और समूह के लिए विकास का अद्भुत अवसर बन सकता है। ........ उपर्युक्त गद्यांश में कौन मनुष्य के हाथों में अद्भुत और अतुल शक्ति दे रहा है?",
+ "options": ["(a) विज्ञान", "(b) साहित्य", "(c) वाणिज्य", "(d) कला"],
+ "answer": 0,
+ "summary": "उपर्युक्त गद्यांश के अनुसार विज्ञान मनुष्य के हाथों में अद्भुत और अतुल शक्ति दे रहा है।",
+ "mnemonic": "Adbhut shakti deta hai = Vigyan"
+},
+{
+ "q": 34,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "कथन-कहानी के लेखक हैं?",
+ "options": ["(a) प्रेमचंद", "(b) जयशंकर प्रसाद", "(c) महादेवी वर्मा", "(d) रामेश्वर पाण्डेय"],
+ "answer": 1,
+ "summary": "''कथन-कहानी के लेखक कथा साहित्य में अपने विशिष्ट हैं'' एक के रूप में।",
+ "mnemonic": "Kathan-kahani = Jaishankar Prasad"
+},
+{
+ "q": 35,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "उचित उदय तिथि मंथ पर पधार बाँ संगीत बिनकेसे संगीत संरोग सरग, हाथों संगीत श्रृंग। उपर्युक्त पंक्ति में अलंकार है—",
+ "options": ["(a) रूपक", "(b) उपमा", "(c) उत्प्रेक्षा", "(d) श्लेषानुप्रास"],
+ "answer": 0,
+ "summary": "उपर्युक्त पंक्ति में रूपक अलंकार है।",
+ "mnemonic": "Yeh pankti = Rupak alankar"
+},
+{
+ "q": 36,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''उससे बैठा नहीं जाता है'' में कौन-सा वाच्य है?",
+ "options": ["(a) भावबाच्य", "(b) कर्मवाच्य", "(c) कर्तृवाच्य", "(d) कर्ता वाच्य"],
+ "answer": 0,
+ "summary": "''उससे बैठा नहीं जाता है'' वाक्य में भाववाच्य है, जिसमें भाव की प्रधानता रहती है।",
+ "mnemonic": "Usse baitha nahi jaata = Bhaavvachya"
+},
+{
+ "q": 37,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''राम धीरे-धीरे पढ़ता है।'' में कौन-सा अव्यय है?",
+ "options": ["(a) सम्बन्धबोधक अव्यय", "(b) क्रियाविशेषण अव्यय", "(c) समुच्चयबोधक अव्यय", "(d) विस्मयादिबोधक अव्यय"],
+ "answer": 1,
+ "summary": "''राम धीरे-धीरे पढ़ता है'' में 'धीरे-धीरे' क्रिया की विशेषता बताने वाला क्रियाविशेषण अव्यय है।",
+ "mnemonic": "Dheere-dheere padhta = Kriyavisheshan avyay"
+},
+{
+ "q": 38,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''हिमालय से गंगा निकलती है'' में किस कारक का प्रयोग हुआ है?",
+ "options": ["(a) अपादान", "(b) कर्म", "(c) करण", "(d) सम्बन्ध"],
+ "answer": 0,
+ "summary": "''हिमालय से गंगा निकलती है'' में जहाँ अलगाव का बोध होता है, वहाँ अपादान कारक होता है।",
+ "mnemonic": "Se nikalti hai (alagav) = Apadan karak"
+},
+{
+ "q": 39,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''वह खेल रहा है'' में किस प्रकार की क्रिया है?",
+ "options": ["(a) अकर्मक", "(b) अप्रत्यय", "(c) सकर्मक", "(d) संयुक्त क्रिया"],
+ "answer": 0,
+ "summary": "''वह खेल रहा है'' में कर्म की आवश्यकता नहीं, अतः यह अकर्मक क्रिया है।",
+ "mnemonic": "Khel raha hai (no karm) = Akarmak kriya"
+},
+{
+ "q": 40,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''चमचमात चंचल नयन बिच घूघट पट छीन। मानहु सुरसरिता विमल जल उछलत जुग मीन।'' इस पंक्ति में कौन-सा अलंकार है?",
+ "options": ["(a) उपमा", "(b) रूपक", "(c) विरोधाभास", "(d) उत्प्रेक्षा"],
+ "answer": 3,
+ "summary": "इस पंक्ति में 'मानहु' शब्द के प्रयोग से उत्प्रेक्षा अलंकार है।",
+ "mnemonic": "'Manhu' aaye = Utpreksha alankar"
+},
+{
+ "q": 41,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''सूरज का सातवाँ घोड़ा'' ''गुनाहों का देवता'' किसकी रचनाएँ हैं?",
+ "options": ["(a) मोहन राकेश", "(b) धर्मवीर भारती", "(c) उपेन्द्र", "(d) धर्मवीर भारती"],
+ "answer": 1,
+ "summary": "''सूरज का सातवाँ घोड़ा'' तथा ''गुनाहों का देवता'' दोनों धर्मवीर भारती की रचनाएँ हैं।",
+ "mnemonic": "Suraj ka satvaan ghoda + Gunahon ka devta = Dharmveer Bharti"
+},
+{
+ "q": 42,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "'व' का उच्चारण स्थान क्या है?",
+ "options": ["(a) दन्तोष्ठ्य", "(b) कण्ठ्य", "(c) दन्त्य", "(d) कण्ठ-तालव्य"],
+ "answer": 0,
+ "summary": "जो ध्वनि दंत और ओष्ठ के सहयोग से उत्पन्न होती है, दन्तोष्ठ्य कहलाती है; 'व' इसका उदाहरण है।",
+ "mnemonic": "'Va' = Dantoshthya (dant + oshth)"
+},
+{
+ "q": 43,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''अग्नि'' का विशेषण क्या है?",
+ "options": ["(a) अग्नि", "(b) आग्नेय", "(c) अग्नेय", "(d) आग"],
+ "answer": 1,
+ "summary": "संज्ञा अथवा सर्वनाम की विशेषता बताने वाले शब्द विशेषण कहलाते हैं; 'अग्नि' का विशेषण 'आग्नेय' है।",
+ "mnemonic": "Agni ka visheshan = Aagneya"
+},
+{
+ "q": 44,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "'तेजाब' में कौन सी संज्ञा है?",
+ "options": ["(a) भाववाचक संज्ञा", "(b) व्यक्तिवाचक संज्ञा", "(c) द्रव्यवाचक संज्ञा", "(d) समूहवाचक संज्ञा"],
+ "answer": 2,
+ "summary": "जिस शब्द से किसी द्रव्य का बोध हो उसे द्रव्यवाचक संज्ञा कहते हैं; तेजाब इसका उदाहरण है।",
+ "mnemonic": "Tezaab (dravya) = Dravyavachak sangya"
+},
+{
+ "q": 45,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "'नाव जल से तैरती है' में कौन-सा कारक है?",
+ "options": ["(a) सम्प्रदान कारक", "(b) सम्बंध कारक", "(c) करण कारक", "(d) अधिकरण कारक"],
+ "answer": 3,
+ "summary": "जिस शब्द से क्रिया का बोध हो, उसे 'अधिकरण कारक' कहते हैं।",
+ "mnemonic": "Naav jal se tairti = Adhikaran karak"
+},
+{
+ "q": 46,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "'महेंद्र' का संधि विच्छेद क्या है?",
+ "options": ["(a) महा + ईन्द्र", "(b) महा + इन्द्र", "(c) मह + इन्द्र", "(d) महा + ईंद्र"],
+ "answer": 1,
+ "summary": "'महेन्द्र' का संधि विच्छेद महा + इन्द्र है; अ या आ के बाद इ या ई हो तो उनके स्थान पर 'ए' होता है (गुण संधि)।",
+ "mnemonic": "Mahendra = Maha + Indra (Gun sandhi)"
+},
+{
+ "q": 47,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "'सेर को सवा सेर' लोकोक्ति का क्या अर्थ है?",
+ "options": ["(a) समानता", "(b) बढ़कर दूसरा", "(c) एक बराबर", "(d) तह करना"],
+ "answer": 1,
+ "summary": "'सेर को सवा सेर' लोकोक्ति का अर्थ है—'एक से बढ़कर दूसरा' अर्थात किसी की समानता या उससे बढ़ा-चढ़ा होना।",
+ "mnemonic": "Ser ko sawa ser = ek se badhkar dusra"
+},
+{
+ "q": 48,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''खाने की इच्छा'' के लिए एक शब्द बताइये।",
+ "options": ["(a) तिथ्या", "(b) भुक्षा", "(c) निरीहा", "(d) क्षुधा"],
+ "answer": 3,
+ "summary": "''खाने की इच्छा'' के लिए एक शब्द 'क्षुधा' है।",
+ "mnemonic": "Khane ki ichchha = Kshudha"
+},
+{
+ "q": 49,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''किंडरगार्टन शिक्षण पद्धति'' के जन्मदाता शिक्षा शास्त्री है—",
+ "options": ["(a) कार्लटन वाशबर्न", "(b) हैबार्ट", "(c) फ्रोबेल", "(d) महात्मा गाँधी"],
+ "answer": 2,
+ "summary": "''किंडरगार्टन शिक्षण पद्धति'' के जन्मदाता जर्मनी के प्रसिद्ध शिक्षाशास्त्री फ्रोबेल हैं।",
+ "mnemonic": "Kindergarten = Froebel"
+},
+{
+ "q": 50,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''प्रथा'' का विलोम शब्द है—",
+ "options": ["(a) अंतिम", "(b) अपर", "(c) प्रशान्त", "(d) अप्रशान्त"],
+ "answer": 1,
+ "summary": "जिस शब्द का अर्थ होता है उल्टा, उसके अर्थ के विपरीत अर्थ प्रकट करने वाले शब्द विलोम कहलाते हैं; 'प्रथा' का विलोम 'अपर' है।",
+ "mnemonic": "Pratha ka vilom = Apar"
+},
+{
+ "q": 51,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "उपचारात्मक शिक्षण में किस अध्यापन प्रक्रिया का प्रयोग अधिक किया जाता है?",
+ "options": ["(a) सामूहिक", "(b) व्यक्तिगत", "(c) चर्चा", "(d) वाचन"],
+ "answer": 1,
+ "summary": "उपचारात्मक शिक्षण में छात्र की कमियों को दूर करने के लिए व्यक्तिगत अध्यापन प्रक्रिया का प्रयोग अधिक किया जाता है।",
+ "mnemonic": "Upcharatmak shikshan = Vyaktigat adhyapan"
+},
+{
+ "q": 52,
+ "subject": "Language-I : Hindi/हिन्दी",
+ "question": "''सखी पिया को जो मैं न देखूँ तो कैसे काटूँ अंधेरी रतियाँ'' किस कवि की रचना पंक्तियाँ हैं?",
+ "options": ["(a) सूरदास", "(b) अमीर खुसरो", "(c) तुलसी", "(d) कबीर"],
+ "answer": 1,
+ "summary": "''सखी पिया को जो मैं न देखूँ ...'' पंक्तियाँ अमीर खुसरो (1253-1325) की रचना हैं।",
+ "mnemonic": "Sakhi piya ko = Amir Khusro"
+}
+]
